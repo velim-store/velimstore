@@ -1,0 +1,617 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <title>Seleção de Jogos Switch</title>
+  <style>
+    :root{
+      --bg:#0b0f14;
+      --card:#121a24;
+      --card2:#0f1620;
+      --text:#e9eef6;
+      --muted:#a9b4c2;
+      --accent:#4da3ff;
+      --danger:#ff5a6a;
+      --ok:#2fd27c;
+
+      --cover-ratio: 3 / 4.2;  /* proporção de capa */
+      --gap:10px;
+      --cols:5; /* 5 por linha */
+    }
+
+    *{ box-sizing:border-box; }
+    body{
+      margin:0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      background:var(--bg);
+      color:var(--text);
+    }
+
+    header{
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: linear-gradient(180deg, rgba(11,15,20,0.98), rgba(11,15,20,0.86));
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+      padding: 12px 12px 10px;
+    }
+
+    .title-row{
+      display:flex;
+      gap:10px;
+      align-items:center;
+      justify-content:space-between;
+      margin-bottom:10px;
+    }
+
+    h1{
+      font-size: 16px;
+      margin: 0;
+      letter-spacing: .2px;
+      font-weight: 700;
+    }
+
+    .pill{
+      font-size: 12px;
+      color: var(--muted);
+      border: 1px solid rgba(255,255,255,0.12);
+      padding: 6px 10px;
+      border-radius: 999px;
+      display:flex;
+      gap:8px;
+      align-items:center;
+      white-space:nowrap;
+    }
+
+    .controls{
+      display:flex;
+      gap:10px;
+      align-items:center;
+    }
+
+    .search{
+      flex: 1;
+      display:flex;
+      gap:10px;
+      align-items:center;
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.10);
+      border-radius: 12px;
+      padding: 10px 10px;
+    }
+    .search input{
+      width: 100%;
+      background: transparent;
+      border: 0;
+      outline: none;
+      color: var(--text);
+      font-size: 14px;
+    }
+    .search input::placeholder{ color: rgba(233,238,246,0.45); }
+
+    .btn{
+      border: 1px solid rgba(255,255,255,0.14);
+      background: rgba(255,255,255,0.06);
+      color: var(--text);
+      padding: 10px 12px;
+      border-radius: 12px;
+      font-weight: 650;
+      font-size: 13px;
+      cursor:pointer;
+    }
+    .btn:active{ transform: translateY(1px); }
+    .btn.primary{
+      border-color: rgba(77,163,255,0.55);
+      background: rgba(77,163,255,0.18);
+    }
+    .btn.danger{
+      border-color: rgba(255,90,106,0.55);
+      background: rgba(255,90,106,0.16);
+    }
+
+    main{
+      padding: 12px 12px 120px;
+    }
+
+    .grid{
+      display:grid;
+      grid-template-columns: repeat(var(--cols), minmax(0, 1fr));
+      gap: var(--gap);
+    }
+
+    .card{
+      user-select:none;
+      border-radius: 12px;
+      overflow:hidden;
+      background: var(--card);
+      border: 1px solid rgba(255,255,255,0.08);
+      box-shadow: 0 6px 18px rgba(0,0,0,0.25);
+      cursor:pointer;
+      position:relative;
+      display:flex;
+      flex-direction:column;
+      min-width:0;
+    }
+
+    .cover{
+      width:100%;
+      aspect-ratio: var(--cover-ratio);
+      background: linear-gradient(180deg, rgba(255,255,255,0.06), rgba(255,255,255,0.02));
+      position:relative;
+      overflow:hidden;
+    }
+
+    .cover img{
+      width:100%;
+      height:100%;
+      object-fit: cover;
+      display:block;
+      transform: scale(1.02);
+    }
+
+    .meta{
+      padding: 8px 8px 10px;
+      background: linear-gradient(180deg, var(--card), var(--card2));
+      display:flex;
+      flex-direction:column;
+      gap:6px;
+      min-height: 56px;
+    }
+
+    .name{
+      font-size: 11px;
+      line-height: 1.1;
+      font-weight: 750;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow:hidden;
+      text-overflow: ellipsis;
+      color: var(--text);
+    }
+
+    .size{
+      font-size: 11px;
+      color: var(--muted);
+      font-weight: 650;
+    }
+
+    .badge{
+      position:absolute;
+      top:8px;
+      left:8px;
+      background: rgba(0,0,0,0.55);
+      color: #fff;
+      border: 1px solid rgba(255,255,255,0.18);
+      border-radius: 999px;
+      padding: 4px 8px;
+      font-size: 11px;
+      font-weight: 800;
+      display:none;
+    }
+
+    .selected{
+      outline: 2px solid rgba(47,210,124,0.85);
+      outline-offset: 0px;
+    }
+    .selected .badge{ display:block; }
+
+    footer{
+      position: fixed;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 30;
+      padding: 10px 12px calc(10px + env(safe-area-inset-bottom));
+      background: linear-gradient(180deg, rgba(11,15,20,0.2), rgba(11,15,20,0.95));
+      border-top: 1px solid rgba(255,255,255,0.08);
+      backdrop-filter: blur(10px);
+    }
+
+    .footer-row{
+      display:flex;
+      gap:10px;
+      align-items:center;
+      justify-content:space-between;
+    }
+
+    .summary{
+      display:flex;
+      flex-direction:column;
+      gap:4px;
+      min-width:0;
+    }
+    .summary .big{
+      font-weight: 900;
+      font-size: 15px;
+    }
+    .summary .small{
+      font-size: 12px;
+      color: var(--muted);
+      white-space:nowrap;
+      overflow:hidden;
+      text-overflow: ellipsis;
+      max-width: 55vw;
+    }
+
+    .footer-actions{
+      display:flex;
+      gap:10px;
+      align-items:center;
+    }
+
+    .toast{
+      position: fixed;
+      left: 12px;
+      right: 12px;
+      bottom: 86px;
+      z-index: 40;
+      padding: 10px 12px;
+      border-radius: 12px;
+      background: rgba(0,0,0,0.7);
+      border: 1px solid rgba(255,255,255,0.14);
+      display:none;
+      font-size: 13px;
+      color: var(--text);
+    }
+    .toast.show{ display:block; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="title-row">
+      <h1>Capas Nintendo Switch (BR) — Seleção</h1>
+      <div class="pill" id="pillInfo">0 selecionados • 0,00 GB</div>
+    </div>
+
+    <div class="controls">
+      <div class="search" role="search">
+        <input id="q" type="search" placeholder="Buscar jogo/app..." autocomplete="off" />
+      </div>
+      <button class="btn danger" id="clearBtn" type="button">Limpar</button>
+    </div>
+  </header>
+
+  <main>
+    <div class="grid" id="grid"></div>
+  </main>
+
+  <footer>
+    <div class="footer-row">
+      <div class="summary">
+        <div class="big" id="sumGB">Total: 0,00 GB</div>
+        <div class="small" id="sumCount">0 itens selecionados</div>
+      </div>
+      <div class="footer-actions">
+        <button class="btn" id="saveLocalBtn" type="button">Salvar no aparelho</button>
+        <button class="btn primary" id="saveSheetsBtn" type="button">Salvar no Sheets</button>
+      </div>
+    </div>
+  </footer>
+
+  <div class="toast" id="toast"></div>
+
+  <script>
+    /***********************************************************
+     *  CONFIG
+     ***********************************************************/
+    const GOOGLE_SHEETS_WEBAPP_URL = "COLE_AQUI_A_URL_DO_SEU_WEBAPP"; // https://script.google.com/macros/s/XXXXX/exec
+    const STORAGE_KEY = "switch_selection_v1";
+
+    /***********************************************************
+     *  DADOS (tamanhos já preenchidos)
+     *  imageUrl: deixe vazio por enquanto ou preencha com link direto.
+     ***********************************************************/
+    const GAMES = [
+      { name: "1-2-Switch", sizeGB: 3.0, imageUrl: "" },
+      { name: "Animal Crossing: New Horizons", sizeGB: 10.0, imageUrl: "" },
+      { name: "Batman: Arkham Trilogy", sizeGB: 40.0, imageUrl: "" },
+      { name: "Crash Bandicoot 4: It’s About Time", sizeGB: 12.0, imageUrl: "" },
+      { name: "Crash Team Racing Nitro-Fueled", sizeGB: 8.0, imageUrl: "" },
+      { name: "Dark Souls Remastered", sizeGB: 6.0, imageUrl: "" },
+      { name: "Diablo III: Eternal Collection", sizeGB: 18.0, imageUrl: "" },
+      { name: "Donkey Kong Country: Tropical Freeze", sizeGB: 6.0, imageUrl: "" },
+      { name: "Donkey Kong Country Returns HD", sizeGB: 8.0, imageUrl: "" },
+      { name: "DOOM Eternal", sizeGB: 50.0, imageUrl: "" },
+      { name: "EA SPORTS FC 25", sizeGB: 30.0, imageUrl: "" },
+      { name: "EA SPORTS FC 26", sizeGB: 30.0, imageUrl: "" },
+      { name: "Everybody 1-2-Switch!", sizeGB: 3.0, imageUrl: "" },
+      { name: "Game Boy – Nintendo Switch Online", sizeGB: 0.2, imageUrl: "" },
+      { name: "Game Boy Advance – Nintendo Switch Online", sizeGB: 0.3, imageUrl: "" },
+      { name: "Hogwarts Legacy", sizeGB: 25.0, imageUrl: "" },
+      { name: "Hollow Knight", sizeGB: 1.0, imageUrl: "" },
+      { name: "Hollow Knight: Silksong", sizeGB: 5.0, imageUrl: "" },
+      { name: "Hyrule Warriors: Age of Calamity", sizeGB: 20.0, imageUrl: "" },
+      { name: "Immortals Fenyx Rising", sizeGB: 30.0, imageUrl: "" },
+      { name: "It Takes Two", sizeGB: 12.0, imageUrl: "" },
+      { name: "LEGO DC Super-Villains", sizeGB: 15.0, imageUrl: "" },
+      { name: "LEGO Harry Potter Collection", sizeGB: 10.0, imageUrl: "" },
+      { name: "LEGO Horizon Adventures", sizeGB: 15.0, imageUrl: "" },
+      { name: "LEGO Jurassic World", sizeGB: 6.0, imageUrl: "" },
+      { name: "LEGO Marvel Super Heroes", sizeGB: 8.0, imageUrl: "" },
+      { name: "LEGO Marvel Super Heroes 2", sizeGB: 19.0, imageUrl: "" },
+      { name: "LEGO NINJAGO Movie Video Game", sizeGB: 8.0, imageUrl: "" },
+      { name: "LEGO Party", sizeGB: 4.0, imageUrl: "" },
+      { name: "Luigi’s Mansion 3", sizeGB: 9.0, imageUrl: "" },
+      { name: "Mario & Luigi: Brothership", sizeGB: 8.0, imageUrl: "" },
+      { name: "Mario Kart 8 Deluxe", sizeGB: 17.0, imageUrl: "" },
+      { name: "Mario Strikers: Battle League", sizeGB: 3.0, imageUrl: "" },
+      { name: "Mario Tennis Aces", sizeGB: 4.0, imageUrl: "" },
+      { name: "Mega Man Battle Network Legacy Collection Vol. 1", sizeGB: 6.0, imageUrl: "" },
+      { name: "Mega Man Battle Network Legacy Collection Vol. 2", sizeGB: 6.0, imageUrl: "" },
+      { name: "Mega Man Legacy Collection", sizeGB: 1.0, imageUrl: "" },
+      { name: "Mega Man Legacy Collection 2", sizeGB: 4.0, imageUrl: "" },
+      { name: "Mega Man X Legacy Collection", sizeGB: 4.0, imageUrl: "" },
+      { name: "Mega Man X Legacy Collection 2", sizeGB: 7.0, imageUrl: "" },
+      { name: "Mega Man Zero/ZX Legacy Collection", sizeGB: 4.0, imageUrl: "" },
+      { name: "Metroid Dread", sizeGB: 5.0, imageUrl: "" },
+      { name: "MGS Master Collection Vol. 1", sizeGB: 25.0, imageUrl: "" },
+      { name: "Minecraft", sizeGB: 2.0, imageUrl: "" },
+      { name: "Minecraft (Nintendo Switch Edition)", sizeGB: 2.0, imageUrl: "" },
+      { name: "Minecraft Legends", sizeGB: 15.0, imageUrl: "" },
+      { name: "Minecraft Story Mode", sizeGB: 3.0, imageUrl: "" },
+      { name: "Monster Hunter Rise", sizeGB: 27.0, imageUrl: "" },
+      { name: "Mortal Kombat 1", sizeGB: 55.0, imageUrl: "" },
+      { name: "New Super Mario Bros. U Deluxe", sizeGB: 3.0, imageUrl: "" },
+      { name: "Ninja Gaiden 3: Razor’s Edge", sizeGB: 6.0, imageUrl: "" },
+      { name: "Ninja Gaiden Sigma", sizeGB: 6.0, imageUrl: "" },
+      { name: "Ninja Gaiden Sigma 2", sizeGB: 7.0, imageUrl: "" },
+      { name: "Nintendo 64 – Nintendo Switch Online", sizeGB: 0.2, imageUrl: "" },
+      { name: "Nintendo Entertainment System – Nintendo Switch Online", sizeGB: 0.1, imageUrl: "" },
+      { name: "Nintendo Switch Sports", sizeGB: 3.0, imageUrl: "" },
+      { name: "Nintendo World Championships: NES Edition", sizeGB: 3.0, imageUrl: "" },
+      { name: "Persona 5 Royal", sizeGB: 13.0, imageUrl: "" },
+      { name: "Pokkén Tournament DX", sizeGB: 4.0, imageUrl: "" },
+      { name: "Pokémon Brilliant Diamond", sizeGB: 7.0, imageUrl: "" },
+      { name: "Pokémon Legends: Arceus", sizeGB: 7.0, imageUrl: "" },
+      { name: "Pokémon Legends: Z‑A", sizeGB: 12.0, imageUrl: "" },
+      { name: "Pokémon Mystery Dungeon: Rescue Team DX", sizeGB: 4.0, imageUrl: "" },
+      { name: "Pokémon Quest", sizeGB: 1.0, imageUrl: "" },
+      { name: "Pokémon Scarlet", sizeGB: 18.0, imageUrl: "" },
+      { name: "Pokémon Shining Pearl", sizeGB: 7.0, imageUrl: "" },
+      { name: "Pokémon Shield", sizeGB: 20.0, imageUrl: "" },
+      { name: "Pokémon Sword", sizeGB: 20.0, imageUrl: "" },
+      { name: "Pokémon: Let’s Go, Eevee!", sizeGB: 4.0, imageUrl: "" },
+      { name: "Pokémon: Let’s Go, Pikachu!", sizeGB: 4.0, imageUrl: "" },
+      { name: "Pokémon Violet", sizeGB: 18.0, imageUrl: "" },
+      { name: "Red Dead Redemption", sizeGB: 12.0, imageUrl: "" },
+      { name: "Resident Evil 0", sizeGB: 13.0, imageUrl: "" },
+      { name: "SEGA Genesis – Nintendo Switch Online", sizeGB: 0.2, imageUrl: "" },
+      { name: "Sifu", sizeGB: 7.0, imageUrl: "" },
+      { name: "Shin Megami Tensei V", sizeGB: 14.0, imageUrl: "" },
+      { name: "Ship of Harkinian (OOT native port)", sizeGB: 0.0, imageUrl: "" },
+      { name: "Sonic Mania", sizeGB: 0.5, imageUrl: "" },
+      { name: "Sonic Racing Cross Worlds", sizeGB: 10.0, imageUrl: "" },
+      { name: "Splatoon 3", sizeGB: 14.0, imageUrl: "" },
+      { name: "Streets of Rage 4", sizeGB: 2.0, imageUrl: "" },
+      { name: "Super Bomberman R", sizeGB: 3.0, imageUrl: "" },
+      { name: "Super Bomberman R2", sizeGB: 8.0, imageUrl: "" },
+      { name: "Super Mario 3D All-Stars", sizeGB: 5.0, imageUrl: "" },
+      { name: "Super Mario 3D World + Bowser’s Fury", sizeGB: 3.0, imageUrl: "" },
+      { name: "Super Mario Bros. Wonder", sizeGB: 4.0, imageUrl: "" },
+      { name: "Super Mario Galaxy™ + Super Mario Galaxy™ 2", sizeGB: 12.0, imageUrl: "" },
+      { name: "Super Mario Odyssey", sizeGB: 6.0, imageUrl: "" },
+      { name: "Super Mario Party Jamboree", sizeGB: 7.0, imageUrl: "" },
+      { name: "Super Mario RPG", sizeGB: 7.0, imageUrl: "" },
+      { name: "Super Nintendo Entertainment System – Nintendo Switch Online", sizeGB: 0.2, imageUrl: "" },
+      { name: "Super Smash Bros. Ultimate", sizeGB: 31.0, imageUrl: "" },
+      { name: "Teenage Mutant Ninja Turtles: Shredder’s Revenge", sizeGB: 2.0, imageUrl: "" },
+      { name: "The Elder Scrolls V: Skyrim", sizeGB: 15.0, imageUrl: "" },
+      { name: "The Legend of Zelda: Breath of the Wild", sizeGB: 17.0, imageUrl: "" },
+      { name: "The Legend of Zelda: Echoes of Wisdom", sizeGB: 7.0, imageUrl: "" },
+      { name: "The Legend of Zelda: Link’s Awakening", sizeGB: 6.0, imageUrl: "" },
+      { name: "The Legend of Zelda: Skyward Sword HD", sizeGB: 8.0, imageUrl: "" },
+      { name: "The Legend of Zelda: Tears of the Kingdom", sizeGB: 18.0, imageUrl: "" },
+      { name: "The Witcher 3: Wild Hunt – Complete Edition", sizeGB: 32.0, imageUrl: "" },
+      { name: "Tomb Raider I–III Remastered", sizeGB: 6.0, imageUrl: "" },
+      { name: "Top Racer Collection", sizeGB: 1.0, imageUrl: "" },
+      { name: "Ultra Street Fighter II: The Final Challengers", sizeGB: 4.0, imageUrl: "" },
+      { name: "Xenoblade Chronicles X: Definitive Edition", sizeGB: 20.0, imageUrl: "" },
+      { name: "YouTube (oficial)", sizeGB: 0.2, imageUrl: "" },
+    ];
+
+    /***********************************************************
+     *  STATE
+     ***********************************************************/
+    const state = { selected: new Set(), query: "" };
+
+    const elGrid = document.getElementById("grid");
+    const elQ = document.getElementById("q");
+    const elSumGB = document.getElementById("sumGB");
+    const elSumCount = document.getElementById("sumCount");
+    const elPillInfo = document.getElementById("pillInfo");
+    const elToast = document.getElementById("toast");
+
+    function showToast(msg){
+      elToast.textContent = msg;
+      elToast.classList.add("show");
+      clearTimeout(showToast._t);
+      showToast._t = setTimeout(()=> elToast.classList.remove("show"), 2200);
+    }
+
+    function formatGB(n){
+      return (Number(n) || 0).toLocaleString("pt-BR", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    }
+
+    function getTotalGB(){
+      let sum = 0;
+      for (const i of state.selected){
+        const size = GAMES[i]?.sizeGB;
+        if (typeof size === "number" && isFinite(size)) sum += size;
+      }
+      return sum;
+    }
+
+    function updateSummary(){
+      const total = getTotalGB();
+      const count = state.selected.size;
+      elSumGB.textContent = `Total: ${formatGB(total)} GB`;
+      elSumCount.textContent = `${count} item(ns) selecionado(s)`;
+      elPillInfo.textContent = `${count} selecionados • ${formatGB(total)} GB`;
+    }
+
+    function placeholderSVG(title){
+      const safe = (title || "Capa").replace(/[<>&"]/g, "");
+      const svg =
+`<svg xmlns="http://www.w3.org/2000/svg" width="600" height="840">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a2a3a"/>
+      <stop offset="1" stop-color="#0f1620"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)"/>
+  <rect x="40" y="40" width="520" height="760" rx="28" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.16)"/>
+  <text x="300" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-weight="800" font-size="42" fill="rgba(233,238,246,0.92)">${safe}</text>
+  <text x="300" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-weight="600" font-size="22" fill="rgba(169,180,194,0.85)">Sem imagem</text>
+</svg>`;
+      return "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svg);
+    }
+
+    function matchesQuery(name, q){
+      if(!q) return true;
+      return name.toLowerCase().includes(q.toLowerCase());
+    }
+
+    function render(){
+      elGrid.innerHTML = "";
+      const q = state.query.trim();
+      const frag = document.createDocumentFragment();
+
+      GAMES.forEach((g, idx) => {
+        if (!matchesQuery(g.name, q)) return;
+
+        const card = document.createElement("div");
+        card.className = "card" + (state.selected.has(idx) ? " selected" : "");
+        card.dataset.index = String(idx);
+
+        const cover = document.createElement("div");
+        cover.className = "cover";
+
+        const badge = document.createElement("div");
+        badge.className = "badge";
+        badge.textContent = "Selecionado";
+
+        const img = document.createElement("img");
+        img.alt = g.name;
+
+        const url = (g.imageUrl && typeof g.imageUrl === "string") ? g.imageUrl.trim() : "";
+        img.src = url || placeholderSVG(g.name);
+        img.onerror = () => { img.src = placeholderSVG(g.name); };
+
+        cover.appendChild(img);
+        cover.appendChild(badge);
+
+        const meta = document.createElement("div");
+        meta.className = "meta";
+
+        const name = document.createElement("div");
+        name.className = "name";
+        name.textContent = g.name;
+
+        const size = document.createElement("div");
+        size.className = "size";
+        size.textContent = `${formatGB(g.sizeGB)} GB`;
+
+        meta.appendChild(name);
+        meta.appendChild(size);
+
+        card.appendChild(cover);
+        card.appendChild(meta);
+
+        card.addEventListener("click", () => toggleSelect(idx));
+
+        frag.appendChild(card);
+      });
+
+      elGrid.appendChild(frag);
+      updateSummary();
+    }
+
+    function toggleSelect(idx){
+      if(state.selected.has(idx)) state.selected.delete(idx);
+      else state.selected.add(idx);
+      render();
+      persistLocal();
+    }
+
+    function persistLocal(){
+      const payload = { selected: Array.from(state.selected), savedAt: new Date().toISOString() };
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(payload));
+    }
+
+    function loadLocal(){
+      try{
+        const raw = localStorage.getItem(STORAGE_KEY);
+        if(!raw) return;
+        const parsed = JSON.parse(raw);
+        if(Array.isArray(parsed.selected)){
+          state.selected = new Set(parsed.selected.filter(n => Number.isInteger(n) && n >= 0 && n < GAMES.length));
+        }
+      }catch(e){}
+    }
+
+    async function saveToSheets(){
+      if(!GOOGLE_SHEETS_WEBAPP_URL || GOOGLE_SHEETS_WEBAPP_URL.includes("COLE_AQUI")){
+        showToast("Configure a URL do Web App do Google Sheets no código.");
+        return;
+      }
+
+      const selectedItems = Array.from(state.selected).map(i => ({
+        name: GAMES[i].name,
+        sizeGB: GAMES[i].sizeGB
+      }));
+
+      const payload = {
+        savedAtISO: new Date().toISOString(),
+        savedAtLocal: new Date().toLocaleString("pt-BR"),
+        totalGB: getTotalGB(),
+        count: selectedItems.length,
+        items: selectedItems
+      };
+
+      try{
+        const res = await fetch(GOOGLE_SHEETS_WEBAPP_URL, {
+          method: "POST",
+          headers: { "Content-Type": "text/plain;charset=utf-8" },
+          body: JSON.stringify(payload)
+        });
+
+        const data = await res.json().catch(()=> ({}));
+        if(!res.ok || data.ok === false){
+          throw new Error(data.error || `Falha ao salvar (${res.status})`);
+        }
+
+        showToast("Salvo no Google Sheets com sucesso.");
+      }catch(err){
+        console.error(err);
+        showToast("Não foi possível salvar no Sheets. Verifique o Web App.");
+      }
+    }
+
+    document.getElementById("clearBtn").addEventListener("click", () => {
+      state.selected.clear();
+      render();
+      persistLocal();
+      showToast("Seleção limpa.");
+    });
+
+    document.getElementById("saveLocalBtn").addEventListener("click", () => {
+      persistLocal();
+      showToast("Salvo no aparelho (localStorage).");
+    });
+
+    document.getElementById("saveSheetsBtn").addEventListener("click", saveToSheets);
+
+    elQ.addEventListener("input", (e) => {
+      state.query = e.target.value || "";
+      render();
+    });
+
+    loadLocal();
+    render();
+  </script>
+</body>
+</html>
