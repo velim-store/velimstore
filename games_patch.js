@@ -13,7 +13,7 @@ export const IMAGE_URL_BY_NAME = {
   "EA SPORTS FC 26": "https://art.gametdb.com/switch/box/US/A6SLA.png",
   "Everybody 1-2-Switch!": "https://art.gametdb.com/switch/box/US/ARGTA.png",
   "Game Boy – Nintendo Switch Online": "https://images.launchbox-app.com/8cbf8dfc-5c07-45e3-bbc7-8d18a661fba1.png",
-  "Game Boy Advance – Nintendo Switch Online": "https://art.gametdb.com/switch/box/US/ATJWD.png",
+  "Game Boy Advance – Nintendo Switch Online": "https://images.launchbox-app.com/ebd96614-f63d-4d12-9b81-41a8d4a2c944.png",
   "Hogwarts Legacy": "https://art.gametdb.com/switch/box/US/AR3XA.png",
   "Hollow Knight": "https://art.gametdb.com/switch/box/US/AKLHA.png",
   "Hollow Knight: Silksong": "https://art.gametdb.com/switch/box/US/AUSUA.png",
