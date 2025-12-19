@@ -612,50 +612,16 @@
     ]
   },
   {
-    "name": "Mega Man Legacy Collection 2",
-    "titleId": "AS4UA",
-    "matchedTitle": "AS4UA - Mega Man Zero ZX Legacy Collection",
-    "matchScore": 67,
-    "region": "US",
-    "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AS4UA.png",
-    "tried": [
-      {
-        "id": "AS4UA",
-        "title": "AS4UA - Mega Man Zero ZX Legacy Collection",
-        "score": 67,
-        "hasCover": true
-      }
-    ]
-  },
-  {
-    "name": "Mega Man X Legacy Collection",
+    "name": "Mega Man X: Legacy Collection 1 + 2 for Nintendo Switch",
     "titleId": "A78VA",
-    "matchedTitle": null,
+    "matchedTitle": "Mega Man X: Legacy Collection 1 + 2 for Nintendo Switch",
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A78VA.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/71WbWu9rBlL._AC_SL1500_.jpg",
     "tried": [
       {
         "id": "A78VA",
-        "title": "",
-        "score": 0,
-        "hasCover": true
-      }
-    ]
-  },
-  {
-    "name": "Mega Man X Legacy Collection 2",
-    "titleId": "AYRGB",
-    "matchedTitle": null,
-    "matchScore": 0,
-    "region": "US",
-    "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AYRGB.png",
-    "tried": [
-      {
-        "id": "AYRGB",
         "title": "",
         "score": 0,
         "hasCover": true
