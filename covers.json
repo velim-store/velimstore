@@ -1293,7 +1293,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/BPEHA.png",
+    "imageUrl": "https://art.gametdb.com/switch/box/EN/AWGWE.png",
     "tried": [
       {
         "id": "BPEHA",
@@ -1310,7 +1310,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A3SYA.png",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AAB8A.png",
     "tried": [
       {
         "id": "A3SYA",
@@ -1327,7 +1327,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/BAFSA.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/91-HgXWeGRL._AC_UF1000,1000_QL80_.jpg",
     "tried": [
       {
         "id": "BAFSA",
@@ -1361,7 +1361,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AXS7A.png",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AUZPA.png",
     "tried": [
       {
         "id": "AXS7A",
@@ -1378,7 +1378,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AH97B.png",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AQMXA.png",
     "tried": [
       {
         "id": "AH97B",
@@ -1389,13 +1389,13 @@
     ]
   },
   {
-    "name": "Super Mario Galaxy™ + Super Mario Galaxy™ 2",
+    "name": "Super Mario Galaxy + Super Mario Galaxy 2",
     "titleId": "ATPMB",
     "matchedTitle": null,
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ATPMB.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/61tLkY3m0OL._AC_SL1000_.jpg",
     "tried": [
       {
         "id": "ATPMB",
@@ -1412,7 +1412,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AQ3SC.png",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AAACA.png",
     "tried": [
       {
         "id": "AQ3SC",
