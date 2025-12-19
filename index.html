@@ -302,7 +302,7 @@
 
     /***********************************************************
      *  DADOS (tamanhos já preenchidos)
-     *  imageUrl: deixe vazio por enquanto ou preencha com link direto.
+     *  imageUrl: agora será preenchido automaticamente via covers.json
      ***********************************************************/
     const GAMES = [
       { name: "1-2-Switch", sizeGB: 3.0, imageUrl: "" },
@@ -411,6 +411,30 @@
       { name: "Xenoblade Chronicles X: Definitive Edition", sizeGB: 20.0, imageUrl: "" },
       { name: "YouTube (oficial)", sizeGB: 0.2, imageUrl: "" },
     ];
+
+    /***********************************************************
+     *  CAPAS: carregar covers.json e preencher g.imageUrl
+     ***********************************************************/
+    async function applyCoversFromJson(){
+      try{
+        const covers = await fetch("./covers.json", { cache: "no-store" }).then(r => {
+          if(!r.ok) throw new Error(`HTTP ${r.status}`);
+          return r.json();
+        });
+
+        const coverByName = Object.create(null);
+        for (const c of covers){
+          if (c?.name) coverByName[c.name] = (c.imageUrl && typeof c.imageUrl === "string") ? c.imageUrl.trim() : "";
+        }
+
+        for (const g of GAMES){
+          const url = coverByName[g.name];
+          if (url) g.imageUrl = url;
+        }
+      }catch(err){
+        console.warn("Não foi possível carregar covers.json (seguindo com placeholders).", err);
+      }
+    }
 
     /***********************************************************
      *  STATE
@@ -610,8 +634,14 @@
       render();
     });
 
-    loadLocal();
-    render();
+    // IMPORTANTE:
+    // - Para o fetch("./covers.json") funcionar, abra via servidor (não file://).
+    //   Ex.: npx serve .   ou   python -m http.server
+    (async () => {
+      loadLocal();
+      await applyCoversFromJson(); // <- aqui preenche imageUrl
+      render();
+    })();
   </script>
 </body>
 </html>
