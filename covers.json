@@ -578,34 +578,17 @@
     ]
   },
   {
-    "name": "Mega Man Battle Network Legacy Collection Vol. 1",
-    "titleId": "A6AKA",
-    "matchedTitle": "A6AKA - Mega Man Battle Network Legacy Collection Vol. 1",
-    "matchScore": 88,
-    "region": "US",
-    "quality": "normal",
-    "imageUrl": "https://m.media-amazon.com/images/I/81z0wzwxt3L._AC_SL1500_.jpg",
-    "tried": [
-      {
-        "id": "A6AKA",
-        "title": "A6AKA - Mega Man Battle Network Legacy Collection Vol. 1",
-        "score": 88,
-        "hasCover": true
-      }
-    ]
-  },
-  {
-    "name": "Mega Man Battle Network Legacy Collection Vol. 2",
-    "titleId": "A6AKA",
-    "matchedTitle": "A6AKA - Mega Man Battle Network Legacy Collection Vol. 2",
+    "name": "Mega Man 11",
+    "titleId": "ALGCA",
+    "matchedTitle": "Mega Man 11",
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A6AKA.png",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ALGCA.png",
     "tried": [
       {
-        "id": "A6AKA",
-        "title": "A6AKA - Mega Man Battle Network Legacy Collection Vol. 2",
+        "id": "ALGCA",
+        "title": "Mega Man 11",
         "score": 650,
         "hasCover": true
       }
