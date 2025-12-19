@@ -597,15 +597,15 @@
   {
     "name": "Mega Man Legacy Collection",
     "titleId": "AS4UA",
-    "matchedTitle": "AS4UA - Mega Man Zero ZX Legacy Collection",
+    "matchedTitle": "Mega Man Legacy Collection",
     "matchScore": 67,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AS4UA.png",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AKRVA.png",
     "tried": [
       {
         "id": "AS4UA",
-        "title": "AS4UA - Mega Man Zero ZX Legacy Collection",
+        "title": "Mega Man Legacy Collection",
         "score": 67,
         "hasCover": true
       }
