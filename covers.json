@@ -805,50 +805,16 @@
     ]
   },
   {
-    "name": "Ninja Gaiden 3: Razor’s Edge",
+    "name": "Ninja Gaiden: Master Collection",
     "titleId": "AT6CB",
     "matchedTitle": null,
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AT6CB.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/614QOEZ8bLL._AC_SL1000_.jpg",
     "tried": [
       {
         "id": "AT6CB",
-        "title": "",
-        "score": 0,
-        "hasCover": true
-      }
-    ]
-  },
-  {
-    "name": "Ninja Gaiden Sigma",
-    "titleId": "BBCHG",
-    "matchedTitle": null,
-    "matchScore": 0,
-    "region": "US",
-    "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/BBCHG.png",
-    "tried": [
-      {
-        "id": "BBCHG",
-        "title": "",
-        "score": 0,
-        "hasCover": true
-      }
-    ]
-  },
-  {
-    "name": "Ninja Gaiden Sigma 2",
-    "titleId": "AMU5A",
-    "matchedTitle": null,
-    "matchScore": 0,
-    "region": "US",
-    "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AMU5A.png",
-    "tried": [
-      {
-        "id": "AMU5A",
         "title": "",
         "score": 0,
         "hasCover": true
