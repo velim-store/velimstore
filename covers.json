@@ -461,11 +461,11 @@
   {
     "name": "LEGO NINJAGO Movie Video Game",
     "titleId": "AJJ7A",
-    "matchedTitle": null,
+    "matchedTitle": "LEGO NINJAGO Movie Video Game",
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AJJ7A.png",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AB4JA.png",
     "tried": [
       {
         "id": "AJJ7A",
