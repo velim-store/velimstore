@@ -580,15 +580,15 @@
   {
     "name": "Mega Man Battle Network Legacy Collection Vol. 1",
     "titleId": "A6AKA",
-    "matchedTitle": "A6AKA - Mega Man Battle Network Legacy Collection Vol. 2",
+    "matchedTitle": "A6AKA - Mega Man Battle Network Legacy Collection Vol. 1",
     "matchScore": 88,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A6AKA.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/81z0wzwxt3L._AC_SL1500_.jpg",
     "tried": [
       {
         "id": "A6AKA",
-        "title": "A6AKA - Mega Man Battle Network Legacy Collection Vol. 2",
+        "title": "A6AKA - Mega Man Battle Network Legacy Collection Vol. 1",
         "score": 88,
         "hasCover": true
       }
