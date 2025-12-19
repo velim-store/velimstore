@@ -188,15 +188,15 @@
   },
   {
     "name": "EA SPORTS FC 26",
-    "titleId": "A6SLA",
-    "matchedTitle": null,
+    "titleId": "BMZ2A",
+    "matchedTitle": "BMZ2A - EA SPORTS FC 26",
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A6SLA.png",
+    "imageUrl": "https://art.gametdb.com/switch/box/DE/BMZ2A.png",
     "tried": [
       {
-        "id": "A6SLA",
+        "id": "BMZ2A",
         "title": "",
         "score": 0,
         "hasCover": true
@@ -223,15 +223,15 @@
   {
     "name": "Game Boy – Nintendo Switch Online",
     "titleId": "A97PA",
-    "matchedTitle": "A97PA - Mario vs. Donkey Kong",
+    "matchedTitle": "Game Boy – Nintendo Switch Online",
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A97PA.png",
+    "imageUrl": "https://images.launchbox-app.com/8cbf8dfc-5c07-45e3-bbc7-8d18a661fba1.png",
     "tried": [
       {
         "id": "A97PA",
-        "title": "A97PA - Mario vs. Donkey Kong",
+        "title": "Game Boy – Nintendo Switch Online",
         "score": 0,
         "hasCover": true
       }
