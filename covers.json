@@ -393,11 +393,11 @@
   {
     "name": "LEGO Horizon Adventures",
     "titleId": "BFESA",
-    "matchedTitle": null,
+    "matchedTitle": "LEGO Horizon Adventures",
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/BFESA.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/81MtfFqZWKL._AC_SY741_.jpg",
     "tried": [
       {
         "id": "BFESA",
