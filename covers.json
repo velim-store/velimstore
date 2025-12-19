@@ -1781,15 +1781,15 @@
   },
   {
     "name": "YouTube (oficial)",
-    "titleId": "BBFDA",
+    "titleId": "ARVHA",
     "matchedTitle": null,
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/BBFDA.png",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ARVHA.png",
     "tried": [
       {
-        "id": "BBFDA",
+        "id": "ARVHA",
         "title": "",
         "score": 0,
         "hasCover": true
