@@ -404,6 +404,7 @@
       { name: "Batman: Arkham Trilogy", sizeGB: 40.0, imageUrl: "" },
       { name: "Crash Bandicoot 4: It’s About Time", sizeGB: 12.0, imageUrl: "" },
       { name: "Crash Team Racing Nitro-Fueled", sizeGB: 8.0, imageUrl: "" },
+      { name: "Cuphead", sizeGB: 5.0, imageUrl: "" },
       { name: "Dark Souls Remastered", sizeGB: 6.0, imageUrl: "" },
       { name: "Diablo III: Eternal Collection", sizeGB: 18.0, imageUrl: "" },
       { name: "Donkey Kong Country: Tropical Freeze", sizeGB: 6.0, imageUrl: "" },
@@ -430,6 +431,7 @@
       { name: "LEGO Marvel Super Heroes 2", sizeGB: 19.0, imageUrl: "" },
       { name: "LEGO NINJAGO Movie Video Game", sizeGB: 8.0, imageUrl: "" },
       { name: "LEGO Party", sizeGB: 4.0, imageUrl: "" },
+      { name: "Limbo", sizeGB: 1.0, imageUrl: "" },
       { name: "Luigis Mansion 2 HD", sizeGB: 4.0, imageUrl: "" },
       { name: "Luigi’s Mansion 3", sizeGB: 9.0, imageUrl: "" },
       { name: "Mario & Luigi: Brothership", sizeGB: 8.0, imageUrl: "" },
@@ -693,7 +695,7 @@
           // Preserva os índices gravados antes das novas inserções.
           // Primeiro aplica a migração antiga de FC 25; depois resolve o nome
           // pela ordem anterior (sem os cinco jogos novos).
-          const inserted = new Set(["Horizon Chase 2","Horizon Chase Turbo","Luigis Mansion 2 HD","Paper Mario - The Origami King","Paper Mario - The Thousand-Year Door","Mortal Kombat Legacy Kollection","Street Fighter - 30th Anniversary Collection"]);
+          const inserted = new Set(["Horizon Chase 2","Horizon Chase Turbo","Luigis Mansion 2 HD","Paper Mario - The Origami King","Paper Mario - The Thousand-Year Door","Mortal Kombat Legacy Kollection","Street Fighter - 30th Anniversary Collection","Cuphead","Limbo"]);
           const previousGames = GAMES.filter(g => !inserted.has(g.name));
           state.selected = new Set(parsed.selected
             .map(i => i === 10 ? -1 : i === 11 ? 10 : i)

@@ -85,6 +85,16 @@
     ]
   },
   {
+    "name": "Cuphead",
+    "titleId": "ASVUG",
+    "matchedTitle": "Cuphead",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://s.pacn.ws/1/p/14u/cuphead-physical-edition-735281.7.jpg?v=rjmbun",
+    "tried": []
+  },
+  {
     "name": "Dark Souls Remastered",
     "titleId": "AK63B",
     "matchedTitle": "AK63B - Dark Souls - Remastered",
@@ -504,6 +514,16 @@
         "hasCover": true
       }
     ]
+  },
+  {
+    "name": "Limbo",
+    "titleId": "",
+    "matchedTitle": "Limbo",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://images.launchbox-app.com/172fb281-2df1-4125-8fdf-d0efa5e1da39.jpg",
+    "tried": []
   },
   {
     "name": "Luigis Mansion 2 HD",
