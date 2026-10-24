@@ -110,6 +110,18 @@
       border-color: rgba(255,90,106,0.55);
       background: rgba(255,90,106,0.16);
     }
+    .btn:disabled{
+      cursor: wait;
+      opacity: 0.9;
+    }
+    .btn.success{
+      border-color: rgba(47,210,124,0.75);
+      background: rgba(47,210,124,0.25);
+    }
+    .btn.error{
+      border-color: rgba(255,90,106,0.75);
+      background: rgba(255,90,106,0.25);
+    }
 
     main{
       padding: 12px 12px 120px;
@@ -258,6 +270,14 @@
       color: var(--text);
     }
     .toast.show{ display:block; }
+    .toast.success{
+      border-color: rgba(47,210,124,0.65);
+      background: rgba(12,56,36,0.96);
+    }
+    .toast.error{
+      border-color: rgba(255,90,106,0.65);
+      background: rgba(78,20,29,0.96);
+    }
   </style>
 </head>
 <body>
@@ -286,13 +306,12 @@
         <div class="small" id="sumCount">0 itens selecionados</div>
       </div>
       <div class="footer-actions">
-        <button class="btn" id="saveLocalBtn" type="button">Salvar no aparelho</button>
-        <button class="btn primary" id="saveSheetsBtn" type="button">Salvar no Sheets</button>
+        <button class="btn primary" id="saveSheetsBtn" type="button">Salvar lista de jogos</button>
       </div>
     </div>
   </footer>
 
-  <div class="toast" id="toast"></div>
+  <div class="toast" id="toast" role="status" aria-live="polite" aria-atomic="true"></div>
 
   <script>
     /***********************************************************
@@ -444,11 +463,13 @@
     const elPillInfo = document.getElementById("pillInfo");
     const elToast = document.getElementById("toast");
 
-    function showToast(msg){
+    function showToast(msg, type = ""){
       elToast.textContent = msg;
+      elToast.classList.remove("success", "error");
+      if(type) elToast.classList.add(type);
       elToast.classList.add("show");
       clearTimeout(showToast._t);
-      showToast._t = setTimeout(()=> elToast.classList.remove("show"), 2200);
+      showToast._t = setTimeout(()=> elToast.classList.remove("show", "success", "error"), 4500);
     }
 
     function formatGB(n){
@@ -592,6 +613,11 @@
         items: selectedItems
       };
 
+      const saveButton = document.getElementById("saveSheetsBtn");
+      saveButton.disabled = true;
+      saveButton.textContent = "Salvando...";
+      saveButton.classList.remove("success", "error");
+
       try{
         const res = await fetch(GOOGLE_SHEETS_WEBAPP_URL, {
           method: "POST",
@@ -604,10 +630,20 @@
           throw new Error(data.error || `Falha ao salvar (${res.status})`);
         }
 
-        showToast("Salvo no Google Sheets com sucesso.");
+        saveButton.textContent = "✓ Lista salva!";
+        saveButton.classList.add("success");
+        showToast("Lista de jogos salva com sucesso!", "success");
       }catch(err){
         console.error(err);
-        showToast("Não foi possível salvar no Sheets. Verifique o Web App.");
+        saveButton.textContent = "Falha ao salvar";
+        saveButton.classList.add("error");
+        showToast("Não foi possível salvar a lista. Tente novamente.", "error");
+      }finally{
+        setTimeout(() => {
+          saveButton.disabled = false;
+          saveButton.textContent = "Salvar lista de jogos";
+          saveButton.classList.remove("success", "error");
+        }, 4000);
       }
     }
 
@@ -616,11 +652,6 @@
       render();
       persistLocal();
       showToast("Seleção limpa.");
-    });
-
-    document.getElementById("saveLocalBtn").addEventListener("click", () => {
-      persistLocal();
-      showToast("Salvo no aparelho (localStorage).");
     });
 
     document.getElementById("saveSheetsBtn").addEventListener("click", saveToSheets);
