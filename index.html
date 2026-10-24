@@ -218,6 +218,12 @@
       object-fit: cover;
       object-position: center;
     }
+    /* Capa física frontal do Switch 1: recorta só o fundo branco da foto de loja. */
+    .cover img.mk-legacy-physical-case{
+      object-fit: cover;
+      object-position: 52% center;
+      transform: scale(1.10);
+    }
 
     .meta{
       padding: 8px 8px 10px;
@@ -617,6 +623,9 @@
         }
         if (g.name === "Horizon Chase Turbo") {
           img.classList.add("horizon-chase-turbo-case");
+        }
+        if (g.name === "Mortal Kombat Legacy Kollection") {
+          img.classList.add("mk-legacy-physical-case");
         }
 
         const url = (g.imageUrl && typeof g.imageUrl === "string") ? g.imageUrl.trim() : "";
