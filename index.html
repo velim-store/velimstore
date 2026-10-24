@@ -127,6 +127,50 @@
       padding: 12px 12px 120px;
     }
 
+    .instructions{
+      margin-bottom: 14px;
+      padding: 14px;
+      border: 1px solid rgba(77,163,255,0.25);
+      border-radius: 12px;
+      background: rgba(77,163,255,0.08);
+    }
+    .instructions h2{
+      margin: 0 0 10px;
+      color: var(--text);
+      font-size: 14px;
+      font-weight: 750;
+    }
+    .instructions ol{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    .instructions li{
+      display: flex;
+      align-items: flex-start;
+      gap: 9px;
+      flex: 1 1 240px;
+      font-size: 13px;
+      line-height: 1.45;
+      color: var(--muted);
+    }
+    .step-number{
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      flex: 0 0 24px;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      background: rgba(77,163,255,0.20);
+      color: var(--accent);
+      font-size: 12px;
+      font-weight: 800;
+    }
+
     .grid{
       display:grid;
       grid-template-columns: repeat(var(--cols), minmax(0, 1fr));
@@ -296,6 +340,19 @@
   </header>
 
   <main>
+    <section class="instructions" aria-labelledby="howToUseTitle">
+      <h2 id="howToUseTitle">Como usar o site</h2>
+      <ol>
+        <li>
+          <span class="step-number" aria-hidden="true">1</span>
+          <span>Selecione os jogos de sua escolha até o limite de espaço do seu cartão de memória.</span>
+        </li>
+        <li>
+          <span class="step-number" aria-hidden="true">2</span>
+          <span>Clique em <strong>Salvar lista de jogos</strong> para salvar sua seleção.</span>
+        </li>
+      </ol>
+    </section>
     <div class="grid" id="grid"></div>
   </main>
 
