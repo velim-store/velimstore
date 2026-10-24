@@ -170,23 +170,6 @@
     ]
   },
   {
-    "name": "EA SPORTS FC 25",
-    "titleId": "BFY6A",
-    "matchedTitle": "BFY6A - EA SPORTS FC 25",
-    "matchScore": 650,
-    "region": "US",
-    "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/BFY6A.png",
-    "tried": [
-      {
-        "id": "BFY6A",
-        "title": "BFY6A - EA SPORTS FC 25",
-        "score": 650,
-        "hasCover": true
-      }
-    ]
-  },
-  {
     "name": "EA SPORTS FC 26",
     "titleId": "BMZ2A",
     "matchedTitle": "BMZ2A - EA SPORTS FC 26",
@@ -202,6 +185,16 @@
         "hasCover": true
       }
     ]
+  },
+  {
+    "name": "EA SPORTS FC 27",
+    "titleId": "",
+    "matchedTitle": "EA SPORTS FC 27 – Nintendo Switch (capa física frontal)",
+    "matchScore": 0,
+    "region": "EU",
+    "quality": "normal",
+    "imageUrl": "https://alloswitch.ma/cdn/shop/files/EA_Sports_FC_27_Switch.webp?v=1784913061&width=3840",
+    "tried": []
   },
   {
     "name": "Everybody 1-2-Switch!",

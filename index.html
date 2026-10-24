@@ -213,6 +213,11 @@
       transform: scale(1.04);
       background: #0f1620;
     }
+    /* A imagem de loja do FC 27 é quadrada; enquadramos só a caixa frontal. */
+    .cover img.fc27-front-case{
+      object-fit: cover;
+      object-position: center;
+    }
 
     .meta{
       padding: 8px 8px 10px;
@@ -398,8 +403,8 @@
       { name: "Donkey Kong Country: Tropical Freeze", sizeGB: 6.0, imageUrl: "" },
       { name: "Donkey Kong Country Returns HD", sizeGB: 8.0, imageUrl: "" },
       { name: "DOOM Eternal", sizeGB: 50.0, imageUrl: "" },
-      { name: "EA SPORTS FC 25", sizeGB: 30.0, imageUrl: "" },
       { name: "EA SPORTS FC 26", sizeGB: 30.0, imageUrl: "" },
+      { name: "EA SPORTS FC 27", sizeGB: 30.0, imageUrl: "" },
       { name: "Everybody 1-2-Switch!", sizeGB: 3.0, imageUrl: "" },
       { name: "Game Boy – Nintendo Switch Online", sizeGB: 0.2, imageUrl: "" },
       { name: "Game Boy Advance – Nintendo Switch Online", sizeGB: 0.3, imageUrl: "" },
@@ -603,6 +608,9 @@
         if (g.name === "Hollow Knight: Silksong") {
           img.classList.add("silksong-front-case");
         }
+        if (g.name === "EA SPORTS FC 27") {
+          img.classList.add("fc27-front-case");
+        }
 
         const url = (g.imageUrl && typeof g.imageUrl === "string") ? g.imageUrl.trim() : "";
         img.src = url || placeholderSVG(g.name);
@@ -645,7 +653,13 @@
     }
 
     function persistLocal(){
-      const payload = { selected: Array.from(state.selected), savedAt: new Date().toISOString() };
+      // Nomes preservam as seleções quando há inclusões ou remoções no catálogo.
+      const selected = Array.from(state.selected);
+      const payload = {
+        selected,
+        selectedNames: selected.map(i => GAMES[i].name),
+        savedAt: new Date().toISOString()
+      };
       localStorage.setItem(STORAGE_KEY, JSON.stringify(payload));
     }
 
@@ -654,8 +668,17 @@
         const raw = localStorage.getItem(STORAGE_KEY);
         if(!raw) return;
         const parsed = JSON.parse(raw);
-        if(Array.isArray(parsed.selected)){
-          state.selected = new Set(parsed.selected.filter(n => Number.isInteger(n) && n >= 0 && n < GAMES.length));
+        const indexByName = new Map(GAMES.map((g, i) => [g.name, i]));
+        if(Array.isArray(parsed.selectedNames)){
+          state.selected = new Set(parsed.selectedNames
+            .map(name => indexByName.get(name))
+            .filter(Number.isInteger));
+        } else if(Array.isArray(parsed.selected)){
+          // Compatibilidade com as seleções anteriores à remoção de FC 25:
+          // FC 25 era índice 10 (removido); FC 26 era índice 11 (agora é 10).
+          state.selected = new Set(parsed.selected
+            .map(i => i === 10 ? -1 : i === 11 ? 10 : i)
+            .filter(i => Number.isInteger(i) && i >= 0 && i < GAMES.length));
         }
       }catch(e){}
     }
