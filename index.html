@@ -213,11 +213,6 @@
       transform: scale(1.04);
       background: #0f1620;
     }
-    /* A imagem de loja do FC 27 é quadrada; enquadramos só a caixa frontal. */
-    .cover img.fc27-front-case{
-      object-fit: cover;
-      object-position: center;
-    }
 
     .meta{
       padding: 8px 8px 10px;
@@ -607,9 +602,6 @@
         img.alt = g.name;
         if (g.name === "Hollow Knight: Silksong") {
           img.classList.add("silksong-front-case");
-        }
-        if (g.name === "EA SPORTS FC 27") {
-          img.classList.add("fc27-front-case");
         }
 
         const url = (g.imageUrl && typeof g.imageUrl === "string") ? g.imageUrl.trim() : "";
