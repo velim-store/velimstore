@@ -224,6 +224,11 @@
       object-position: 52% center;
       transform: scale(1.10);
     }
+    /* Limbo: cobre os 300:485 da caixa sem cortar a moldura do mockup original. */
+    .cover img.limbo-ratio-fixed{
+      object-fit: fill;
+      transform: none;
+    }
 
     .meta{
       padding: 8px 8px 10px;
@@ -628,6 +633,9 @@
         }
         if (g.name === "Mortal Kombat Legacy Kollection") {
           img.classList.add("mk-legacy-physical-case");
+        }
+        if (g.name === "Limbo") {
+          img.classList.add("limbo-ratio-fixed");
         }
 
         const url = (g.imageUrl && typeof g.imageUrl === "string") ? g.imageUrl.trim() : "";
