@@ -206,6 +206,11 @@
       transform: none;       /* antes estava scale(1.02), isso também “corta” visualmente */
       background: #0f1620;   /* cor nas “bordas” caso sobrem barras */
     }
+    /* Recorta somente o fundo branco externo da foto frontal do Silksong. */
+    .cover img.silksong-front-case{
+      object-fit: cover;
+      object-position: center;
+    }
 
     .meta{
       padding: 8px 8px 10px;
@@ -593,6 +598,9 @@
 
         const img = document.createElement("img");
         img.alt = g.name;
+        if (g.name === "Hollow Knight: Silksong") {
+          img.classList.add("silksong-front-case");
+        }
 
         const url = (g.imageUrl && typeof g.imageUrl === "string") ? g.imageUrl.trim() : "";
         img.src = url || placeholderSVG(g.name);
