@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 970" width="600" height="970" role="img" aria-labelledby="title desc">
+<title id="title">LIMBO — mockup de caixa Nintendo Switch 1</title>
+<desc id="desc">Capa ilustrativa não oficial, em estilo caixa física de Switch 1, com garoto numa floresta enevoada e silhueta de aranha.</desc>
+<defs>
+  <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+    <stop stop-color="#020304"/><stop offset=".38" stop-color="#0b0c0e"/>
+    <stop offset=".66" stop-color="#4b4b4b"/><stop offset=".83" stop-color="#9b9b9b"/>
+    <stop offset="1" stop-color="#0a0a0a"/>
+  </linearGradient>
+  <linearGradient id="fog" x1="0" y1="0" x2="0" y2="1">
+    <stop stop-color="#dadada" stop-opacity="0"/><stop offset=".53" stop-color="#bcbcbc" stop-opacity=".24"/>
+    <stop offset=".78" stop-color="#d8d8d8" stop-opacity=".57"/><stop offset="1" stop-color="#161616" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="case" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#f4f4f4"/><stop offset=".05" stop-color="#a3a5a8"/><stop offset=".12" stop-color="#eeeeee"/>
+    <stop offset=".87" stop-color="#cecece"/><stop offset=".94" stop-color="#ffffff"/><stop offset="1" stop-color="#777"/>
+  </linearGradient>
+  <linearGradient id="reflection" x1="0" y1="0" x2=".5" y2="1">
+    <stop stop-color="#fff" stop-opacity=".22"/><stop offset=".2" stop-color="#fff" stop-opacity=".07"/>
+    <stop offset=".5" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="switchRed" x1="0" y1="0" x2="1" y2=".5">
+    <stop stop-color="#f51620"/><stop offset="1" stop-color="#df0611"/>
+  </linearGradient>
+  <radialGradient id="softFog" cx=".48" cy=".75" r=".42">
+    <stop stop-color="#e3e3e3" stop-opacity=".53"/><stop offset="1" stop-color="#cccccc" stop-opacity="0"/>
+  </radialGradient>
+  <clipPath id="artClip"><rect x="19" y="19" width="562" height="932" rx="3"/></clipPath>
+  <filter id="mistBlur"><feGaussianBlur stdDeviation="21"/></filter>
+</defs>
+<!-- Clear plastic case with highlights -->
+<rect x="3" y="3" width="594" height="964" rx="18" fill="url(#case)"/>
+<rect x="9" y="8" width="582" height="954" rx="13" fill="#d8d8d8"/>
+<rect x="15" y="15" width="572" height="943" rx="8" fill="#454545"/>
+<g clip-path="url(#artClip)">
+  <rect x="19" y="19" width="562" height="932" fill="url(#paper)"/>
+  <!-- Mist and silhouettes -->
+  <g opacity=".65" fill="#08090a">
+    <path d="M85 420 L86 730 74 730 78 425 67 329 88 389 92 291 101 394 114 360Z"/>
+    <path d="M164 344 L167 751 152 749 158 375 144 305 162 342 170 247 171 375 188 329Z"/>
+    <path d="M260 369 L264 721 251 727 253 375 242 317 260 354 276 293 267 393 286 359Z"/>
+    <path d="M351 345 L349 691 342 688 347 348 330 297 352 336 365 261 356 373 376 340Z"/>
+    <path d="M537 380 L529 745 520 744 525 393 514 324 540 368 547 297 536 407 551 378Z"/>
+  </g>
+  <g opacity=".26" stroke="#c6c6c6" fill="none">
+    <path d="M94 388 Q100 485 83 608"/><path d="M191 314 Q198 480 188 657"/>
+    <path d="M312 400 Q307 511 313 626"/><path d="M425 364 Q412 458 423 587"/>
+  </g>
+  <ellipse cx="292" cy="730" rx="300" ry="241" fill="url(#softFog)" filter="url(#mistBlur)"/>
+  <rect x="19" y="485" width="562" height="370" fill="url(#fog)"/>
+  <!-- Spider, framed by darkness and subtle atmospheric silhouette -->
+  <g fill="#070809" stroke="#070809" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="516" cy="564" rx="87" ry="93"/>
+    <ellipse cx="451" cy="582" rx="34" ry="40"/>
+    <path d="M477 560 C431 527 408 558 393 601" stroke-width="22" fill="none"/>
+    <path d="M477 580 C417 573 408 620 369 655" stroke-width="21" fill="none"/>
+    <path d="M490 593 C438 617 409 704 392 816" stroke-width="20" fill="none"/>
+    <path d="M516 616 C491 671 479 738 472 861" stroke-width="23" fill="none"/>
+    <path d="M541 594 C569 633 565 740 580 818" stroke-width="20" fill="none"/>
+    <path d="M555 558 C582 531 593 550 602 569" stroke-width="17" fill="none"/>
+    <path d="M422 563 C399 493 369 468 329 430" stroke-width="18" fill="none"/>
+    <path d="M378 472 L327 451 308 514" stroke-width="12" fill="none"/>
+    <path d="M397 603 L343 639 321 750" stroke-width="15" fill="none"/>
+    <path d="M411 650 L383 700 360 849" stroke-width="12" fill="none"/>
+  </g>
+  <!-- Boy on dark earth -->
+  <path d="M20 787 Q102 759 143 784 Q203 771 255 786 Q338 766 401 782 Q491 752 581 783 L581 951 L19 951Z" fill="#050606"/>
+  <g stroke="#0a0b0b" stroke-linecap="round" stroke-linejoin="round" fill="#050606">
+    <path d="M247 739 Q235 730 239 719 Q244 695 264 694 Q286 695 290 716 Q290 731 274 740Z" stroke-width="2"/>
+    <path d="M253 732 Q245 745 249 781 L274 781 275 738Z"/>
+    <path d="M256 777 L250 817 244 824" stroke-width="11" fill="none"/>
+    <path d="M270 777 L280 813 288 818" stroke-width="11" fill="none"/>
+    <path d="M250 750 L232 773" stroke-width="9" fill="none"/>
+    <path d="M274 748 L291 766" stroke-width="9" fill="none"/>
+  </g>
+  <circle cx="281" cy="717" r="2.6" fill="#eeeeee"/>
+  <!-- Tall grass blades -->
+  <g stroke="#161818" stroke-linecap="round" opacity=".93">
+    <path d="M20 828 L51 751 M36 844 L72 761 M96 834 L85 754 M128 833 L150 772 M164 833 L144 755 M199 831 L220 763 M306 837 L327 760 M350 836 L365 745 M402 842 L425 768 M459 834 L452 755 M499 840 L532 760 M554 839 L565 781" stroke-width="3"/>
+    <path d="M20 850 L32 791 M75 842 L61 785 M169 839 L185 779 M229 842 L208 802 M309 849 L296 796 M394 853 L384 783 M509 844 L482 799 M575 842 L558 792" stroke-width="2"/>
+  </g>
+  <!-- Cover title with subtle shadow -->
+  <text x="306" y="343" font-size="110" font-weight="900" font-stretch="condensed" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" fill="#d6d6d6" opacity=".25" letter-spacing="2">LIMBO</text>
+  <text x="306" y="336" font-size="110" font-weight="900" font-stretch="condensed" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" fill="#fcfcfc" letter-spacing="2">LIMBO</text>
+  <!-- Switch 1 physical packaging, red spine and top-left brand -->
+  <rect x="19" y="19" width="21" height="932" fill="url(#switchRed)"/>
+  <rect x="19" y="19" width="170" height="160" fill="url(#switchRed)"/>
+  <path d="M97 37 C97 32 103 29 108 29 H119 V116 H108 C101 116 97 111 97 105Z" fill="none" stroke="#fff" stroke-width="7"/>
+  <path d="M130 29 H140 C148 29 151 35 151 42 V103 C151 111 147 116 140 116 H130Z" fill="#fff"/>
+  <circle cx="112" cy="56" r="6" fill="#fff"/>
+  <circle cx="136" cy="87" r="6" fill="#e20a15"/>
+  <text x="104" y="140" text-anchor="middle" font-size="15" font-family="Arial,sans-serif" letter-spacing="2" font-weight="800" fill="#fff">NINTENDO</text>
+  <text x="104" y="160" text-anchor="middle" font-size="19" font-family="Arial,sans-serif" letter-spacing="1" font-weight="900" fill="#fff">SWITCH</text>
+  <!-- Rating badge and developer logo -->
+  <rect x="49" y="831" width="82" height="104" fill="#fff" stroke="#0a0a0a" stroke-width="4"/>
+  <rect x="53" y="835" width="74" height="17" fill="#fff" stroke="#0a0a0a" stroke-width="1.5"/>
+  <text x="90" y="850" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#111">TEEN</text>
+  <text x="90" y="913" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="64" font-weight="900" fill="#111">T</text>
+  <rect x="53" y="915" width="74" height="16" fill="#111"/>
+  <text x="90" y="928" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="900" letter-spacing="2" fill="#fff">ESRB</text>
+  <text x="562" y="918" text-anchor="end" font-family="Impact, Arial Black, sans-serif" font-size="31" font-weight="900" fill="#f0f0f0">PLAYDEAD</text>
+  <rect x="19" y="19" width="562" height="932" fill="url(#reflection)" pointer-events="none"/>
+</g>
+<!-- Edges and glossy case rim -->
+<rect x="18" y="17" width="564" height="934" rx="3" fill="none" stroke="#f4f4f4" stroke-width="3" opacity=".62"/>
+<path d="M13 28 Q13 12 30 12 H570 Q587 12 587 28 V941 Q587 958 570 958 H29 Q13 958 13 941Z" fill="none" stroke="#fff" stroke-opacity=".65" stroke-width="5"/>
+<path d="M11 32 V930" stroke="#fff" stroke-opacity=".62" stroke-width="3"/>
+<path d="M589 45 V917" stroke="#fff" stroke-opacity=".74" stroke-width="4"/>
+</svg>

@@ -521,8 +521,8 @@
     "matchedTitle": "Limbo",
     "matchScore": 0,
     "region": "US",
-    "quality": "normal",
-    "imageUrl": "https://images.launchbox-app.com/172fb281-2df1-4125-8fdf-d0efa5e1da39.jpg",
+    "quality": "mockup",
+    "imageUrl": "./assets/limbo-switch-1-box-mockup.svg",
     "tried": []
   },
   {
