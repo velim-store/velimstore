@@ -218,11 +218,6 @@
       object-fit: cover;
       object-position: center;
     }
-    /* Ajusta imagens de lojas para mostrar a caixa frontal inteira, sem faixas brancas largas. */
-    .cover img.fighting-game-case{
-      object-fit: cover;
-      object-position: center;
-    }
 
     .meta{
       padding: 8px 8px 10px;
@@ -622,10 +617,6 @@
         }
         if (g.name === "Horizon Chase Turbo") {
           img.classList.add("horizon-chase-turbo-case");
-        }
-        if (g.name === "Mortal Kombat Legacy Kollection" ||
-            g.name === "Street Fighter - 30th Anniversary Collection") {
-          img.classList.add("fighting-game-case");
         }
 
         const url = (g.imageUrl && typeof g.imageUrl === "string") ? g.imageUrl.trim() : "";
