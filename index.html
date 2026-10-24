@@ -213,6 +213,11 @@
       transform: scale(1.04);
       background: #0f1620;
     }
+    /* Recorta apenas as margens externas da foto quadrada do Horizon Chase Turbo. */
+    .cover img.horizon-chase-turbo-case{
+      object-fit: cover;
+      object-position: center;
+    }
 
     .meta{
       padding: 8px 8px 10px;
@@ -406,6 +411,8 @@
       { name: "Hogwarts Legacy", sizeGB: 25.0, imageUrl: "" },
       { name: "Hollow Knight", sizeGB: 1.0, imageUrl: "" },
       { name: "Hollow Knight: Silksong", sizeGB: 5.0, imageUrl: "" },
+      { name: "Horizon Chase 2", sizeGB: 4.0, imageUrl: "" },
+      { name: "Horizon Chase Turbo", sizeGB: 1.0, imageUrl: "" },
       { name: "Hyrule Warriors: Age of Calamity", sizeGB: 20.0, imageUrl: "" },
       { name: "Immortals Fenyx Rising", sizeGB: 30.0, imageUrl: "" },
       { name: "It Takes Two", sizeGB: 12.0, imageUrl: "" },
@@ -417,6 +424,7 @@
       { name: "LEGO Marvel Super Heroes 2", sizeGB: 19.0, imageUrl: "" },
       { name: "LEGO NINJAGO Movie Video Game", sizeGB: 8.0, imageUrl: "" },
       { name: "LEGO Party", sizeGB: 4.0, imageUrl: "" },
+      { name: "Luigis Mansion 2 HD", sizeGB: 4.0, imageUrl: "" },
       { name: "Luigi’s Mansion 3", sizeGB: 9.0, imageUrl: "" },
       { name: "Mario & Luigi: Brothership", sizeGB: 8.0, imageUrl: "" },
       { name: "Mario Kart 8 Deluxe", sizeGB: 17.0, imageUrl: "" },
@@ -440,6 +448,8 @@
       { name: "Nintendo Entertainment System – Nintendo Switch Online", sizeGB: 0.1, imageUrl: "" },
       { name: "Nintendo Switch Sports", sizeGB: 3.0, imageUrl: "" },
       { name: "Nintendo World Championships: NES Edition", sizeGB: 3.0, imageUrl: "" },
+      { name: "Paper Mario - The Origami King", sizeGB: 7.0, imageUrl: "" },
+      { name: "Paper Mario - The Thousand-Year Door", sizeGB: 6.0, imageUrl: "" },
       { name: "Persona 5 Royal", sizeGB: 13.0, imageUrl: "" },
       { name: "Pokkén Tournament DX", sizeGB: 4.0, imageUrl: "" },
       { name: "Pokémon Brilliant Diamond", sizeGB: 7.0, imageUrl: "" },
@@ -603,6 +613,9 @@
         if (g.name === "Hollow Knight: Silksong") {
           img.classList.add("silksong-front-case");
         }
+        if (g.name === "Horizon Chase Turbo") {
+          img.classList.add("horizon-chase-turbo-case");
+        }
 
         const url = (g.imageUrl && typeof g.imageUrl === "string") ? g.imageUrl.trim() : "";
         img.src = url || placeholderSVG(g.name);
@@ -666,11 +679,15 @@
             .map(name => indexByName.get(name))
             .filter(Number.isInteger));
         } else if(Array.isArray(parsed.selected)){
-          // Compatibilidade com as seleções anteriores à remoção de FC 25:
-          // FC 25 era índice 10 (removido); FC 26 era índice 11 (agora é 10).
+          // Preserva os índices gravados antes das novas inserções.
+          // Primeiro aplica a migração antiga de FC 25; depois resolve o nome
+          // pela ordem anterior (sem os cinco jogos novos).
+          const inserted = new Set(["Horizon Chase 2","Horizon Chase Turbo","Luigis Mansion 2 HD","Paper Mario - The Origami King","Paper Mario - The Thousand-Year Door"]);
+          const previousGames = GAMES.filter(g => !inserted.has(g.name));
           state.selected = new Set(parsed.selected
             .map(i => i === 10 ? -1 : i === 11 ? 10 : i)
-            .filter(i => Number.isInteger(i) && i >= 0 && i < GAMES.length));
+            .map(i => i < 0 ? undefined : indexByName.get(previousGames[i]?.name))
+            .filter(Number.isInteger));
         }
       }catch(e){}
     }

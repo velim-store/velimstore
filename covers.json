@@ -299,6 +299,26 @@
     ]
   },
   {
+    "name": "Horizon Chase 2",
+    "titleId": "",
+    "matchedTitle": "Horizon Chase 2",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://s.pacn.ws/1/p/14l/horizon-chase-2-730843.7.jpg?v=rhgfm0",
+    "tried": []
+  },
+  {
+    "name": "Horizon Chase Turbo",
+    "titleId": "",
+    "matchedTitle": "Horizon Chase Turbo",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://media.gamestop.com/i/gamestop/11094683/Horizon-Chase-Turbo",
+    "tried": []
+  },
+  {
     "name": "Hyrule Warriors: Age of Calamity",
     "titleId": "AXEAB",
     "matchedTitle": "AXEAB - Hyrule Warriors: Age of Calamity",
@@ -480,6 +500,23 @@
       {
         "id": "BPRGA",
         "title": "BPRGA - LEGO Party!",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Luigis Mansion 2 HD",
+    "titleId": "BANRA",
+    "matchedTitle": "Luigis Mansion 2 HD",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/BANRA.png",
+    "tried": [
+      {
+        "id": "BANRA",
+        "title": "Luigis Mansion 2 HD",
         "score": 650,
         "hasCover": true
       }
@@ -877,6 +914,40 @@
       {
         "id": "A82CA",
         "title": "A82CA - Nintendo World Championships: NES Edition",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Paper Mario - The Origami King",
+    "titleId": "ARUUA",
+    "matchedTitle": "Paper Mario - The Origami King",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ARUUA.png",
+    "tried": [
+      {
+        "id": "ARUUA",
+        "title": "Paper Mario - The Origami King",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Paper Mario - The Thousand-Year Door",
+    "titleId": "A9QDA",
+    "matchedTitle": "Paper Mario - The Thousand-Year Door",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/A9QDA.png",
+    "tried": [
+      {
+        "id": "A9QDA",
+        "title": "Paper Mario - The Thousand-Year Door",
         "score": 650,
         "hasCover": true
       }
