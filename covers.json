@@ -818,6 +818,16 @@
     ]
   },
   {
+    "name": "Mortal Kombat Legacy Kollection",
+    "titleId": "BNMGA",
+    "matchedTitle": "Mortal Kombat Legacy Kollection",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://cdn.awsli.com.br/2500x2500/524/524499/produto/378188471/mortal-kombat-legacy-kollection-nintendo-switch-us-site-ih04ntpbb5.jpg",
+    "tried": []
+  },
+  {
     "name": "New Super Mario Bros. U Deluxe",
     "titleId": "ADALA",
     "matchedTitle": "ADALA - New Super Mario Bros. U Deluxe",
@@ -1349,6 +1359,16 @@
         "hasCover": true
       }
     ]
+  },
+  {
+    "name": "Street Fighter - 30th Anniversary Collection",
+    "titleId": "AK6JA",
+    "matchedTitle": "Street Fighter - 30th Anniversary Collection",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://rihappy.vtexassets.com/arquivos/ids/9776088/17727129098644.jpg?v=639084031213200000",
+    "tried": []
   },
   {
     "name": "Streets of Rage 4",

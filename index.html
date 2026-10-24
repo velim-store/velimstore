@@ -218,6 +218,11 @@
       object-fit: cover;
       object-position: center;
     }
+    /* Ajusta imagens de lojas para mostrar a caixa frontal inteira, sem faixas brancas largas. */
+    .cover img.fighting-game-case{
+      object-fit: cover;
+      object-position: center;
+    }
 
     .meta{
       padding: 8px 8px 10px;
@@ -442,6 +447,7 @@
       { name: "Minecraft Story Mode", sizeGB: 3.0, imageUrl: "" },
       { name: "Monster Hunter Rise", sizeGB: 27.0, imageUrl: "" },
       { name: "Mortal Kombat 1", sizeGB: 55.0, imageUrl: "" },
+      { name: "Mortal Kombat Legacy Kollection", sizeGB: 12.0, imageUrl: "" },
       { name: "New Super Mario Bros. U Deluxe", sizeGB: 3.0, imageUrl: "" },
       { name: "Ninja Gaiden: Master Collection", sizeGB: 6.0, imageUrl: "" },
       { name: "Nintendo 64 – Nintendo Switch Online", sizeGB: 0.2, imageUrl: "" },
@@ -473,6 +479,7 @@
       { name: "Sonic Mania", sizeGB: 0.5, imageUrl: "" },
       { name: "Sonic Racing Cross Worlds", sizeGB: 10.0, imageUrl: "" },
       { name: "Splatoon 3", sizeGB: 14.0, imageUrl: "" },
+      { name: "Street Fighter - 30th Anniversary Collection", sizeGB: 6.0, imageUrl: "" },
       { name: "Streets of Rage 4", sizeGB: 2.0, imageUrl: "" },
       { name: "Super Bomberman R", sizeGB: 3.0, imageUrl: "" },
       { name: "Super Bomberman R2", sizeGB: 8.0, imageUrl: "" },
@@ -616,6 +623,10 @@
         if (g.name === "Horizon Chase Turbo") {
           img.classList.add("horizon-chase-turbo-case");
         }
+        if (g.name === "Mortal Kombat Legacy Kollection" ||
+            g.name === "Street Fighter - 30th Anniversary Collection") {
+          img.classList.add("fighting-game-case");
+        }
 
         const url = (g.imageUrl && typeof g.imageUrl === "string") ? g.imageUrl.trim() : "";
         img.src = url || placeholderSVG(g.name);
@@ -682,7 +693,7 @@
           // Preserva os índices gravados antes das novas inserções.
           // Primeiro aplica a migração antiga de FC 25; depois resolve o nome
           // pela ordem anterior (sem os cinco jogos novos).
-          const inserted = new Set(["Horizon Chase 2","Horizon Chase Turbo","Luigis Mansion 2 HD","Paper Mario - The Origami King","Paper Mario - The Thousand-Year Door"]);
+          const inserted = new Set(["Horizon Chase 2","Horizon Chase Turbo","Luigis Mansion 2 HD","Paper Mario - The Origami King","Paper Mario - The Thousand-Year Door","Mortal Kombat Legacy Kollection","Street Fighter - 30th Anniversary Collection"]);
           const previousGames = GAMES.filter(g => !inserted.has(g.name));
           state.selected = new Set(parsed.selected
             .map(i => i === 10 ? -1 : i === 11 ? 10 : i)
