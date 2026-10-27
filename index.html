@@ -190,6 +190,11 @@
       flex-direction:column;
       min-width:0;
     }
+    /* Mobile: metade do arredondamento das molduras das capas (12px -> 6px).
+       No desktop mantém o estilo padrão de 12px. */
+    @media (max-width: 767px){
+      .card{ border-radius: 6px; }
+    }
 
     .cover{
       width:100%;
