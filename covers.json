@@ -86,8 +86,8 @@
     "matchedTitle": "Bayonetta 2",
     "matchScore": 0,
     "region": "US",
-    "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AE98A.png",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/09/bayonetta-2.webp",
     "tried": []
   },
   {
@@ -280,8 +280,8 @@
     "matchedTitle": "Danganronpa Decadence",
     "matchScore": 0,
     "region": "US",
-    "quality": "capa-fisica-referencia",
-    "imageUrl": "https://i5.walmartimages.com/seo/Danganronpa-Decadence-Spike-Chunsoft-Nintendo-Switch-811800030230_b88f295c-d7f7-447c-99fa-7209fb449adb.0ba7e147bc3a4b289452ef3e46584985.jpeg?odnBg=FFFFFF&odnHeight=768&odnWidth=768",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://m.media-amazon.com/images/I/71z2Ci07D+L._AC_UF1000,1000_QL80_.jpg",
     "tried": []
   },
   {
@@ -344,8 +344,8 @@
     "matchedTitle": "Disney Classic Games Aladdin and The Lion King - Jungle Book",
     "matchScore": 0,
     "region": "US",
-    "quality": "mockup-provisorio",
-    "imageUrl": "./assets/catalogo/disney-classic-games-aladdin-and-the-lion-king-jungle-book.svg",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://m.media-amazon.com/images/I/81hvTNlSLGL._AC_UF1000,1000_QL80_.jpg",
     "tried": []
   },
   {
@@ -354,8 +354,8 @@
     "matchedTitle": "Disney Epic Mickey Rebrushed",
     "matchScore": 0,
     "region": "US",
-    "quality": "capa-fisica-referencia",
-    "imageUrl": "https://www.gamehouz.com/6076-large_default/switch-disney-epic-mickey-rebrushed-as-engchn.jpg",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2025/12/Disney_Epic_Mickey_Rebrushed.webp",
     "tried": []
   },
   {
@@ -455,8 +455,8 @@
     "matchedTitle": "Dragon Ball Z Kakarot + A New Power Awakens Set",
     "matchScore": 0,
     "region": "US",
-    "quality": "capa-frontal-referencia",
-    "imageUrl": "https://junix.cl/cdn/shop/files/024_e30bfca0-5af6-4dc4-ae84-047c3aeb57b7.png?v=1714248263",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/01/Dragon-Ball-Z-Kakarot-A-New-Power-Awakens-Set.jpeg",
     "tried": []
   },
   {
@@ -465,8 +465,8 @@
     "matchedTitle": "BMZ2A - EA SPORTS FC 26",
     "matchScore": 0,
     "region": "US",
-    "quality": "normal",
-    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_618024-CBT94168882178_102025-T.webp",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/04/EA-SPORTS-FC-26.webp",
     "tried": [
       {
         "id": "BMZ2A",
