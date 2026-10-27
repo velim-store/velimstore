@@ -468,13 +468,13 @@
 
     <div class="storage-indicator" aria-label="Ocupação do cartão de memória">
       <div class="storage-indicator-info">
-        <span class="storage-card-label" id="storageCard">Cartão necessário: 128 GB</span>
-        <span class="storage-indicator-usage" id="storageUsage">0,00 / 128 GB (0%)</span>
+        <span class="storage-card-label" id="storageCard">Cartão necessário: 64 GB</span>
+        <span class="storage-indicator-usage" id="storageUsage">0,00 / 64 GB (0%)</span>
       </div>
       <div class="storage-track" id="storageTrack" role="progressbar"
            aria-label="Ocupação estimada do cartão recomendado"
-           aria-valuemin="0" aria-valuemax="128" aria-valuenow="0"
-           aria-valuetext="0,00 GB de 128 GB">
+           aria-valuemin="0" aria-valuemax="64" aria-valuenow="0"
+           aria-valuetext="0,00 GB de 64 GB">
         <div class="storage-fill" id="storageFill"></div>
       </div>
     </div>
@@ -810,6 +810,7 @@
 
     // Limites práticos (GB) mantêm uma margem para a capacidade utilizável.
     const MEMORY_CARDS = [
+      {label:"64 GB", capacityGB:64, limitGB:58},
       {label:"128 GB", capacityGB:128, limitGB:125},
       {label:"256 GB", capacityGB:256, limitGB:250},
       {label:"512 GB", capacityGB:512, limitGB:500},
