@@ -240,6 +240,15 @@
       object-position: center;
       transform: none;
     }
+    .cover img.castlevania-dominus-front{
+      /* A imagem da loja contém faixas brancas laterais: ocupar a altura da caixa
+         e cortar as laterais externas sem deformar a ilustração. */
+      width:100%;
+      height:100%;
+      object-fit:cover;
+      object-position:center center;
+      transform:none;
+    }
 
     .meta{
       padding: 8px 8px 10px;
@@ -769,6 +778,9 @@
         }
         if (RETAIL_CASE_TITLES.has(g.name)) {
           img.classList.add("retail-front-case");
+        }
+        if (g.name === "Castlevania Dominus Collection") {
+          img.classList.add("castlevania-dominus-front");
         }
 
         const url = (g.imageUrl && typeof g.imageUrl === "string") ? g.imageUrl.trim() : "";
