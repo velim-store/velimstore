@@ -1273,23 +1273,6 @@
     ]
   },
   {
-    "name": "Minecraft (Nintendo Switch Edition)",
-    "titleId": "AEUCA",
-    "matchedTitle": "AEUCA - Minecraft",
-    "matchScore": 25,
-    "region": "US",
-    "quality": "normal",
-    "imageUrl": "https://images.cgames.de/images/gsgp/4/minecraft-nintendo-switch-edition_2797352.jpg",
-    "tried": [
-      {
-        "id": "AEUCA",
-        "title": "AEUCA - Minecraft",
-        "score": 25,
-        "hasCover": true
-      }
-    ]
-  },
-  {
     "name": "Minecraft Legends",
     "titleId": "AZJ4A",
     "matchedTitle": "AZJ4A - Minecraft Legends",
