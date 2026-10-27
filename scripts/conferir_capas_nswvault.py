@@ -97,7 +97,8 @@ def scan(entry):
     name=entry["name"]
     # O caminho é derivado do título da página, nunca da URL da imagem.
     # As URLs de imagens vêm exclusivamente do HTML real da página consultada.
-    page=PAGE_ROOT + slug(name) + ".html"
+    aliases={"Hades II": "hades-2", "Trials Rising [NSP]": "trials-rising"}
+    page=PAGE_ROOT + slug(aliases.get(name,name)) + ".html"
     session=requests.Session()
     try:
         r=session.get(page,headers=HEADERS,timeout=15)

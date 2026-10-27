@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - '.github/workflows/conferir-capas-nswvault.yml'
+      - 'scripts/conferir_capas_nswvault.py'
   workflow_dispatch:
 permissions:
   contents: write
