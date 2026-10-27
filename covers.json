@@ -1412,8 +1412,8 @@
     "matchedTitle": "NAMCO Museum Archive Vol 1",
     "matchScore": 0,
     "region": "US",
-    "quality": "mockup-provisorio",
-    "imageUrl": "./assets/catalogo/namco-museum-archive-vol-1.svg",
+    "quality": "capa-amazon-indicada",
+    "imageUrl": "https://m.media-amazon.com/images/I/81sM+uoww+L.jpg",
     "tried": []
   },
   {
@@ -1422,8 +1422,8 @@
     "matchedTitle": "NAMCO Museum Archive Vol 2",
     "matchScore": 0,
     "region": "US",
-    "quality": "mockup-provisorio",
-    "imageUrl": "./assets/catalogo/namco-museum-archive-vol-2.svg",
+    "quality": "capa-amazon-indicada",
+    "imageUrl": "https://m.media-amazon.com/images/I/81AqlXDJUOL.jpg",
     "tried": []
   },
   {
