@@ -224,6 +224,11 @@
       object-position: 52% center;
       transform: scale(1.10);
     }
+    /* Fotos quadradas de caixas Switch 1: preenchem o card, removendo apenas as faixas laterais. */
+    .cover img.catalog-square-front{
+      object-fit: cover;
+      object-position: center;
+    }
     /* Limbo: cobre os 300:485 da caixa sem cortar a moldura do mockup original. */
     .cover img.limbo-ratio-fixed{
       object-fit: fill;
@@ -412,7 +417,6 @@
     const GAMES = [
       { name: "1-2-Switch", sizeGB: 1.39, imageUrl: "" },
       { name: "Animal Crossing: New Horizons", sizeGB: 10.82, imageUrl: "" },
-      { name: "Arcade Archives Collection for Nintendo Switch", sizeGB: 21.91, imageUrl: "" },
       { name: "Astral Chain", sizeGB: 9.82, imageUrl: "" },
       { name: "Atari 50 The Anniversary Celebration", sizeGB: 13.39, imageUrl: "" },
       { name: "Batman: Arkham Trilogy", sizeGB: 49.38, imageUrl: "" },
@@ -753,6 +757,14 @@
         }
         if (g.name === "Mortal Kombat Legacy Kollection") {
           img.classList.add("mk-legacy-physical-case");
+        }
+        if (g.name === "Dragon Ball FighterZ" ||
+            g.name === "Dragon Ball Z Kakarot + A New Power Awakens Set" ||
+            g.name === "Marvel vs Capcom Fighting Collection Arcade Classics" ||
+            g.name === "My Sims Cozy Bundle" ||
+            g.name === "Grounded" ||
+            g.name === "Mega Man Legacy Collection 2") {
+          img.classList.add("catalog-square-front");
         }
         if (g.name === "Limbo") {
           img.classList.add("limbo-ratio-fixed");
