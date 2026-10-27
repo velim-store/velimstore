@@ -276,6 +276,15 @@
       object-position: center top;
       transform: none;
     }
+    /* Transformers Battlegrounds: ocupa a altura até o topo e corta
+       as bordas brancas laterais mantendo a proporção original. */
+    .cover img.transformers-battlegrounds-front{
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center top;
+      transform: none;
+    }
 
     .meta{
       padding: 8px 8px 10px;
@@ -813,6 +822,9 @@
         }
         if (g.name === "Nintendo Entertainment System – Nintendo Switch Online") {
           img.classList.add("nes-switch-online-front");
+        }
+        if (g.name === "Transformers Battlegrounds") {
+          img.classList.add("transformers-battlegrounds-front");
         }
 
         const url = (g.imageUrl && typeof g.imageUrl === "string") ? g.imageUrl.trim() : "";

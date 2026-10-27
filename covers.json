@@ -2632,8 +2632,8 @@
     "matchedTitle": "Transformers Battlegrounds",
     "matchScore": 0,
     "region": "US",
-    "quality": "mockup-provisorio",
-    "imageUrl": "./assets/catalogo/transformers-battlegrounds.svg",
+    "quality": "capa-amazon-indicada",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81T9bJ-XSDL._AC_UL600_SR600,600_.jpg",
     "tried": []
   },
   {
@@ -2642,8 +2642,8 @@
     "matchedTitle": "Transformers Earthspark Expedition",
     "matchScore": 0,
     "region": "US",
-    "quality": "mockup-provisorio",
-    "imageUrl": "./assets/catalogo/transformers-earthspark-expedition.svg",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXuqbyJv_50oxv2GzqZGUgEC3mZEYw2e3_sssSKLWGUNT9F_a9QLhZ31g&s=10",
     "tried": []
   },
   {
