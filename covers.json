@@ -1427,6 +1427,16 @@
     "tried": []
   },
   {
+    "name": "Naruto Shippuden Ultimate Ninja Storm 4 Road to Boruto",
+    "titleId": "",
+    "matchedTitle": "Naruto Shippuden Ultimate Ninja Storm 4 Road to Boruto",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-mercadolivre-indicada",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_723691-MLA99853450425_112025-F.webp",
+    "tried": []
+  },
+  {
     "name": "Naruto Shippuden Ultimate Ninja Storm Trilogy",
     "titleId": "",
     "matchedTitle": "Naruto Shippuden Ultimate Ninja Storm Trilogy",
@@ -2654,16 +2664,6 @@
     "region": "US",
     "quality": "mockup-provisorio",
     "imageUrl": "./assets/catalogo/trials-rising-nsp.svg",
-    "tried": []
-  },
-  {
-    "name": "ULTIMATE NINJA STORM 4 ROAD TO BORUTO",
-    "titleId": "",
-    "matchedTitle": "ULTIMATE NINJA STORM 4 ROAD TO BORUTO",
-    "matchScore": 0,
-    "region": "US",
-    "quality": "mockup-provisorio",
-    "imageUrl": "./assets/catalogo/ultimate-ninja-storm-4-road-to-boruto.svg",
     "tried": []
   },
   {

@@ -545,6 +545,7 @@
       { name: "NAMCO Museum Arcade Pac", sizeGB: 1.36, imageUrl: "" },
       { name: "NAMCO Museum Archive Vol 1", sizeGB: 0.056640625, imageUrl: "" },
       { name: "NAMCO Museum Archive Vol 2", sizeGB: 0.048828125, imageUrl: "" },
+      { name: "Naruto Shippuden Ultimate Ninja Storm 4 Road to Boruto", sizeGB: 12.25, imageUrl: "" },
       { name: "Naruto Shippuden Ultimate Ninja Storm Trilogy", sizeGB: 17.63, imageUrl: "" },
       { name: "Naruto x Boruto Ultimate Ninja Storm Connections", sizeGB: 16.64, imageUrl: "" },
       { name: "Need for Speed Hot Pursuit Remastered", sizeGB: 8.46, imageUrl: "" },
@@ -631,7 +632,6 @@
       { name: "Transformers Earthspark Expedition", sizeGB: 3, imageUrl: "" },
       { name: "Transformers Galactic Trials", sizeGB: 3.43, imageUrl: "" },
       { name: "Trials Rising [NSP]", sizeGB: 10.15, imageUrl: "" },
-      { name: "ULTIMATE NINJA STORM 4 ROAD TO BORUTO", sizeGB: 12.25, imageUrl: "" },
       { name: "Ultra Street Fighter II: The Final Challengers", sizeGB: 2.77, imageUrl: "" },
       { name: "Unravel Two", sizeGB: 2.77, imageUrl: "" },
       { name: "WRC 10", sizeGB: 14.07, imageUrl: "" },
@@ -869,6 +869,8 @@
             return [indexByName.get("Pokémon FireRed and LeafGreen")];
           if (name === "My Universe Series for Nintendo Switch")
             return [indexByName.get("My Universe - Pet Clinic Cats and Dogs")];
+          if (name === "ULTIMATE NINJA STORM 4 ROAD TO BORUTO")
+            return [indexByName.get("Naruto Shippuden Ultimate Ninja Storm 4 Road to Boruto")];
           return [indexByName.get(name)];
         };
         if (Array.isArray(parsed.selectedNames)) {
