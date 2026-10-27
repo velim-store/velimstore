@@ -1,0 +1,33 @@
+name: Conferir capas NSWVault
+on:
+  push:
+    paths:
+      - '.github/workflows/conferir-capas-nswvault.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Dependências
+        run: python -m pip install --quiet requests pillow
+      - name: Buscar e validar capas
+        run: python scripts/conferir_capas_nswvault.py
+      - name: Publicar resultados no catálogo e relatório
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add covers.json relatorios/varredura-nswvault-2026-10-26.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Verifica capas no NSWVault e substitui mockups confirmadas"
+            git push
+          fi
