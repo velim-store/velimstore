@@ -267,6 +267,15 @@
       object-position: center center;
       transform: none;
     }
+    /* Nintendo Entertainment System Online: mantém o topo, ocupa a altura
+       e recorta as faixas laterais sem distorcer a proporção da imagem. */
+    .cover img.nes-switch-online-front{
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center top;
+      transform: none;
+    }
 
     .meta{
       padding: 8px 8px 10px;
@@ -801,6 +810,9 @@
         }
         if (g.name === "Trial Rising") {
           img.classList.add("trial-rising-front");
+        }
+        if (g.name === "Nintendo Entertainment System – Nintendo Switch Online") {
+          img.classList.add("nes-switch-online-front");
         }
 
         const url = (g.imageUrl && typeof g.imageUrl === "string") ? g.imageUrl.trim() : "";
