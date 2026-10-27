@@ -536,9 +536,7 @@
       { name: "New Super Mario Bros. U Deluxe", sizeGB: 2.51, imageUrl: "" },
       { name: "NieR Automata The End of YoRHa Edition", sizeGB: 10.91, imageUrl: "" },
       { name: "Nine Sols", sizeGB: 2.71, imageUrl: "" },
-      { name: "Ninja Gaiden 3 Razors Edge", sizeGB: 3.83, imageUrl: "" },
-      { name: "Ninja Gaiden Sigma", sizeGB: 3.28, imageUrl: "" },
-      { name: "Ninja Gaiden Sigma 2", sizeGB: 4.02, imageUrl: "" },
+      { name: "Ninja Gaiden - Master Collection", sizeGB: 11.13, imageUrl: "" },
       { name: "Nintendo 64 – Nintendo Switch Online", sizeGB: 2.34, imageUrl: "" },
       { name: "Nintendo Entertainment System – Nintendo Switch Online", sizeGB: 0.137880859, imageUrl: "" },
       { name: "Nintendo Switch Sports", sizeGB: 3.24, imageUrl: "" },
@@ -549,8 +547,7 @@
       { name: "Paper Mario - The Thousand-Year Door", sizeGB: 6, imageUrl: "" },
       { name: "Persona 5 Royal", sizeGB: 14.22, imageUrl: "" },
       { name: "Pokémon Brilliant Diamond", sizeGB: 6.84, imageUrl: "" },
-      { name: "Pokemon Fire Red", sizeGB: 0.032636719, imageUrl: "" },
-      { name: "Pokemon Leaf Green", sizeGB: 0.032392578, imageUrl: "" },
+      { name: "Pokémon FireRed and LeafGreen", sizeGB: 0.065029296875, imageUrl: "" },
       { name: "Pokémon Legends: Arceus", sizeGB: 6.1, imageUrl: "" },
       { name: "Pokémon Legends: Z‑A", sizeGB: 4.06, imageUrl: "" },
       { name: "Pokémon Mystery Dungeon: Rescue Team DX", sizeGB: 2.15, imageUrl: "" },
@@ -565,7 +562,7 @@
       { name: "Pokkén Tournament DX", sizeGB: 4.03, imageUrl: "" },
       { name: "Power Rangers Battle for the Grid", sizeGB: 1.85, imageUrl: "" },
       { name: "Prince of Persia the Lost Crown", sizeGB: 7.97, imageUrl: "" },
-      { name: "Rayman", sizeGB: 3.54, imageUrl: "" },
+      { name: "Rayman: 30th Anniversary Edition", sizeGB: 3.54, imageUrl: "" },
       { name: "Rayman Legends Definitive Edition", sizeGB: 2.96, imageUrl: "" },
       { name: "Red Dead Redemption", sizeGB: 11.61, imageUrl: "" },
       { name: "Resident Evil 0", sizeGB: 13.53, imageUrl: "" },
@@ -763,7 +760,8 @@
             g.name === "Marvel vs Capcom Fighting Collection Arcade Classics" ||
             g.name === "My Sims Cozy Bundle" ||
             g.name === "Grounded" ||
-            g.name === "Mega Man Legacy Collection 2") {
+            g.name === "Mega Man Legacy Collection 2" ||
+            g.name === "Ninja Gaiden - Master Collection") {
           img.classList.add("catalog-square-front");
         }
         if (g.name === "Limbo") {
@@ -835,8 +833,15 @@
         const indicesOf = (name) => {
           if (name === "Mega Man X: Legacy Collection 1 + 2 for Nintendo Switch")
             return ["Mega Man X Legacy Collection", "Mega Man X Legacy Collection 2"].map(n => indexByName.get(n));
-          if (name === "Ninja Gaiden: Master Collection")
-            return ["Ninja Gaiden 3 Razors Edge", "Ninja Gaiden Sigma", "Ninja Gaiden Sigma 2"].map(n => indexByName.get(n));
+          if (name === "Ninja Gaiden: Master Collection" ||
+              name === "Ninja Gaiden 3 Razors Edge" ||
+              name === "Ninja Gaiden Sigma" ||
+              name === "Ninja Gaiden Sigma 2")
+            return [indexByName.get("Ninja Gaiden - Master Collection")];
+          if (name === "Rayman")
+            return [indexByName.get("Rayman: 30th Anniversary Edition")];
+          if (name === "Pokemon Fire Red" || name === "Pokemon Leaf Green")
+            return [indexByName.get("Pokémon FireRed and LeafGreen")];
           return [indexByName.get(name)];
         };
         if (Array.isArray(parsed.selectedNames)) {

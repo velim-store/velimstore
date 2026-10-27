@@ -684,8 +684,8 @@
     "matchedTitle": "Hot Wheels Monster Trucks Stunt Mayhem",
     "matchScore": 0,
     "region": "US",
-    "quality": "mockup-provisorio",
-    "imageUrl": "./assets/catalogo/hot-wheels-monster-trucks-stunt-mayhem.svg",
+    "quality": "capa-coolshop-pesquisada",
+    "imageUrl": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/23N7GC/2f7edd5-b41a4e69879075e6c8b5f97c.png/f/hot-wheels-monster-trucks-stunt-mayhem.png?borderless=1&height=484&transparent=1",
     "tried": []
   },
   {
@@ -951,8 +951,8 @@
     "matchedTitle": "Let's Sing 2025",
     "matchScore": 0,
     "region": "US",
-    "quality": "mockup-provisorio",
-    "imageUrl": "./assets/catalogo/let-s-sing-2025.svg",
+    "quality": "capa-coolshop-pesquisada",
+    "imageUrl": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/23NZ7M/7a0098b09fcf4849953b8acaf566a967.jpg/f/lets-sing-2025.jpg?borderless=1&height=484&transparent=1",
     "tried": []
   },
   {
@@ -1538,33 +1538,13 @@
     "tried": []
   },
   {
-    "name": "Ninja Gaiden 3 Razors Edge",
+    "name": "Ninja Gaiden - Master Collection",
     "titleId": "",
-    "matchedTitle": "Ninja Gaiden 3 Razors Edge",
+    "matchedTitle": "Ninja Gaiden - Master Collection",
     "matchScore": 0,
     "region": "US",
-    "quality": "capa-fisica-referencia",
-    "imageUrl": "https://pg-cdn-a2.datacaciques.com/00/MjgyMTIy/21/11/06/7p06g77u2d9mr83b/171f81cb67d7853a.jpeg",
-    "tried": []
-  },
-  {
-    "name": "Ninja Gaiden Sigma",
-    "titleId": "",
-    "matchedTitle": "Ninja Gaiden Sigma",
-    "matchScore": 0,
-    "region": "US",
-    "quality": "capa-fisica-referencia",
-    "imageUrl": "https://pg-cdn-a2.datacaciques.com/00/MjgyMTIy/21/11/06/7p06g77u2d9mr83b/171f81cb67d7853a.jpeg",
-    "tried": []
-  },
-  {
-    "name": "Ninja Gaiden Sigma 2",
-    "titleId": "",
-    "matchedTitle": "Ninja Gaiden Sigma 2",
-    "matchScore": 0,
-    "region": "US",
-    "quality": "capa-fisica-referencia",
-    "imageUrl": "https://pg-cdn-a2.datacaciques.com/00/MjgyMTIy/21/11/06/7p06g77u2d9mr83b/171f81cb67d7853a.jpeg",
+    "quality": "capa-pacote-amazon",
+    "imageUrl": "https://m.media-amazon.com/images/I/614QOEZ8bLL._AC_SL1000_.jpg",
     "tried": []
   },
   {
@@ -1641,8 +1621,8 @@
     "matchedTitle": "Ori and the Blind Forest Definitive Edition",
     "matchScore": 0,
     "region": "US",
-    "quality": "capa-fisica-referencia",
-    "imageUrl": "https://cdn.awsli.com.br/800x800/53/53761/produto/79737086/c2b8bbe78d.jpg",
+    "quality": "capa-nswvault-indicada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/10/ori-and-the-blind-forest-definitive-edition-720x1178.webp",
     "tried": []
   },
   {
@@ -1724,23 +1704,13 @@
     ]
   },
   {
-    "name": "Pokemon Fire Red",
+    "name": "Pokémon FireRed and LeafGreen",
     "titleId": "",
-    "matchedTitle": "Pokemon Fire Red",
+    "matchedTitle": "Pokémon FireRed and LeafGreen",
     "matchScore": 0,
     "region": "US",
-    "quality": "mockup-provisorio",
-    "imageUrl": "./assets/catalogo/pokemon-fire-red.svg",
-    "tried": []
-  },
-  {
-    "name": "Pokemon Leaf Green",
-    "titleId": "",
-    "matchedTitle": "Pokemon Leaf Green",
-    "matchScore": 0,
-    "region": "US",
-    "quality": "mockup-provisorio",
-    "imageUrl": "./assets/catalogo/pokemon-leaf-green.svg",
+    "quality": "capa-pacote-nswvault",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/02/Pokemon-FireRed-and-LeafGreen-1.webp",
     "tried": []
   },
   {
@@ -1969,18 +1939,18 @@
     "matchedTitle": "Prince of Persia the Lost Crown",
     "matchScore": 0,
     "region": "US",
-    "quality": "capa-fisica-referencia",
-    "imageUrl": "https://retromania-shop.com/cdn/shop/files/IMG_8910_99e44b49-37c7-4aa9-99bd-832328c6d805.jpg?v=1766071616&width=1946",
+    "quality": "capa-amazon-indicada",
+    "imageUrl": "https://m.media-amazon.com/images/I/81NlccH9nYL._AC_SL1500_.jpg",
     "tried": []
   },
   {
-    "name": "Rayman",
+    "name": "Rayman: 30th Anniversary Edition",
     "titleId": "",
-    "matchedTitle": "Rayman",
+    "matchedTitle": "Rayman: 30th Anniversary Edition",
     "matchScore": 0,
     "region": "US",
-    "quality": "capa-fisica-referencia",
-    "imageUrl": "https://atari.com/cdn/shop/files/Untitleddesign_3.jpg?format=pjpg&v=1770292940&width=750",
+    "quality": "capa-nswvault-indicada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/02/rayman-30th-anniversary-edition.webp",
     "tried": []
   },
   {
@@ -2033,8 +2003,8 @@
     "matchedTitle": "Resident Evil 4",
     "matchScore": 0,
     "region": "US",
-    "quality": "capa-nswvault-verificada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/03/Resident-Evil-4.webp",
+    "quality": "capa-coolshop-code-in-box",
+    "imageUrl": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/23UM5P/031c86d11b374a1c8c3b1fb2d5cf0602.png/f/resident-evil-4-code-in-box.png",
     "tried": []
   },
   {
@@ -2053,8 +2023,8 @@
     "matchedTitle": "Resident Evil 6",
     "matchScore": 0,
     "region": "US",
-    "quality": "capa-nswvault-verificada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2025/12/Resident_Evil_6.webp",
+    "quality": "capa-coolshop-code-in-box",
+    "imageUrl": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/23UM5V/5b49d35d47e54dcb81d8f856392c2050.png/f/resident-evil-6-code-in-box.png",
     "tried": []
   },
   {
@@ -2205,8 +2175,8 @@
     "matchedTitle": "Splatoon 2 + Octo Expansion",
     "matchScore": 0,
     "region": "US",
-    "quality": "mockup-provisorio",
-    "imageUrl": "./assets/catalogo/splatoon-2-octo-expansion.svg",
+    "quality": "capa-jogo-base-nswvault",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2025/12/Splatoon-2.webp",
     "tried": []
   },
   {
