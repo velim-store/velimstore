@@ -179,7 +179,7 @@
 
     .card{
       user-select:none;
-      border-radius: 12px;
+      border-radius: 3px;
       overflow:hidden;
       background: var(--card);
       border: 1px solid rgba(255,255,255,0.08);
@@ -189,11 +189,6 @@
       display:flex;
       flex-direction:column;
       min-width:0;
-    }
-    /* Mobile: metade do arredondamento das molduras das capas (12px -> 6px).
-       No desktop mantém o estilo padrão de 12px. */
-    @media (max-width: 767px){
-      .card{ border-radius: 6px; }
     }
 
     .cover{
