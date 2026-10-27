@@ -674,6 +674,14 @@
       return (Number(n) || 0).toLocaleString("pt-BR", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
     }
 
+    // Exibe arquivos pequenos na unidade original, sem arredondar MB para GB.
+    // Os totais e cálculos continuam sempre em GB.
+    function formatGameSize(sizeGB){
+      const gb = Number(sizeGB) || 0;
+      if(gb < 1) return `${formatGB(gb * 1024)} MB`;
+      return `${formatGB(gb)} GB`;
+    }
+
     function getTotalGB(){
       let sum = 0;
       for (const i of state.selected){
@@ -769,7 +777,7 @@
 
         const size = document.createElement("div");
         size.className = "size";
-        size.textContent = `${formatGB(g.sizeGB)} GB`;
+        size.textContent = formatGameSize(g.sizeGB);
 
         meta.appendChild(name);
         meta.appendChild(size);
