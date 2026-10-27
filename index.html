@@ -334,6 +334,23 @@
     }
     .selected .badge{ display:block; }
 
+    /* Em telas pequenas as cinco colunas estreitam o selo.
+       Ajusta o badge dentro da capa, mantendo "Selecionado" inteiro. */
+    @media (max-width: 767px){
+      .cover .badge{
+        top: 4px;
+        left: 2px;
+        right: 2px;
+        width: auto;
+        padding: 3px 1px;
+        font-size: clamp(7px, 2.1vw, 9px);
+        line-height: 1.2;
+        letter-spacing: -0.25px;
+        text-align: center;
+        white-space: nowrap;
+      }
+    }
+
     footer{
       position: fixed;
       left: 0;
