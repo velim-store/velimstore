@@ -991,8 +991,8 @@
     "matchedTitle": "Little Nightmares III",
     "matchScore": 0,
     "region": "US",
-    "quality": "capa-fisica-referencia",
-    "imageUrl": "https://j2games.com/cdn/shop/files/711JjjQbE0L._SL1500___16361.1697124728.jpg?v=1697499217",
+    "quality": "capa-nswvault-indicada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2025/10/Little-Nightmares-III.png",
     "tried": []
   },
   {
@@ -1165,22 +1165,12 @@
     "tried": []
   },
   {
-    "name": "Mega Man X Legacy Collection",
+    "name": "Mega Man X Legacy Collection 1+2",
     "titleId": "",
-    "matchedTitle": "Mega Man X Legacy Collection",
+    "matchedTitle": "Mega Man X Legacy Collection 1+2",
     "matchScore": 0,
     "region": "US",
-    "quality": "capa-fisica-referencia",
-    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6241/6241237_sd.jpg",
-    "tried": []
-  },
-  {
-    "name": "Mega Man X Legacy Collection 2",
-    "titleId": "",
-    "matchedTitle": "Mega Man X Legacy Collection 2",
-    "matchScore": 0,
-    "region": "US",
-    "quality": "capa-fisica-referencia",
+    "quality": "capa-fisica-referencia-pacote",
     "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6241/6241237_sd.jpg",
     "tried": []
   },

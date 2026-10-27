@@ -525,8 +525,7 @@
       { name: "Marvel vs Capcom Fighting Collection Arcade Classics", sizeGB: 3.24, imageUrl: "" },
       { name: "Mega Man 11", sizeGB: 2.16, imageUrl: "" },
       { name: "Mega Man Legacy Collection 1 + 2", sizeGB: 3.5749609375, imageUrl: "" },
-      { name: "Mega Man X Legacy Collection", sizeGB: 2.97, imageUrl: "" },
-      { name: "Mega Man X Legacy Collection 2", sizeGB: 6.63, imageUrl: "" },
+      { name: "Mega Man X Legacy Collection 1+2", sizeGB: 9.6, imageUrl: "" },
       { name: "Mega Man Zero/ZX Legacy Collection", sizeGB: 3.17, imageUrl: "" },
       { name: "Metroid Dread", sizeGB: 4.26, imageUrl: "" },
       { name: "Metroid Prime 4 Beyond", sizeGB: 26.36, imageUrl: "" },
@@ -853,8 +852,10 @@
         // Catálogo anterior às primeiras inclusões, para interpretar índices antigos.
         const legacyNames = ["1-2-Switch","Animal Crossing: New Horizons","Batman: Arkham Trilogy","Crash Bandicoot 4: It’s About Time","Crash Team Racing Nitro-Fueled","Dark Souls Remastered","Diablo III: Eternal Collection","Donkey Kong Country: Tropical Freeze","Donkey Kong Country Returns HD","DOOM Eternal","EA SPORTS FC 26","EA SPORTS FC 27","Everybody 1-2-Switch!","Game Boy – Nintendo Switch Online","Game Boy Advance – Nintendo Switch Online","Hogwarts Legacy","Hollow Knight","Hollow Knight: Silksong","Hyrule Warriors: Age of Calamity","Immortals Fenyx Rising","It Takes Two","LEGO DC Super-Villains","LEGO Harry Potter Collection","LEGO Horizon Adventures","LEGO Jurassic World","LEGO Marvel Super Heroes","LEGO Marvel Super Heroes 2","LEGO NINJAGO Movie Video Game","LEGO Party","Luigi’s Mansion 3","Mario & Luigi: Brothership","Mario Kart 8 Deluxe","Mario Strikers: Battle League","Mario Tennis Aces","Mega Man 11","Mega Man Legacy Collection","Mega Man X: Legacy Collection 1 + 2 for Nintendo Switch","Mega Man Zero/ZX Legacy Collection","Metroid Dread","MGS Master Collection Vol. 1","Minecraft","Minecraft (Nintendo Switch Edition)","Minecraft Legends","Minecraft Story Mode","Monster Hunter Rise","Mortal Kombat 1","New Super Mario Bros. U Deluxe","Ninja Gaiden: Master Collection","Nintendo 64 – Nintendo Switch Online","Nintendo Entertainment System – Nintendo Switch Online","Nintendo Switch Sports","Nintendo World Championships: NES Edition","Persona 5 Royal","Pokkén Tournament DX","Pokémon Brilliant Diamond","Pokémon Legends: Arceus","Pokémon Legends: Z‑A","Pokémon Mystery Dungeon: Rescue Team DX","Pokémon Quest","Pokémon Scarlet","Pokémon Shining Pearl","Pokémon Shield","Pokémon Sword","Pokémon: Let’s Go, Eevee!","Pokémon: Let’s Go, Pikachu!","Pokémon Violet","Red Dead Redemption","Resident Evil 0","SEGA Genesis – Nintendo Switch Online","Sifu","Shin Megami Tensei V","Ship of Harkinian (OOT native port)","Sonic Mania","Sonic Racing Cross Worlds","Splatoon 3","Streets of Rage 4","Super Bomberman R","Super Bomberman R2","Super Mario 3D All-Stars","Super Mario 3D World + Bowser’s Fury","Super Mario Bros. Wonder","Super Mario Galaxy + Super Mario Galaxy 2","Super Mario Odyssey","Super Mario Party Jamboree","Super Mario RPG","Super Nintendo Entertainment System – Nintendo Switch Online","Super Smash Bros. Ultimate","Teenage Mutant Ninja Turtles: Shredder’s Revenge","The Elder Scrolls V: Skyrim","The Legend of Zelda: Breath of the Wild","The Legend of Zelda: Echoes of Wisdom","The Legend of Zelda: Link’s Awakening","The Legend of Zelda: Skyward Sword HD","The Legend of Zelda: Tears of the Kingdom","The Witcher 3: Wild Hunt – Complete Edition","Tomb Raider I–III Remastered","Top Racer Collection","Ultra Street Fighter II: The Final Challengers","Xenoblade Chronicles X: Definitive Edition","YouTube (oficial)"];
         const indicesOf = (name) => {
-          if (name === "Mega Man X: Legacy Collection 1 + 2 for Nintendo Switch")
-            return ["Mega Man X Legacy Collection", "Mega Man X Legacy Collection 2"].map(n => indexByName.get(n));
+          if (name === "Mega Man X: Legacy Collection 1 + 2 for Nintendo Switch" ||
+              name === "Mega Man X Legacy Collection" ||
+              name === "Mega Man X Legacy Collection 2")
+            return [indexByName.get("Mega Man X Legacy Collection 1+2")];
           // Mantém seleções salvas de ambas as edições avulsas.
           if (name === "Mega Man Legacy Collection" ||
               name === "Mega Man Legacy Collection 2")
