@@ -2657,13 +2657,13 @@
     "tried": []
   },
   {
-    "name": "Trials Rising [NSP]",
+    "name": "Trial Rising",
     "titleId": "",
-    "matchedTitle": "Trials Rising [NSP]",
+    "matchedTitle": "Trial Rising",
     "matchScore": 0,
     "region": "US",
-    "quality": "mockup-provisorio",
-    "imageUrl": "./assets/catalogo/trials-rising-nsp.svg",
+    "quality": "capa-smyths-indicada",
+    "imageUrl": "https://image.smythstoys.com/original/800/desktop/215824.webp",
     "tried": []
   },
   {
