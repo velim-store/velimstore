@@ -249,6 +249,15 @@
       object-position:center center;
       transform:none;
     }
+    /* Mega Man Legacy 1+2: imagem quadrada com faixas brancas nas laterais.
+       Mantém a caixa na altura do card e recorta somente as laterais. */
+    .cover img.megaman-legacy-1-2-front{
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center center;
+      transform: none;
+    }
 
     .meta{
       padding: 8px 8px 10px;
@@ -515,8 +524,7 @@
       { name: "Marvel Ultimate Alliance 3 The Black Order + DLC", sizeGB: 17.84, imageUrl: "" },
       { name: "Marvel vs Capcom Fighting Collection Arcade Classics", sizeGB: 3.24, imageUrl: "" },
       { name: "Mega Man 11", sizeGB: 2.16, imageUrl: "" },
-      { name: "Mega Man Legacy Collection", sizeGB: 0.354960938, imageUrl: "" },
-      { name: "Mega Man Legacy Collection 2", sizeGB: 3.22, imageUrl: "" },
+      { name: "Mega Man Legacy Collection 1 + 2", sizeGB: 3.5749609375, imageUrl: "" },
       { name: "Mega Man X Legacy Collection", sizeGB: 2.97, imageUrl: "" },
       { name: "Mega Man X Legacy Collection 2", sizeGB: 6.63, imageUrl: "" },
       { name: "Mega Man Zero/ZX Legacy Collection", sizeGB: 3.17, imageUrl: "" },
@@ -769,7 +777,6 @@
             g.name === "Marvel vs Capcom Fighting Collection Arcade Classics" ||
             g.name === "My Sims Cozy Bundle" ||
             g.name === "Grounded" ||
-            g.name === "Mega Man Legacy Collection 2" ||
             g.name === "Ninja Gaiden - Master Collection") {
           img.classList.add("catalog-square-front");
         }
@@ -781,6 +788,9 @@
         }
         if (g.name === "Castlevania Dominus Collection") {
           img.classList.add("castlevania-dominus-front");
+        }
+        if (g.name === "Mega Man Legacy Collection 1 + 2") {
+          img.classList.add("megaman-legacy-1-2-front");
         }
 
         const url = (g.imageUrl && typeof g.imageUrl === "string") ? g.imageUrl.trim() : "";
@@ -845,6 +855,10 @@
         const indicesOf = (name) => {
           if (name === "Mega Man X: Legacy Collection 1 + 2 for Nintendo Switch")
             return ["Mega Man X Legacy Collection", "Mega Man X Legacy Collection 2"].map(n => indexByName.get(n));
+          // Mantém seleções salvas de ambas as edições avulsas.
+          if (name === "Mega Man Legacy Collection" ||
+              name === "Mega Man Legacy Collection 2")
+            return [indexByName.get("Mega Man Legacy Collection 1 + 2")];
           if (name === "Ninja Gaiden: Master Collection" ||
               name === "Ninja Gaiden 3 Razors Edge" ||
               name === "Ninja Gaiden Sigma" ||

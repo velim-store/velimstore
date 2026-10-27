@@ -1133,8 +1133,8 @@
     "matchedTitle": "Marvel vs Capcom Fighting Collection Arcade Classics",
     "matchScore": 0,
     "region": "US",
-    "quality": "capa-frontal-referencia",
-    "imageUrl": "https://down-br.img.susercontent.com/file/sg-11134201-825zn-mjzwnq0dai9w28",
+    "quality": "capa-nswvault-indicada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/05/marvel-vs-capcom-fighting-collection-arcade-classics.webp",
     "tried": []
   },
   {
@@ -1155,30 +1155,13 @@
     ]
   },
   {
-    "name": "Mega Man Legacy Collection",
-    "titleId": "AS4UA",
-    "matchedTitle": "Mega Man Legacy Collection",
-    "matchScore": 67,
-    "region": "US",
-    "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AKRVA.png",
-    "tried": [
-      {
-        "id": "AS4UA",
-        "title": "Mega Man Legacy Collection",
-        "score": 67,
-        "hasCover": true
-      }
-    ]
-  },
-  {
-    "name": "Mega Man Legacy Collection 2",
+    "name": "Mega Man Legacy Collection 1 + 2",
     "titleId": "",
-    "matchedTitle": "Mega Man Legacy Collection 2",
+    "matchedTitle": "Mega Man Legacy Collection 1 + 2",
     "matchScore": 0,
     "region": "US",
-    "quality": "capa-pacote-fisico-1+2",
-    "imageUrl": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/392839/Jogo-Mega-Man-Legacy-Collection-1-2-Nintendo-Switch_1711033685_gg.jpg",
+    "quality": "capa-pacote-indicada",
+    "imageUrl": "https://gameline.ph/cdn/shop/products/MMLC_625x625.png?",
     "tried": []
   },
   {
