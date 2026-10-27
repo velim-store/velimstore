@@ -2694,16 +2694,6 @@
     "tried": []
   },
   {
-    "name": "Virtual Boy Nintendo Classics",
-    "titleId": "",
-    "matchedTitle": "Virtual Boy Nintendo Classics",
-    "matchScore": 0,
-    "region": "US",
-    "quality": "mockup-provisorio",
-    "imageUrl": "./assets/catalogo/virtual-boy-nintendo-classics.svg",
-    "tried": []
-  },
-  {
     "name": "WRC 10",
     "titleId": "",
     "matchedTitle": "WRC 10",
