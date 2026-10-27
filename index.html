@@ -541,7 +541,7 @@
       { name: "Mortal Kombat 11", sizeGB: 32.44, imageUrl: "" },
       { name: "Mortal Kombat Legacy Kollection", sizeGB: 12.03, imageUrl: "" },
       { name: "My Sims Cozy Bundle", sizeGB: 5.14, imageUrl: "" },
-      { name: "My Universe Series for Nintendo Switch", sizeGB: 1.88, imageUrl: "" },
+      { name: "My Universe - Pet Clinic Cats and Dogs", sizeGB: 1.88, imageUrl: "" },
       { name: "NAMCO Museum Arcade Pac", sizeGB: 1.36, imageUrl: "" },
       { name: "NAMCO Museum Archive Vol 1", sizeGB: 0.056640625, imageUrl: "" },
       { name: "NAMCO Museum Archive Vol 2", sizeGB: 0.048828125, imageUrl: "" },
@@ -868,6 +868,8 @@
             return [indexByName.get("Rayman: 30th Anniversary Edition")];
           if (name === "Pokemon Fire Red" || name === "Pokemon Leaf Green")
             return [indexByName.get("Pokémon FireRed and LeafGreen")];
+          if (name === "My Universe Series for Nintendo Switch")
+            return [indexByName.get("My Universe - Pet Clinic Cats and Dogs")];
           return [indexByName.get(name)];
         };
         if (Array.isArray(parsed.selectedNames)) {
