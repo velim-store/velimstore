@@ -469,12 +469,12 @@
     <div class="storage-indicator" aria-label="Ocupação do cartão de memória">
       <div class="storage-indicator-info">
         <span class="storage-card-label" id="storageCard">Cartão necessário: 64 GB</span>
-        <span class="storage-indicator-usage" id="storageUsage">0,00 / 64 GB (0%)</span>
+        <span class="storage-indicator-usage" id="storageUsage">0,00 / 58,00 GB úteis (0%)</span>
       </div>
       <div class="storage-track" id="storageTrack" role="progressbar"
            aria-label="Ocupação estimada do cartão recomendado"
-           aria-valuemin="0" aria-valuemax="64" aria-valuenow="0"
-           aria-valuetext="0,00 GB de 64 GB">
+           aria-valuemin="0" aria-valuemax="58" aria-valuenow="0"
+           aria-valuetext="0,00 GB de 58,00 GB úteis no cartão de 64 GB">
         <div class="storage-fill" id="storageFill"></div>
       </div>
     </div>
@@ -808,7 +808,7 @@
       return sum;
     }
 
-    // Limites práticos (GB) mantêm uma margem para a capacidade utilizável.
+    // Ocupação e alerta de 90% usam os limites úteis (GB), não a capacidade nominal.
     const MEMORY_CARDS = [
       {label:"64 GB", capacityGB:64, limitGB:58},
       {label:"128 GB", capacityGB:128, limitGB:125},
@@ -829,19 +829,19 @@
       elPillInfo.textContent = `${count} selecionados • ${formatGB(total)} GB`;
 
       const card = recommendedMemoryCard(total);
-      const percentage = (total / card.capacityGB) * 100;
+      const percentage = (total / card.limitGB) * 100;
       const displayPercentage = percentage.toLocaleString("pt-BR", {maximumFractionDigits:1});
       const overLimit = total > card.limitGB;
       elStorageCard.textContent = `Cartão necessário: ${card.label}`;
       elStorageUsage.textContent = overLimit
         ? `${formatGB(total)} GB • acima do limite de 1 TB`
-        : `${formatGB(total)} / ${card.label} (${displayPercentage}%)`;
+        : `${formatGB(total)} / ${formatGB(card.limitGB)} GB úteis (${displayPercentage}%)`;
       elStorageFill.style.width = `${Math.min(100, Math.max(0, percentage))}%`;
       elStorageFill.classList.toggle("is-high", percentage >= 90);
-      elStorageTrack.setAttribute("aria-valuemax", String(card.capacityGB));
-      elStorageTrack.setAttribute("aria-valuenow", String(Math.min(card.capacityGB, Math.max(0, total))));
+      elStorageTrack.setAttribute("aria-valuemax", String(card.limitGB));
+      elStorageTrack.setAttribute("aria-valuenow", String(Math.min(card.limitGB, Math.max(0, total))));
       elStorageTrack.setAttribute("aria-valuetext",
-        `${formatGB(total)} GB de ${card.label}, ${displayPercentage}% de ocupação`);
+        `${formatGB(total)} GB de ${formatGB(card.limitGB)} GB úteis no cartão de ${card.label}, ${displayPercentage}% de ocupação`);
     }
 
     function placeholderSVG(title){
