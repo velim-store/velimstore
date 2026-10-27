@@ -229,6 +229,10 @@
       flex-direction:column;
       min-width:0;
     }
+    /* Desktop: cantos com raio percentual; no mobile mantém 3px. */
+    @media (min-width: 768px){
+      .card{ border-radius: 6%; }
+    }
 
     .cover{
       width:100%;
