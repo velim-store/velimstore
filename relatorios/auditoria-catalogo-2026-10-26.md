@@ -14,8 +14,8 @@
 | Pacotes agrupados substituídos | 2 |
 | Registros extras preservados | 1 |
 | Total final de jogos | 213 |
-| Novas capas com referência de caixa | 49 |
-| Novas mockups provisórias | 57 |
+| Novas capas com referência de caixa | 64 |
+| Novas mockups provisórias | 42 |
 
 **Soma da lista recebida:** 1.786,3625 GB. **Soma do catálogo final:** 1.792,3625 GB. A diferença inclui o Paper Mario extra preservado.
 **Conversão:** 1 GB = 1.024 MB (conforme critério escolhido para esta atualização). Formulários de entrada em MB preservados com precisão interna em GB.
@@ -57,25 +57,25 @@
 | Bayonetta 3 | 15,91 GB | 15,91 | capa-fisica-base | — |
 | Bladed Fury | 768,00 MB | 0,75 | capa-fisica-base | — |
 | Blasphemous 2 | 2,55 GB | 2,55 | capa-fisica-base | — |
-| Bluey the Videogame | 1,29 GB | 1,29 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
+| Bluey the Videogame | 1,29 GB | 1,29 | capa-fisica-referencia | Imagem frontal de caixa localizada em loja; verificar enquadramento e disponibilidade da URL. |
 | Burnout Paradise Remastered | 3,98 GB | 3,98 | capa-fisica-base | — |
 | Cars 3 | 4,59 GB | 4,59 | capa-fisica-base | — |
-| Castlevania Advance Collection | 667,12 MB | 0,6515 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
+| Castlevania Advance Collection | 667,12 MB | 0,6515 | capa-fisica-referencia | Imagem frontal de caixa localizada em loja; verificar enquadramento e disponibilidade da URL. |
 | Castlevania Anniversary Collection | 1,44 GB | 1,44 | capa-fisica-base | — |
-| Castlevania Dominus Collection | 1,19 GB | 1,19 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
+| Castlevania Dominus Collection | 1,19 GB | 1,19 | capa-fisica-referencia | Imagem frontal de caixa localizada em loja; verificar enquadramento e disponibilidade da URL. |
 | Castlevania Symphony of the Night (homebrew port) for Nintendo Switch | 325,92 MB | 0,3183 | mockup-provisorio | Port homebrew, sem edição física oficial para Switch. |
 | Celeste | 1,54 GB | 1,54 | capa-fisica-base | — |
-| Contra Operation Galuga | 10,22 GB | 10,22 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
+| Contra Operation Galuga | 10,22 GB | 10,22 | capa-fisica-referencia | Imagem frontal de caixa localizada em loja; verificar enquadramento e disponibilidade da URL. |
 | Crash Bandicoot N. Sane Trilogy | 5,25 GB | 5,25 | capa-fisica-base | — |
 | Cult of the Lamb | 2,49 GB | 2,49 | capa-fisica-base | — |
 | Danganronpa Decadence | 16,49 GB | 16,49 | capa-fisica-referencia | Coletânea contendo quatro jogos; entrada contabilizada somente uma vez. |
 | Dead Cells | 2,39 GB | 2,39 | capa-fisica-base | — |
-| Demon Slayer The Hinokami Chronicles Kimetsu no Yaiba | 11,07 GB | 11,07 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
+| Demon Slayer The Hinokami Chronicles Kimetsu no Yaiba | 11,07 GB | 11,07 | capa-fisica-referencia | Imagem frontal de caixa localizada em loja; verificar enquadramento e disponibilidade da URL. |
 | Disney Classic Games Aladdin and The Lion King - Jungle Book | 3,18 GB | 3,18 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
-| Disney Epic Mickey Rebrushed | 11,70 GB | 11,70 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
+| Disney Epic Mickey Rebrushed | 11,70 GB | 11,70 | capa-fisica-referencia | Imagem frontal de caixa localizada em loja; verificar enquadramento e disponibilidade da URL. |
 | Disney Illusion Island | 7,80 GB | 7,80 | capa-fisica-base | — |
 | Dragon Ball FighterZ | 9,84 GB | 9,84 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
-| Dragon Ball Sparking Zero | 9,07 GB | 9,07 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
+| Dragon Ball Sparking Zero | 9,07 GB | 9,07 | capa-fisica-referencia | Imagem frontal de caixa localizada em loja; verificar enquadramento e disponibilidade da URL. |
 | Dragon Ball Xenoverse 2 | 18,26 GB | 18,26 | capa-fisica-base | — |
 | Dragon Ball Z Kakarot + A New Power Awakens Set | 24,91 GB | 24,91 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
 | Formula Legends | 5,33 GB | 5,33 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
@@ -87,7 +87,7 @@
 | Hello Kitty Island Adventure | 4,24 GB | 4,24 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
 | Hot Wheels Monster Trucks Stunt Mayhem | 1,75 GB | 1,75 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
 | Hot Wheels Unleashed | 7,92 GB | 7,92 | capa-fisica-base | — |
-| Hot Wheels Unleashed 2 Turbocharged | 7,72 GB | 7,72 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
+| Hot Wheels Unleashed 2 Turbocharged | 7,72 GB | 7,72 | capa-fisica-referencia | Imagem frontal de caixa localizada em loja; verificar enquadramento e disponibilidade da URL. |
 | Inside | 1,46 GB | 1,46 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
 | Just Dance 2025 plus | 19,37 GB | 19,37 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
 | Kaze and the Wild Masks | 993,43 MB | 0,9701 | capa-fisica-base | — |
@@ -96,9 +96,9 @@
 | Let's Sing 2025 | 3,70 GB | 3,70 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
 | Little Nightmares | 2,99 GB | 2,99 | capa-fisica-referencia | A arte física corresponde à Complete Edition. |
 | Little Nightmares 2 | 6,55 GB | 6,55 | capa-fisica-base | — |
-| Little Nightmares III | 11,04 GB | 11,04 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
+| Little Nightmares III | 11,04 GB | 11,04 | capa-fisica-referencia | Imagem frontal de caixa localizada em loja; verificar enquadramento e disponibilidade da URL. |
 | Mario Golf Super Rush | 4,17 GB | 4,17 | capa-fisica-base | — |
-| Mario vs. Donkey Kong | 1,30 GB | 1,30 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
+| Mario vs. Donkey Kong | 1,30 GB | 1,30 | capa-fisica-referencia | Imagem frontal de caixa localizada em loja; verificar enquadramento e disponibilidade da URL. |
 | Marvel Ultimate Alliance 3 The Black Order + DLC | 17,84 GB | 17,84 | capa-fisica-referencia | — |
 | Marvel vs Capcom Fighting Collection Arcade Classics | 3,24 GB | 3,24 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
 | Mega Man Legacy Collection 2 | 3,22 GB | 3,22 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
@@ -106,7 +106,7 @@
 | Mega Man X Legacy Collection 2 | 6,63 GB | 6,63 | capa-fisica-referencia | Parte 2 do pacote 1+2; a capa é a do pacote físico compartilhado. |
 | Metroid Prime 4 Beyond | 26,36 GB | 26,36 | capa-fisica-referencia | — |
 | Metroid Prime Remastered | 6,76 GB | 6,76 | capa-fisica-base | — |
-| Mighty Morphin Power Rangers Rita's Rewind | 870,40 MB | 0,85 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
+| Mighty Morphin Power Rangers Rita's Rewind | 870,40 MB | 0,85 | capa-fisica-referencia | Imagem frontal de caixa localizada em loja; verificar enquadramento e disponibilidade da URL. |
 | Morbid the Lords of Ire | 3,08 GB | 3,08 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
 | Mortal Kombat 11 | 32,44 GB | 32,44 | capa-fisica-referencia | — |
 | My Sims Cozy Bundle | 5,14 GB | 5,14 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
@@ -115,7 +115,7 @@
 | NAMCO Museum Archive Vol 1 | 58,00 MB | 0,0566 | mockup-provisorio | Tamanho confirmado pelo usuário: 58 MB; distinto de Arcade Pac. |
 | NAMCO Museum Archive Vol 2 | 50,00 MB | 0,0488 | mockup-provisorio | Tamanho confirmado pelo usuário: 50 MB; distinto de Arcade Pac. |
 | Naruto Shippuden Ultimate Ninja Storm Trilogy | 17,63 GB | 17,63 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
-| Naruto x Boruto Ultimate Ninja Storm Connections | 16,64 GB | 16,64 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
+| Naruto x Boruto Ultimate Ninja Storm Connections | 16,64 GB | 16,64 | capa-fisica-referencia | Imagem frontal de caixa localizada em loja; verificar enquadramento e disponibilidade da URL. |
 | Need for Speed Hot Pursuit Remastered | 8,46 GB | 8,46 | capa-fisica-base | — |
 | NieR Automata The End of YoRHa Edition | 10,91 GB | 10,91 | capa-fisica-base | — |
 | Nine Sols | 2,71 GB | 2,71 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
@@ -127,7 +127,7 @@
 | Pokemon Fire Red | 33,42 MB | 0,0326 | mockup-provisorio | Jogo de GBA executado no Switch, sem edição física oficial para Switch. |
 | Pokemon Leaf Green | 33,17 MB | 0,0324 | mockup-provisorio | Jogo de GBA executado no Switch, sem edição física oficial para Switch. |
 | Power Rangers Battle for the Grid | 1,85 GB | 1,85 | capa-fisica-base | A identificação física corresponde à Super Edition. |
-| Prince of Persia the Lost Crown | 7,97 GB | 7,97 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
+| Prince of Persia the Lost Crown | 7,97 GB | 7,97 | capa-fisica-referencia | Imagem frontal de caixa localizada em loja; verificar enquadramento e disponibilidade da URL. |
 | Rayman | 3,54 GB | 3,54 | capa-fisica-referencia | A arte é da edição Rayman: 30th Anniversary Edition; verificar correspondência exata ao conteúdo. |
 | Rayman Legends Definitive Edition | 2,96 GB | 2,96 | capa-fisica-base | — |
 | Resident Evil 4 | 12,10 GB | 12,10 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
@@ -148,11 +148,11 @@
 | Tomodachi Life Living the Dream | 6,29 GB | 6,29 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
 | Transformers Battlegrounds | 4,58 GB | 4,58 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
 | Transformers Earthspark Expedition | 3,00 GB | 3,00 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
-| Transformers Galactic Trials | 3,43 GB | 3,43 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
+| Transformers Galactic Trials | 3,43 GB | 3,43 | capa-fisica-referencia | Imagem frontal de caixa localizada em loja; verificar enquadramento e disponibilidade da URL. |
 | Trials Rising [NSP] | 10,15 GB | 10,15 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
 | ULTIMATE NINJA STORM 4 ROAD TO BORUTO | 12,25 GB | 12,25 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
 | Unravel Two | 2,77 GB | 2,77 | capa-fisica-base | — |
-| WRC 10 | 14,07 GB | 14,07 | mockup-provisorio | Arte de caixa física não confirmada; foi criada capa ilustrativa provisória. |
+| WRC 10 | 14,07 GB | 14,07 | capa-fisica-referencia | Imagem frontal de caixa localizada em loja; verificar enquadramento e disponibilidade da URL. |
 | Yoshi's Crafted World | 5,60 GB | 5,60 | capa-fisica-base | — |
 
 ## Tamanhos atualizados em jogos existentes (106)
@@ -275,16 +275,13 @@
 
 - Virtual Boy Nintendo Classics
 - Arcade Archives Collection for Nintendo Switch
-- Bluey the Videogame
-- Castlevania Advance Collection
-- Castlevania Dominus Collection
+
 - Castlevania Symphony of the Night (homebrew port) for Nintendo Switch
-- Contra Operation Galuga
-- Demon Slayer The Hinokami Chronicles Kimetsu no Yaiba
+
 - Disney Classic Games Aladdin and The Lion King - Jungle Book
-- Disney Epic Mickey Rebrushed
+
 - Dragon Ball FighterZ
-- Dragon Ball Sparking Zero
+
 - Dragon Ball Z Kakarot + A New Power Awakens Set
 - Formula Legends
 - Ghosts n Goblins Resurrection
@@ -292,26 +289,25 @@
 - Hades II
 - Hello Kitty Island Adventure
 - Hot Wheels Monster Trucks Stunt Mayhem
-- Hot Wheels Unleashed 2 Turbocharged
+
 - Inside
 - Just Dance 2025 plus
 - Let's Sing 2025
-- Little Nightmares III
-- Mario vs. Donkey Kong
+
 - Marvel vs Capcom Fighting Collection Arcade Classics
 - Mega Man Legacy Collection 2
-- Mighty Morphin Power Rangers Rita's Rewind
+
 - Morbid the Lords of Ire
 - My Sims Cozy Bundle
 - My Universe Series for Nintendo Switch
 - NAMCO Museum Archive Vol 1
 - NAMCO Museum Archive Vol 2
 - Naruto Shippuden Ultimate Ninja Storm Trilogy
-- Naruto x Boruto Ultimate Ninja Storm Connections
+
 - Nine Sols
 - Pokemon Fire Red
 - Pokemon Leaf Green
-- Prince of Persia the Lost Crown
+
 - Resident Evil 4
 - Resident Evil 5
 - Resident Evil 6
@@ -326,10 +322,29 @@
 - Tomodachi Life Living the Dream
 - Transformers Battlegrounds
 - Transformers Earthspark Expedition
-- Transformers Galactic Trials
+
 - Trials Rising [NSP]
 - ULTIMATE NINJA STORM 4 ROAD TO BORUTO
-- WRC 10
+
+## Capas físicas adicionais encontradas após a primeira publicação
+
+As seguintes 15 imagens frontais substituíram os mockups provisórios. Links externos podem expirar; os arquivos mockup originais permanecem guardados no repositório para eventual recuperação.
+
+- **Castlevania Advance Collection**: `https://cf.shopee.tw/file/tw-11134207-7r98o-ly58b7yfrj1w4a`
+- **Castlevania Dominus Collection**: `https://down-tw.img.susercontent.com/file/tw-11134207-7rbk8-m7z974reut6h08`
+- **Contra Operation Galuga**: `https://ecommerce.datablitz.com.ph/cdn/shop/files/1_0fec5855-4019-4308-8ad8-451a2d665252_800x.jpg?v=1725351667`
+- **Disney Epic Mickey Rebrushed**: `https://www.gamehouz.com/6076-large_default/switch-disney-epic-mickey-rebrushed-as-engchn.jpg`
+- **Prince of Persia the Lost Crown**: `https://retromania-shop.com/cdn/shop/files/IMG_8910_99e44b49-37c7-4aa9-99bd-832328c6d805.jpg?v=1766071616&width=1946`
+- **Bluey the Videogame**: `https://target.scene7.com/is/image/Target/GUEST_07745c6c-c9c3-4d0e-9686-56a208019b04?qlt=80&wid=1900`
+- **Mario vs. Donkey Kong**: `https://retroworld.no/cdn/shop/files/IMG_0806.jpg?v=1762349281&width=1772`
+- **Dragon Ball Sparking Zero**: `https://down-id.img.susercontent.com/file/id-11134207-82250-mfvuxh3gkniia2`
+- **Mighty Morphin Power Rangers Rita's Rewind**: `https://down-br.img.susercontent.com/file/sg-11134201-7rauu-maiggmo4t6d2f7`
+- **WRC 10**: `https://i5.walmartimages.com/seo/WRC-10-Maximum-Games-Nintendo-Switch-Physical-Edition_5c533b0a-7fdc-4832-be50-00b9c3cdcda3.adbc50e2f787b414da60e04e5851f06e.jpeg`
+- **Demon Slayer The Hinokami Chronicles Kimetsu no Yaiba**: `https://images.kabum.com.br/produtos/fotos/sync_mirakl/550502/Demon-Slayer-The-Hinokami-Chronicles-Switch-M-dia-F-sica_1713271727_gg.jpg`
+- **Hot Wheels Unleashed 2 Turbocharged**: `https://pnpdistribution.com/i/HOT-WH-UNL-2-SW-N.jpg`
+- **Transformers Galactic Trials**: `https://www.bigw.com.au/medias/sys_master/images/images/h59/hf5/139604203241502.jpg`
+- **Naruto x Boruto Ultimate Ninja Storm Connections**: `https://i5.walmartimages.com/seo/NARUTO-X-BORUTO-Ultimate-Ninja-Storm-Connections-Nintendo-Switch_7c64294d-44d1-4f98-95ae-f819233e0b55.3d6bb1d4d39e282c0dc32f5fba08fcfd.jpeg`
+- **Little Nightmares III**: `https://j2games.com/cdn/shop/files/711JjjQbE0L._SL1500___16361.1697124728.jpg?v=1697499217`
 
 ## Conteúdo do relatório
 

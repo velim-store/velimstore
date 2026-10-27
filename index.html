@@ -229,6 +229,12 @@
       object-fit: fill;
       transform: none;
     }
+    /* Fotos de lojas em formato quadrado: mantêm a frente da caixa Switch 1 sem barras laterais largas. */
+    .cover img.retail-front-case{
+      object-fit: cover;
+      object-position: center;
+      transform: none;
+    }
 
     .meta{
       padding: 8px 8px 10px;
@@ -708,6 +714,8 @@
       return name.toLowerCase().includes(q.toLowerCase());
     }
 
+    const RETAIL_CASE_TITLES = new Set(["Castlevania Advance Collection","Castlevania Dominus Collection","Contra Operation Galuga","Disney Epic Mickey Rebrushed","Prince of Persia the Lost Crown","Bluey the Videogame","Mario vs. Donkey Kong","Dragon Ball Sparking Zero","Mighty Morphin Power Rangers Rita's Rewind","WRC 10","Demon Slayer The Hinokami Chronicles Kimetsu no Yaiba","Hot Wheels Unleashed 2 Turbocharged","Transformers Galactic Trials","Naruto x Boruto Ultimate Ninja Storm Connections","Little Nightmares III"]);
+
     function render(){
       elGrid.innerHTML = "";
       const q = state.query.trim();
@@ -740,6 +748,9 @@
         }
         if (g.name === "Limbo") {
           img.classList.add("limbo-ratio-fixed");
+        }
+        if (RETAIL_CASE_TITLES.has(g.name)) {
+          img.classList.add("retail-front-case");
         }
 
         const url = (g.imageUrl && typeof g.imageUrl === "string") ? g.imageUrl.trim() : "";
