@@ -1,32 +1,27 @@
 {
-  "generated_at": "2026-10-29T02:16:21.608126+00:00",
+  "generated_at": "2026-10-29T02:18:16.007442+00:00",
   "stage": "staging_only",
   "site_covers_switched": false,
   "max_side_px": 1024,
   "output_format": "WebP",
   "webp_quality": 84,
   "total": 205,
-  "successful": 204,
-  "failed": 1,
+  "successful": 205,
+  "failed": 0,
   "external_downloads": 204,
-  "original_downloaded_bytes": 49000795,
-  "compressed_stored_bytes": 10953198,
-  "ready_to_migrate": false,
+  "original_downloaded_bytes": 304670,
+  "compressed_stored_bytes": 10992420,
+  "ready_to_migrate": true,
   "images": [
     {
       "name": "1-2-Switch",
       "source_url": "https://art.gametdb.com/switch/box/US/AACCA.png",
       "local_path": "assets/covers/1-2-switch.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 296094,
       "stored_bytes": 31796,
       "sha256": "e35044cdeaec49a267e73c9b24d5d1c18296fef7176aaa2057c397771abfb1c5"
     },
@@ -34,16 +29,11 @@
       "name": "Animal Crossing: New Horizons",
       "source_url": "https://art.gametdb.com/switch/box/US/ACBAA.png",
       "local_path": "assets/covers/animal-crossing-new-horizons.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 293649,
       "stored_bytes": 40904,
       "sha256": "b77aa6760c7e1a0707ce3c731522dba1ba9a9e84f920b609c7da2575525afbfd"
     },
@@ -51,16 +41,11 @@
       "name": "Astral Chain",
       "source_url": "https://art.gametdb.com/switch/box/US/AB48A.png",
       "local_path": "assets/covers/astral-chain.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 373325,
       "stored_bytes": 60442,
       "sha256": "be51581ebc1cd9427cac01124207da979e14dab1b578523d9190067342031b8a"
     },
@@ -68,16 +53,11 @@
       "name": "Atari 50 The Anniversary Celebration",
       "source_url": "https://art.gametdb.com/switch/box/US/A85DA.png",
       "local_path": "assets/covers/atari-50-the-anniversary-celebration.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 198136,
       "stored_bytes": 30190,
       "sha256": "9780221b64b275cc1994e1e8a88adcb338252a4f8572ba9f667276a60c3ece44"
     },
@@ -85,16 +65,11 @@
       "name": "Batman: Arkham Trilogy",
       "source_url": "https://art.gametdb.com/switch/box/US/A6DQA.png",
       "local_path": "assets/covers/batman-arkham-trilogy.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 229629,
       "stored_bytes": 24934,
       "sha256": "3f37266d65186b06f884ed1a90b75e2e8b4e75ef91df36f53f81284a6d992dd2"
     },
@@ -102,16 +77,11 @@
       "name": "Bayonetta",
       "source_url": "https://art.gametdb.com/switch/box/US/AE99A.png",
       "local_path": "assets/covers/bayonetta.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 336851,
       "stored_bytes": 47212,
       "sha256": "828ba8b6d797fa5e2a9fa3fdafb876fe0055db5dfea6c2ab3e3fb334a158881f"
     },
@@ -119,16 +89,11 @@
       "name": "Bayonetta 2",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/09/bayonetta-2.webp",
       "local_path": "assets/covers/bayonetta-2.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        400,
-        648
-      ],
+      "status": "already_present",
       "dimensions": [
         400,
         648
       ],
-      "download_bytes": 45764,
       "stored_bytes": 53628,
       "sha256": "8c2a7c8569519631047b5d0c267c46a1c270129fb2efda2e2551036c23d5bf38"
     },
@@ -136,16 +101,11 @@
       "name": "Bayonetta 3",
       "source_url": "https://art.gametdb.com/switch/box/US/AXB7A.png",
       "local_path": "assets/covers/bayonetta-3.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 321443,
       "stored_bytes": 44094,
       "sha256": "9a525de7457df36274f4fa80296146cedfec444da5a9c1f621a8a6275be867bf"
     },
@@ -153,16 +113,11 @@
       "name": "Bladed Fury",
       "source_url": "https://art.gametdb.com/switch/box/US/AXZSA.png",
       "local_path": "assets/covers/bladed-fury.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 268199,
       "stored_bytes": 31716,
       "sha256": "8d54cab5bf78736f8dcbe97260aaf7d32ca94f22f7744529777ac079060caa5e"
     },
@@ -170,16 +125,11 @@
       "name": "Blasphemous 2",
       "source_url": "https://art.gametdb.com/switch/box/US/BBLYA.png",
       "local_path": "assets/covers/blasphemous-2.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 158369,
       "stored_bytes": 14426,
       "sha256": "076758631d2759e932ee2174680266eece7f949bd31f1bf1b05fad8dd95e636c"
     },
@@ -187,16 +137,11 @@
       "name": "Bluey the Videogame",
       "source_url": "https://target.scene7.com/is/image/Target/GUEST_07745c6c-c9c3-4d0e-9686-56a208019b04?qlt=80&wid=1900",
       "local_path": "assets/covers/bluey-the-videogame.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        1900,
-        1900
-      ],
+      "status": "already_present",
       "dimensions": [
         1024,
         1024
       ],
-      "download_bytes": 130933,
       "stored_bytes": 80212,
       "sha256": "968b704f68f50e7f8bfea800340d3034f12de882540bf8285174995be2c541a3"
     },
@@ -204,16 +149,11 @@
       "name": "Burnout Paradise Remastered",
       "source_url": "https://art.gametdb.com/switch/box/US/AWVAA.png",
       "local_path": "assets/covers/burnout-paradise-remastered.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 154582,
       "stored_bytes": 28324,
       "sha256": "039725c14e08734547888744fac1aedbd0e35d915fe038c2e1a8d0dd0e7a39ed"
     },
@@ -221,16 +161,11 @@
       "name": "Cars 3",
       "source_url": "https://art.gametdb.com/switch/box/US/ABTDA.png",
       "local_path": "assets/covers/cars-3.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 293824,
       "stored_bytes": 40100,
       "sha256": "ad64da9f0b41036ae3e13e2e9a36aa2c22b96ae6911bfc217305dc7d511b18b6"
     },
@@ -238,16 +173,11 @@
       "name": "Castlevania Advance Collection",
       "source_url": "https://http2.mlstatic.com/D_NQ_NP_708650-MLB109816698106_042026-O.webp",
       "local_path": "assets/covers/castlevania-advance-collection.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        309,
-        500
-      ],
+      "status": "already_present",
       "dimensions": [
         309,
         500
       ],
-      "download_bytes": 40286,
       "stored_bytes": 42322,
       "sha256": "803855d91c27199785a8195fcd85fc65e2c3717a0ab0edd4aec97a4dc2860108"
     },
@@ -255,16 +185,11 @@
       "name": "Castlevania Anniversary Collection",
       "source_url": "https://art.gametdb.com/switch/box/US/ATA9B.png",
       "local_path": "assets/covers/castlevania-anniversary-collection.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 308150,
       "stored_bytes": 34638,
       "sha256": "2f4e07eabe4cbf0684eb62bada547363edc0f86b82273887728ab112dbba7ddd"
     },
@@ -272,16 +197,11 @@
       "name": "Castlevania Dominus Collection",
       "source_url": "https://www.jbhifi.com.au/cdn/shop/files/833186-Product-0-I-638916711604468881.jpg?v=1756074427",
       "local_path": "assets/covers/castlevania-dominus-collection.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        1004,
-        1004
-      ],
+      "status": "already_present",
       "dimensions": [
         1004,
         1004
       ],
-      "download_bytes": 134448,
       "stored_bytes": 124770,
       "sha256": "ff87ee803fcd27bc06e2337994a1836babcfa6c8dbe0da8f25c01d28f70050be"
     },
@@ -289,16 +209,11 @@
       "name": "Castlevania Symphony of the Night (homebrew port) for Nintendo Switch",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/10/castlevania-symphony-of-the-night.webp",
       "local_path": "assets/covers/castlevania-symphony-of-the-night-homebrew-port-for-nintendo-switch.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 22700,
       "stored_bytes": 26412,
       "sha256": "22fb7dcf27de98bfdcd04a381d7679566961043c717a4b98ebb172ed7aa8128d"
     },
@@ -306,16 +221,11 @@
       "name": "Celeste",
       "source_url": "https://art.gametdb.com/switch/box/US/ACF3A.png",
       "local_path": "assets/covers/celeste.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 305102,
       "stored_bytes": 34066,
       "sha256": "f1e5a02841dbf67a55e8dae352b5857dd3b9bf7a2c120aa78773cdb536771b6c"
     },
@@ -323,16 +233,11 @@
       "name": "Contra Operation Galuga",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/10/contra-operation-galuga.webp",
       "local_path": "assets/covers/contra-operation-galuga.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 48526,
       "stored_bytes": 56366,
       "sha256": "a30599600e2c738a0497377225a5f36d152545e3c46ddc31c4826a8bf32f9080"
     },
@@ -340,16 +245,11 @@
       "name": "Crash Bandicoot 4: It’s About Time",
       "source_url": "https://art.gametdb.com/switch/box/US/AXSRA.png",
       "local_path": "assets/covers/crash-bandicoot-4-its-about-time.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 269490,
       "stored_bytes": 40532,
       "sha256": "68b39e3ad7f5b06c630b148ae2eb3593dce29287f4ae2112848946cb5c145a4c"
     },
@@ -357,16 +257,11 @@
       "name": "Crash Bandicoot N. Sane Trilogy",
       "source_url": "https://art.gametdb.com/switch/box/US/AHQ3A.png",
       "local_path": "assets/covers/crash-bandicoot-n-sane-trilogy.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 325727,
       "stored_bytes": 46846,
       "sha256": "a8db02a9d58a26be5913de6db0388ce576c17c2cdb23cca7be6960bb6a74b567"
     },
@@ -374,16 +269,11 @@
       "name": "Crash Team Racing Nitro-Fueled",
       "source_url": "https://art.gametdb.com/switch/box/US/AST4A.png",
       "local_path": "assets/covers/crash-team-racing-nitro-fueled.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 320328,
       "stored_bytes": 41852,
       "sha256": "bfc08a9b903b0db340505106893ac369ffebda68efcc396a2c59ad763b9c0862"
     },
@@ -391,16 +281,11 @@
       "name": "Cult of the Lamb",
       "source_url": "https://art.gametdb.com/switch/box/US/A6YYA.png",
       "local_path": "assets/covers/cult-of-the-lamb.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 216250,
       "stored_bytes": 27754,
       "sha256": "768b6505f8d1efdc1f9ac49c0637034854828d5b4ca2a36e1987a15361c31bbf"
     },
@@ -408,16 +293,11 @@
       "name": "Cuphead",
       "source_url": "https://s.pacn.ws/1/p/14u/cuphead-physical-edition-735281.7.jpg?v=rjmbun",
       "local_path": "assets/covers/cuphead.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        800,
-        1298
-      ],
+      "status": "already_present",
       "dimensions": [
         631,
         1024
       ],
-      "download_bytes": 68468,
       "stored_bytes": 52440,
       "sha256": "0ce05633b44a09944f536966fb33ddcb17f7f5df14aff3afeea666c953d9645f"
     },
@@ -425,16 +305,11 @@
       "name": "Danganronpa Decadence",
       "source_url": "https://m.media-amazon.com/images/I/71z2Ci07D+L._AC_UF1000,1000_QL80_.jpg",
       "local_path": "assets/covers/danganronpa-decadence.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        616,
-        1000
-      ],
+      "status": "already_present",
       "dimensions": [
         616,
         1000
       ],
-      "download_bytes": 110568,
       "stored_bytes": 116318,
       "sha256": "2076887dc50135026bb05bfd0df1318e15df184fec6ebc02a08a5130dff63fcb"
     },
@@ -442,16 +317,11 @@
       "name": "Dark Souls Remastered",
       "source_url": "https://art.gametdb.com/switch/box/US/AK63B.png",
       "local_path": "assets/covers/dark-souls-remastered.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 309913,
       "stored_bytes": 38218,
       "sha256": "e5c8c62085d037878fd2b015aa3d139e0dfc40dec717e698d5a704a72f916617"
     },
@@ -459,16 +329,11 @@
       "name": "Dead Cells",
       "source_url": "https://art.gametdb.com/switch/box/US/ANXTA.png",
       "local_path": "assets/covers/dead-cells.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 260517,
       "stored_bytes": 28502,
       "sha256": "1170c138b2ac8ea7a3e0d5f971fe014888d04d50ee2a0951e55f0c947dd0afc3"
     },
@@ -476,16 +341,11 @@
       "name": "Demon Slayer The Hinokami Chronicles Kimetsu no Yaiba",
       "source_url": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/550502/Demon-Slayer-The-Hinokami-Chronicles-Switch-M-dia-F-sica_1713271727_gg.jpg",
       "local_path": "assets/covers/demon-slayer-the-hinokami-chronicles-kimetsu-no-yaiba.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        1000,
-        1000
-      ],
+      "status": "already_present",
       "dimensions": [
         1000,
         1000
       ],
-      "download_bytes": 159030,
       "stored_bytes": 155734,
       "sha256": "6e380e72a538911d2801e43e4352c739271baff49ec867994c82295a963467eb"
     },
@@ -493,16 +353,11 @@
       "name": "Diablo III: Eternal Collection",
       "source_url": "https://art.gametdb.com/switch/box/US/AQ3FA.png",
       "local_path": "assets/covers/diablo-iii-eternal-collection.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 341921,
       "stored_bytes": 45280,
       "sha256": "18e50f351cff64e094d4d3cfb48149e53fcc9b0fcfc2a9e64817018ea57a96cf"
     },
@@ -510,16 +365,11 @@
       "name": "Disney Classic Games Aladdin and The Lion King - Jungle Book",
       "source_url": "https://m.media-amazon.com/images/I/81hvTNlSLGL._AC_UF1000,1000_QL80_.jpg",
       "local_path": "assets/covers/disney-classic-games-aladdin-and-the-lion-king-jungle-book.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        608,
-        1000
-      ],
+      "status": "already_present",
       "dimensions": [
         608,
         1000
       ],
-      "download_bytes": 120195,
       "stored_bytes": 123718,
       "sha256": "c54c2ae265b87ddbc59d9fd65c41b51525b7b1622a16db017f90533aae599d99"
     },
@@ -527,16 +377,11 @@
       "name": "Disney Epic Mickey Rebrushed",
       "source_url": "https://nswvault.com/wp-content/uploads/2025/12/Disney_Epic_Mickey_Rebrushed.webp",
       "local_path": "assets/covers/disney-epic-mickey-rebrushed.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 23364,
       "stored_bytes": 27056,
       "sha256": "d67fe2626d63074c44f8a9148223e913550117d747ee4b9d4b860263b5172d50"
     },
@@ -544,16 +389,11 @@
       "name": "Disney Illusion Island",
       "source_url": "https://art.gametdb.com/switch/box/US/BADYA.png",
       "local_path": "assets/covers/disney-illusion-island.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 252548,
       "stored_bytes": 38766,
       "sha256": "547a142c1fb448c24a3607faf678e5d33ef8cbc741662cc420c42f807e9fe8ac"
     },
@@ -561,16 +401,11 @@
       "name": "Donkey Kong Country Returns HD",
       "source_url": "https://art.gametdb.com/switch/box/US/BDLWA.png",
       "local_path": "assets/covers/donkey-kong-country-returns-hd.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 327448,
       "stored_bytes": 51124,
       "sha256": "dba98a92584f839e8e8fdc097a11878fd4d5148d8ff1ec3b3606262c8061fbf9"
     },
@@ -578,16 +413,11 @@
       "name": "Donkey Kong Country: Tropical Freeze",
       "source_url": "https://art.gametdb.com/switch/box/US/AFWTA.png",
       "local_path": "assets/covers/donkey-kong-country-tropical-freeze.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 344868,
       "stored_bytes": 50826,
       "sha256": "e2dfc63fc449c360988d595a96aa1785600a1b8326630987382b36b3a77bf375"
     },
@@ -595,16 +425,11 @@
       "name": "DOOM Eternal",
       "source_url": "https://art.gametdb.com/switch/box/US/A6SVA.png",
       "local_path": "assets/covers/doom-eternal.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 259142,
       "stored_bytes": 24776,
       "sha256": "97a1d602efe855c85ca61aa5283f1e58451440db1eadd17f9884b187ba65063b"
     },
@@ -612,16 +437,11 @@
       "name": "Dragon Ball FighterZ",
       "source_url": "https://m.media-amazon.com/images/I/81I0kUSB88L._AC_UF1000,1000_QL80_.jpg",
       "local_path": "assets/covers/dragon-ball-fighterz.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        622,
-        1000
-      ],
+      "status": "already_present",
       "dimensions": [
         622,
         1000
       ],
-      "download_bytes": 162707,
       "stored_bytes": 188550,
       "sha256": "b547f55c2a375cd972bb663d54ad5f203eef4f9452ccb25c77de9e5d5284ed69"
     },
@@ -629,16 +449,11 @@
       "name": "Dragon Ball Sparking Zero",
       "source_url": "https://down-id.img.susercontent.com/file/id-11134207-82250-mfvuxh3gkniia2",
       "local_path": "assets/covers/dragon-ball-sparking-zero.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        1024,
-        1024
-      ],
+      "status": "already_present",
       "dimensions": [
         1024,
         1024
       ],
-      "download_bytes": 148056,
       "stored_bytes": 129396,
       "sha256": "c2efe5a001bea182a8f2665b0f72559c7f5d73ebe98244b935673020ba27903a"
     },
@@ -646,16 +461,11 @@
       "name": "Dragon Ball Xenoverse 2",
       "source_url": "https://art.gametdb.com/switch/box/US/ABYBA.png",
       "local_path": "assets/covers/dragon-ball-xenoverse-2.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 262269,
       "stored_bytes": 38780,
       "sha256": "d30939584579c6905c0bc9e7b91aac4f04faf2e1dd0c6c26943ea8c90fbb174a"
     },
@@ -663,16 +473,11 @@
       "name": "Dragon Ball Z Kakarot + A New Power Awakens Set",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/01/Dragon-Ball-Z-Kakarot-A-New-Power-Awakens-Set.jpeg",
       "local_path": "assets/covers/dragon-ball-z-kakarot-a-new-power-awakens-set.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        632,
-        1024
-      ],
+      "status": "already_present",
       "dimensions": [
         632,
         1024
       ],
-      "download_bytes": 69149,
       "stored_bytes": 78074,
       "sha256": "b57dc7fb159d0dbff95a07f665aa97c17abb87296b00bf6c8d73e4a6c63a302b"
     },
@@ -680,16 +485,11 @@
       "name": "EA SPORTS FC 26",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/04/EA-SPORTS-FC-26.webp",
       "local_path": "assets/covers/ea-sports-fc-26.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        345,
-        558
-      ],
+      "status": "already_present",
       "dimensions": [
         345,
         558
       ],
-      "download_bytes": 32262,
       "stored_bytes": 39688,
       "sha256": "24442b0dff70fcc585da1ca63590c17f193f676a039a0a3d377ee627d370ea9e"
     },
@@ -697,16 +497,11 @@
       "name": "EA SPORTS FC 27",
       "source_url": "https://m.media-amazon.com/images/I/610+fLoIm8L._AC_UF1000,1000_QL80_.jpg",
       "local_path": "assets/covers/ea-sports-fc-27.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        618,
-        1000
-      ],
+      "status": "already_present",
       "dimensions": [
         618,
         1000
       ],
-      "download_bytes": 109720,
       "stored_bytes": 118234,
       "sha256": "dc6fbf8843145fd8613853b8fa90e2fa4d1ee9a8ad1c90333ce20ac073afc26d"
     },
@@ -714,16 +509,11 @@
       "name": "Everybody 1-2-Switch!",
       "source_url": "https://art.gametdb.com/switch/box/US/ARGTA.png",
       "local_path": "assets/covers/everybody-1-2-switch.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 319383,
       "stored_bytes": 47170,
       "sha256": "91204d8f757a2ff5d83577ed823dd7f565bb160c575aef0aca9019b120901282"
     },
@@ -731,16 +521,11 @@
       "name": "Formula Legends",
       "source_url": "https://m.media-amazon.com/images/I/71aIXc9QbhL._AC_SL1500_.jpg",
       "local_path": "assets/covers/formula-legends.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        928,
-        1500
-      ],
+      "status": "already_present",
       "dimensions": [
         634,
         1024
       ],
-      "download_bytes": 158708,
       "stored_bytes": 72644,
       "sha256": "23e51a67b70fc7119eebc1653db01346a6ccd92758c67eb52242b98b01c0a865"
     },
@@ -748,16 +533,11 @@
       "name": "Game Boy – Nintendo Switch Online",
       "source_url": "https://images.launchbox-app.com/8cbf8dfc-5c07-45e3-bbc7-8d18a661fba1.png",
       "local_path": "assets/covers/game-boy-nintendo-switch-online.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        964,
-        1569
-      ],
+      "status": "already_present",
       "dimensions": [
         629,
         1024
       ],
-      "download_bytes": 478835,
       "stored_bytes": 26422,
       "sha256": "e9a3b88993f884cb8b647960c60e14bdfb6001a12ad4dc42c0e903c3fbe1044d"
     },
@@ -765,16 +545,11 @@
       "name": "Game Boy Advance – Nintendo Switch Online",
       "source_url": "https://images.launchbox-app.com/ebd96614-f63d-4d12-9b81-41a8d4a2c944.png",
       "local_path": "assets/covers/game-boy-advance-nintendo-switch-online.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        964,
-        1569
-      ],
+      "status": "already_present",
       "dimensions": [
         629,
         1024
       ],
-      "download_bytes": 588331,
       "stored_bytes": 33710,
       "sha256": "8a734e189e69329dc94f2c42c27dee452aaccaa71544c812974411f49dbfda91"
     },
@@ -782,16 +557,11 @@
       "name": "Ghosts n Goblins Resurrection",
       "source_url": "https://i.pinimg.com/736x/93/25/a0/9325a0dcc42463f8edcfe22acd454801.jpg",
       "local_path": "assets/covers/ghosts-n-goblins-resurrection.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        702,
-        1138
-      ],
+      "status": "already_present",
       "dimensions": [
         632,
         1024
       ],
-      "download_bytes": 168597,
       "stored_bytes": 122164,
       "sha256": "ed65f1b0295c719dc2cba1a39b40b2e1d7d81b86bdab88131038e366df5b1cc2"
     },
@@ -799,16 +569,11 @@
       "name": "Grand Theft Auto The Trilogy – The Definitive Edition",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/09/grand-theft-auto-san-andreas-the-definitive-edition.webp",
       "local_path": "assets/covers/grand-theft-auto-the-trilogy-the-definitive-edition.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        309,
-        500
-      ],
+      "status": "already_present",
       "dimensions": [
         309,
         500
       ],
-      "download_bytes": 28768,
       "stored_bytes": 33072,
       "sha256": "f0eee4573d64c2bc744eb918d723910c7615ff6427557845a0d84cd3daddf836"
     },
@@ -816,16 +581,11 @@
       "name": "Grounded",
       "source_url": "https://nswvault.com/wp-content/uploads/2025/05/Grounded.webp",
       "local_path": "assets/covers/grounded.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 30758,
       "stored_bytes": 35410,
       "sha256": "302b49c54b41311d1f2e39ca014941b3b63268f10e1aa2ed5e7e0bc6d2ce9600"
     },
@@ -833,16 +593,11 @@
       "name": "Hades",
       "source_url": "https://art.gametdb.com/switch/box/US/AY9RA.png",
       "local_path": "assets/covers/hades.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 235133,
       "stored_bytes": 37056,
       "sha256": "6ac92691ca0f6b45d484b1768cde9df30c7bcc3bf2b7287f475fe344a5061cf7"
     },
@@ -850,16 +605,11 @@
       "name": "Hades II",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/09/hades-2.webp",
       "local_path": "assets/covers/hades-ii.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 42862,
       "stored_bytes": 49680,
       "sha256": "b56a5a4fc92673bab9b5c26daa6ed6fb20a00905807d081894e9cbe6130cb865"
     },
@@ -867,16 +617,11 @@
       "name": "Hello Kitty Island Adventure",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/09/hello-kitty-island-adventure-deluxe-edition.webp",
       "local_path": "assets/covers/hello-kitty-island-adventure.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        495,
-        800
-      ],
+      "status": "already_present",
       "dimensions": [
         495,
         800
       ],
-      "download_bytes": 54156,
       "stored_bytes": 62388,
       "sha256": "c6e75af7086af4c7c60fd7c142612a3c7671343fc328e4cf1cd7634d9eabbda4"
     },
@@ -884,16 +629,11 @@
       "name": "Hogwarts Legacy",
       "source_url": "https://variety.com/wp-content/uploads/2023/11/hogwarts-legacy-nintendo-switch-box-art.jpg",
       "local_path": "assets/covers/hogwarts-legacy.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        930,
-        1500
-      ],
+      "status": "already_present",
       "dimensions": [
         635,
         1024
       ],
-      "download_bytes": 176102,
       "stored_bytes": 99088,
       "sha256": "7954cad2b7ecc9573023947e65b62145834c49649caef9323e609d807766f87e"
     },
@@ -901,16 +641,11 @@
       "name": "Hollow Knight",
       "source_url": "https://art.gametdb.com/switch/box/US/AKLHA.png",
       "local_path": "assets/covers/hollow-knight.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 283909,
       "stored_bytes": 32946,
       "sha256": "34121608691b6a8e27eafb20e8b4214a5136ba505a7c3c417d80d7b48e5567a8"
     },
@@ -918,16 +653,11 @@
       "name": "Hollow Knight: Silksong",
       "source_url": "https://totalcards.net/cdn/shop/files/hollow-knight-silksong_grande.jpg?v=1711634597",
       "local_path": "assets/covers/hollow-knight-silksong.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        600,
-        600
-      ],
+      "status": "already_present",
       "dimensions": [
         600,
         600
       ],
-      "download_bytes": 40606,
       "stored_bytes": 33206,
       "sha256": "5c4adc4061298cb3f187f3f42e4c11a7d4fa16d6505efa9e8a8ff41ad445ceee"
     },
@@ -935,16 +665,11 @@
       "name": "Horizon Chase 2",
       "source_url": "https://s.pacn.ws/1/p/14l/horizon-chase-2-730843.7.jpg?v=rhgfm0",
       "local_path": "assets/covers/horizon-chase-2.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        926,
-        1500
-      ],
+      "status": "already_present",
       "dimensions": [
         632,
         1024
       ],
-      "download_bytes": 92676,
       "stored_bytes": 63270,
       "sha256": "06b569bad9f0ecda3627a29c520259baef8df875f27fcd73d7f5d4ec974b3f34"
     },
@@ -952,16 +677,11 @@
       "name": "Horizon Chase Turbo",
       "source_url": "https://media.gamestop.com/i/gamestop/11094683/Horizon-Chase-Turbo",
       "local_path": "assets/covers/horizon-chase-turbo.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        1943,
-        1943
-      ],
+      "status": "already_present",
       "dimensions": [
         1024,
         1024
       ],
-      "download_bytes": 231198,
       "stored_bytes": 58146,
       "sha256": "6a2898d6e1bb27d7195742d79d64b5e5110573746213c7f90c87395b6526405a"
     },
@@ -969,16 +689,11 @@
       "name": "Hot Wheels Monster Trucks Stunt Mayhem",
       "source_url": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/23N7GC/2f7edd5-b41a4e69879075e6c8b5f97c.png/f/hot-wheels-monster-trucks-stunt-mayhem.png?borderless=1&height=484&transparent=1",
       "local_path": "assets/covers/hot-wheels-monster-trucks-stunt-mayhem.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        298,
-        484
-      ],
+      "status": "already_present",
       "dimensions": [
         298,
         484
       ],
-      "download_bytes": 276993,
       "stored_bytes": 41586,
       "sha256": "714021a7a714a8491698e1740fbadda5710dba72124e7840c64107f2e5a5b9eb"
     },
@@ -986,16 +701,11 @@
       "name": "Hot Wheels Unleashed",
       "source_url": "https://m.media-amazon.com/images/I/81J7KuOrI1L.jpg",
       "local_path": "assets/covers/hot-wheels-unleashed.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        1581,
-        2560
-      ],
+      "status": "already_present",
       "dimensions": [
         632,
         1024
       ],
-      "download_bytes": 350249,
       "stored_bytes": 84410,
       "sha256": "4634cb34c53302e7baa1ede8942edd6c51e3ad44e3fbde4ba4b56b5b8f38aeaf"
     },
@@ -1003,16 +713,11 @@
       "name": "Hot Wheels Unleashed 2 Turbocharged",
       "source_url": "https://www.wog.ch/nas/cover_xl/sw/sw_hotwheelsunleashed2turbochargedciab.jpg",
       "local_path": "assets/covers/hot-wheels-unleashed-2-turbocharged.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        693,
-        1116
-      ],
+      "status": "already_present",
       "dimensions": [
         636,
         1024
       ],
-      "download_bytes": 142100,
       "stored_bytes": 131172,
       "sha256": "d8b1fac25f4447f0124cf52e9ea3d1d353c103e6dd3786a71f3adc6254682d1a"
     },
@@ -1020,16 +725,11 @@
       "name": "Hyrule Warriors: Age of Calamity",
       "source_url": "https://art.gametdb.com/switch/box/US/AXEAB.png",
       "local_path": "assets/covers/hyrule-warriors-age-of-calamity.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 326644,
       "stored_bytes": 41082,
       "sha256": "0bf3b8295d2b30b54f7e78b90d39df431ff853433266f3f9167b653741bb549f"
     },
@@ -1037,16 +737,11 @@
       "name": "Immortals Fenyx Rising",
       "source_url": "https://art.gametdb.com/switch/box/US/AU84A.png",
       "local_path": "assets/covers/immortals-fenyx-rising.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 303329,
       "stored_bytes": 37876,
       "sha256": "ef10d7b0c6efc1a9694f656d7daa9880d268b8e0655e6e08493aca9ce391c5d9"
     },
@@ -1054,16 +749,11 @@
       "name": "Inside",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/10/inside.webp",
       "local_path": "assets/covers/inside.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 8476,
       "stored_bytes": 9902,
       "sha256": "a9d271805d85b939e4839ffc3e7fd8bb3d6e963c7ecb63886b3eed80fdbdff5f"
     },
@@ -1071,16 +761,11 @@
       "name": "It Takes Two",
       "source_url": "https://art.gametdb.com/switch/box/US/A7GST.png",
       "local_path": "assets/covers/it-takes-two.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 255599,
       "stored_bytes": 33196,
       "sha256": "aa8c22afed76ebd9b7981ee719be946ee8d585857c6f5bd5ec096b252b0beefa"
     },
@@ -1088,16 +773,11 @@
       "name": "Just Dance 2025 plus",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/03/Just-Dance-2025-Edition-Custom-Offline-JD-Minus.png",
       "local_path": "assets/covers/just-dance-2025-plus.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 417850,
       "stored_bytes": 46650,
       "sha256": "e7195e537176174481eec141ccee91f0c6bc4f8cf341e4cfec8c54abe5651eb8"
     },
@@ -1105,16 +785,11 @@
       "name": "Kaze and the Wild Masks",
       "source_url": "https://art.gametdb.com/switch/box/US/AVEDA.png",
       "local_path": "assets/covers/kaze-and-the-wild-masks.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 266285,
       "stored_bytes": 32350,
       "sha256": "5372966d13e4bedcc80cf1c5cb3dc0cc58ef7d49aacce3d56cffa638811a5f0a"
     },
@@ -1122,16 +797,11 @@
       "name": "Kirby and the Forgotten Land",
       "source_url": "https://art.gametdb.com/switch/box/US/ARZGA.png",
       "local_path": "assets/covers/kirby-and-the-forgotten-land.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 309406,
       "stored_bytes": 44736,
       "sha256": "ee419fff85e108ac68067f8f43cf1b3abefa29327f83854da9f40421ab46e2d0"
     },
@@ -1139,16 +809,11 @@
       "name": "LEGO DC Super-Villains",
       "source_url": "https://art.gametdb.com/switch/box/US/ANW7A.png",
       "local_path": "assets/covers/lego-dc-super-villains.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 303394,
       "stored_bytes": 42502,
       "sha256": "ad60861ad53c16f30bd9c73e93a2197c35fbef8a7a4e40ddb7fa19332229c598"
     },
@@ -1156,16 +821,11 @@
       "name": "LEGO Harry Potter Collection",
       "source_url": "https://art.gametdb.com/switch/box/US/AQPZA.png",
       "local_path": "assets/covers/lego-harry-potter-collection.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 299129,
       "stored_bytes": 40424,
       "sha256": "47e89324c0ed4b230200f307a427f24738097f4ebee933dc27c5e5af7dfd6896"
     },
@@ -1173,16 +833,11 @@
       "name": "LEGO Horizon Adventures",
       "source_url": "https://m.media-amazon.com/images/I/81MtfFqZWKL._AC_SY741_.jpg",
       "local_path": "assets/covers/lego-horizon-adventures.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        458,
-        741
-      ],
+      "status": "already_present",
       "dimensions": [
         458,
         741
       ],
-      "download_bytes": 95831,
       "stored_bytes": 96656,
       "sha256": "014129dd3e9fd1f2a16e22fa22792e400e0e6714f291fc1eb5d01bdb97039dc3"
     },
@@ -1190,16 +845,11 @@
       "name": "LEGO Jurassic World",
       "source_url": "https://art.gametdb.com/switch/box/US/AUM9A.png",
       "local_path": "assets/covers/lego-jurassic-world.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 298040,
       "stored_bytes": 39120,
       "sha256": "292cf0fa029668165599d430bf81767efb9567fc97acce5146bcb5d945d69a8b"
     },
@@ -1207,16 +857,11 @@
       "name": "LEGO Marvel Super Heroes",
       "source_url": "https://m.media-amazon.com/images/I/618TWZNbUtL._AC_SY741_.jpg",
       "local_path": "assets/covers/lego-marvel-super-heroes.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        458,
-        741
-      ],
+      "status": "already_present",
       "dimensions": [
         458,
         741
       ],
-      "download_bytes": 71736,
       "stored_bytes": 69518,
       "sha256": "ab9e814e1fb3902a48f73fc2f52ae9b1afe812b85bc5634cdc046087065ea1b6"
     },
@@ -1224,16 +869,11 @@
       "name": "LEGO Marvel Super Heroes 2",
       "source_url": "https://art.gametdb.com/switch/box/US/AEANA.png",
       "local_path": "assets/covers/lego-marvel-super-heroes-2.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 318191,
       "stored_bytes": 46234,
       "sha256": "94b3751d2328d0a89d85bb722bec7082e0d87b21aa8b47a9a8df5d3f58f35714"
     },
@@ -1241,16 +881,11 @@
       "name": "LEGO NINJAGO Movie Video Game",
       "source_url": "https://art.gametdb.com/switch/box/US/AB4JA.png",
       "local_path": "assets/covers/lego-ninjago-movie-video-game.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 333245,
       "stored_bytes": 49258,
       "sha256": "47490eba9f1ede05d11fc221a9773c12620c0370828aa27396fdbcb1708a48ee"
     },
@@ -1258,16 +893,11 @@
       "name": "LEGO Party",
       "source_url": "https://m.media-amazon.com/images/I/81BJNaACs3L._AC_SY500_.jpg",
       "local_path": "assets/covers/lego-party.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        308,
-        500
-      ],
+      "status": "already_present",
       "dimensions": [
         308,
         500
       ],
-      "download_bytes": 42637,
       "stored_bytes": 42228,
       "sha256": "0b794c5c26e1dcba0e0730de989391a81816e3845d00aa84d11b67f66db2d44f"
     },
@@ -1275,16 +905,11 @@
       "name": "LEGO Star Wars The Skywalker Saga",
       "source_url": "https://art.gametdb.com/switch/box/US/ATHJA.png",
       "local_path": "assets/covers/lego-star-wars-the-skywalker-saga.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 285987,
       "stored_bytes": 39246,
       "sha256": "a9bd25857419ddf6a27ed9eced4e17e36caf067fef614f28ba4997da917b588b"
     },
@@ -1292,16 +917,11 @@
       "name": "Let's Sing 2025",
       "source_url": "https://m.media-amazon.com/images/I/71Hj46a90nL.jpg",
       "local_path": "assets/covers/let-s-sing-2025.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        1200,
-        1902
-      ],
+      "status": "already_present",
       "dimensions": [
         646,
         1024
       ],
-      "download_bytes": 233138,
       "stored_bytes": 79320,
       "sha256": "1233a68637d0fbc74a8029ddb2fec4d2f1dfa96dca9caa8481b59fba71212988"
     },
@@ -1315,16 +935,11 @@
       "name": "Little Nightmares",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/03/little-nightmers-complete-edition.webp",
       "local_path": "assets/covers/little-nightmares.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        512,
-        839
-      ],
+      "status": "already_present",
       "dimensions": [
         512,
         839
       ],
-      "download_bytes": 26546,
       "stored_bytes": 30320,
       "sha256": "018f37901552bd0382a40f1cd1819d3d8e613a1c85bf7b3ce8a42bc33a0c5a24"
     },
@@ -1332,16 +947,11 @@
       "name": "Little Nightmares 2",
       "source_url": "https://art.gametdb.com/switch/box/US/AU56A.png",
       "local_path": "assets/covers/little-nightmares-2.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 233956,
       "stored_bytes": 24060,
       "sha256": "fac708a8aaa7de36ff168f3947830178f49613abc88313f8afb2b30ab8abded6"
     },
@@ -1349,16 +959,11 @@
       "name": "Little Nightmares III",
       "source_url": "https://nswvault.com/wp-content/uploads/2025/10/Little-Nightmares-III.png",
       "local_path": "assets/covers/little-nightmares-iii.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 319805,
       "stored_bytes": 26974,
       "sha256": "2389e8f189cb609db1a88c84b00de1a2fa5dd6ecde60b8ccd4481e284427af22"
     },
@@ -1366,16 +971,11 @@
       "name": "Luigi’s Mansion 3",
       "source_url": "https://art.gametdb.com/switch/box/US/AG3JA.png",
       "local_path": "assets/covers/luigis-mansion-3.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 270501,
       "stored_bytes": 33412,
       "sha256": "fa49ec89f57e045af524ff1b5338a719044f29acd05e6521b215eb735664459a"
     },
@@ -1383,16 +983,11 @@
       "name": "Luigis Mansion 2 HD",
       "source_url": "https://art.gametdb.com/switch/box/US/BANRA.png",
       "local_path": "assets/covers/luigis-mansion-2-hd.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 243309,
       "stored_bytes": 22976,
       "sha256": "62db7600c608ed6de834d59e4ac073b3a4e477d4b3bc4928d42cb80d8144c5a1"
     },
@@ -1400,16 +995,11 @@
       "name": "Mario & Luigi: Brothership",
       "source_url": "https://art.gametdb.com/switch/box/US/A8E6A.png",
       "local_path": "assets/covers/mario-luigi-brothership.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 269416,
       "stored_bytes": 35998,
       "sha256": "601bf3b1c9c8a50a617f6927875fe7b6880e863a6b5bb3e0994b96b5997ecd82"
     },
@@ -1417,16 +1007,11 @@
       "name": "Mario Golf Super Rush",
       "source_url": "https://art.gametdb.com/switch/box/US/AT9HA.png",
       "local_path": "assets/covers/mario-golf-super-rush.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 340062,
       "stored_bytes": 51906,
       "sha256": "826e2548474e38f059e17e1352c5a2a7fe76fac92090c450a5103b5b0f7a8c58"
     },
@@ -1434,16 +1019,11 @@
       "name": "Mario Kart 8 Deluxe",
       "source_url": "https://art.gametdb.com/switch/box/US/AABPA.png",
       "local_path": "assets/covers/mario-kart-8-deluxe.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 344635,
       "stored_bytes": 51862,
       "sha256": "4f7d51fada3f79b648a222de5c63eefabaa7f92785e6b02d16ec76faab61d95d"
     },
@@ -1451,16 +1031,11 @@
       "name": "Mario Strikers: Battle League",
       "source_url": "https://art.gametdb.com/switch/box/US/AWN6A.png",
       "local_path": "assets/covers/mario-strikers-battle-league.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 365136,
       "stored_bytes": 54958,
       "sha256": "2ea2b2d60d7ee3b154047c2153cfbb7fadb39069487003267f1f25bb5d6bdc80"
     },
@@ -1468,16 +1043,11 @@
       "name": "Mario Tennis Aces",
       "source_url": "https://art.gametdb.com/switch/box/US/ALERA.png",
       "local_path": "assets/covers/mario-tennis-aces.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 335666,
       "stored_bytes": 51536,
       "sha256": "c1ab66e19d8fa6785d91d964c7fd768278a9d38964dc7da8ce81921c07dcf23c"
     },
@@ -1485,16 +1055,11 @@
       "name": "Mario vs. Donkey Kong",
       "source_url": "https://nswvault.com/wp-content/uploads/2025/12/Mario_vs._Donkey_Kong.webp",
       "local_path": "assets/covers/mario-vs-donkey-kong.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 43660,
       "stored_bytes": 49510,
       "sha256": "5e3daec76f83eaa14b183ec0e1eb6ff4bdbc7f8d52d8ac9e0a3b845446622ce4"
     },
@@ -1502,16 +1067,11 @@
       "name": "Marvel Ultimate Alliance 3 The Black Order + DLC",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/06/marvel-ultimate-alliance-3-the-black-order-720x1166.webp",
       "local_path": "assets/covers/marvel-ultimate-alliance-3-the-black-order-dlc.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        720,
-        1166
-      ],
+      "status": "already_present",
       "dimensions": [
         632,
         1024
       ],
-      "download_bytes": 99264,
       "stored_bytes": 108324,
       "sha256": "dae44de3e989b55de99249a4aad1ca42783ae4246b4e76888fb72bef077b0a2f"
     },
@@ -1519,16 +1079,11 @@
       "name": "Marvel vs Capcom Fighting Collection Arcade Classics",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/05/marvel-vs-capcom-fighting-collection-arcade-classics.webp",
       "local_path": "assets/covers/marvel-vs-capcom-fighting-collection-arcade-classics.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 74670,
       "stored_bytes": 85406,
       "sha256": "e6efdb01f3b905fde73ff254093ed45fcb4bee2c728d0d8fc8944a00bc7a0769"
     },
@@ -1536,16 +1091,11 @@
       "name": "Mega Man 11",
       "source_url": "https://art.gametdb.com/switch/box/US/ALGCA.png",
       "local_path": "assets/covers/mega-man-11.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 296155,
       "stored_bytes": 32358,
       "sha256": "daa44a36f4bade28e28bc5107dda44f3fbff4a248f2c244d478830177e03708e"
     },
@@ -1553,16 +1103,11 @@
       "name": "Mega Man Legacy Collection 1 + 2",
       "source_url": "https://gameline.ph/cdn/shop/products/MMLC_625x625.png?",
       "local_path": "assets/covers/mega-man-legacy-collection-1-2.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        625,
-        625
-      ],
+      "status": "already_present",
       "dimensions": [
         625,
         625
       ],
-      "download_bytes": 95156,
       "stored_bytes": 67512,
       "sha256": "7689bc5921c6b55046838ffb707a78aa460b2c3e65a1b723e6e094dee925fa38"
     },
@@ -1570,16 +1115,11 @@
       "name": "Mega Man X Legacy Collection 1+2",
       "source_url": "https://cdn.awsli.com.br/2500x2500/53/53761/produto/29705747/215675e9d5.jpg",
       "local_path": "assets/covers/mega-man-x-legacy-collection-1-2.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        1200,
-        1200
-      ],
+      "status": "already_present",
       "dimensions": [
         1024,
         1024
       ],
-      "download_bytes": 143922,
       "stored_bytes": 105362,
       "sha256": "18d9eac0d0f6b0e2687240d6d4e473b24a8cb780ee43fb9501f3f4de19fc97c2"
     },
@@ -1587,16 +1127,11 @@
       "name": "Mega Man Zero/ZX Legacy Collection",
       "source_url": "https://art.gametdb.com/switch/box/US/AS4UA.png",
       "local_path": "assets/covers/mega-man-zero-zx-legacy-collection.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 318440,
       "stored_bytes": 42354,
       "sha256": "b3af6593784d4be6a615fa41bd35e9928e7969a662681cdb301ba22078ca235a"
     },
@@ -1604,16 +1139,11 @@
       "name": "Metroid Dread",
       "source_url": "https://art.gametdb.com/switch/box/US/AYL8A.png",
       "local_path": "assets/covers/metroid-dread.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 267622,
       "stored_bytes": 26988,
       "sha256": "9fa100d8a507a13e908a3ae2350527f0783e628f60f00b398e80bdf7633e803b"
     },
@@ -1621,16 +1151,11 @@
       "name": "Metroid Prime 4 Beyond",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/05/metroid-prime-4-beyond.webp",
       "local_path": "assets/covers/metroid-prime-4-beyond.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 45148,
       "stored_bytes": 52172,
       "sha256": "a7eed409b2e42d94c33c15133f2599cf3a45c461c29d9ebf2031efe71cb61b3f"
     },
@@ -1638,16 +1163,11 @@
       "name": "Metroid Prime Remastered",
       "source_url": "https://art.gametdb.com/switch/box/US/A3SDA.png",
       "local_path": "assets/covers/metroid-prime-remastered.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 236607,
       "stored_bytes": 26904,
       "sha256": "d48f2b104739cb35b8140241cc83c31e98348216451856f76f379b9f5cf132a4"
     },
@@ -1655,16 +1175,11 @@
       "name": "MGS Master Collection Vol. 1",
       "source_url": "https://art.gametdb.com/switch/box/US/BCK6A.png",
       "local_path": "assets/covers/mgs-master-collection-vol-1.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 210623,
       "stored_bytes": 31976,
       "sha256": "2e930cddfbe9edad2114b8b159f4e599dca0f202077be8f26a97c399a63b4a50"
     },
@@ -1672,16 +1187,11 @@
       "name": "Mighty Morphin Power Rangers Rita's Rewind",
       "source_url": "https://down-br.img.susercontent.com/file/sg-11134201-7rauu-maiggmo4t6d2f7",
       "local_path": "assets/covers/mighty-morphin-power-rangers-rita-s-rewind.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        1024,
-        1024
-      ],
+      "status": "already_present",
       "dimensions": [
         1024,
         1024
       ],
-      "download_bytes": 222833,
       "stored_bytes": 126130,
       "sha256": "f4dbaf224a89850a2b72661e442174047625344e7385bebb83aec067d888e55e"
     },
@@ -1689,16 +1199,11 @@
       "name": "Minecraft",
       "source_url": "https://art.gametdb.com/switch/box/US/AEUCA.png",
       "local_path": "assets/covers/minecraft.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 243427,
       "stored_bytes": 33240,
       "sha256": "a0a740f296bd2aa206e2bd5b0299966a4492702efc9cff04c32b4f61994b3ea5"
     },
@@ -1706,16 +1211,11 @@
       "name": "Minecraft Legends",
       "source_url": "https://art.gametdb.com/switch/box/US/AZJ4A.png",
       "local_path": "assets/covers/minecraft-legends.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 313372,
       "stored_bytes": 42806,
       "sha256": "7fa15fc4bc0acb443f372ec692ed5f0968ff48b87733e8d67a7345613650448e"
     },
@@ -1723,16 +1223,11 @@
       "name": "Minecraft Story Mode",
       "source_url": "https://art.gametdb.com/switch/box/US/APFZA.png",
       "local_path": "assets/covers/minecraft-story-mode.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 274539,
       "stored_bytes": 35678,
       "sha256": "8ceb375f7528a43eed1788483c9a4ca8aa861bf1340141d79afde110e0ecbde1"
     },
@@ -1740,16 +1235,11 @@
       "name": "Monster Hunter Rise",
       "source_url": "https://art.gametdb.com/switch/box/US/AXSEB.png",
       "local_path": "assets/covers/monster-hunter-rise.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 323547,
       "stored_bytes": 40948,
       "sha256": "e284f34ae430f993cd863baa894ebe32059090f788a59546b5d744efe6de7a70"
     },
@@ -1757,16 +1247,11 @@
       "name": "Morbid the Lords of Ire",
       "source_url": "https://m.media-amazon.com/images/I/718kaYp-RxL.jpg",
       "local_path": "assets/covers/morbid-the-lords-of-ire.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        1024,
-        1658
-      ],
+      "status": "already_present",
       "dimensions": [
         632,
         1024
       ],
-      "download_bytes": 231837,
       "stored_bytes": 108280,
       "sha256": "80466b3809e04981b53f60bb702716d90d7e7c64ce892abee70d2b8e44d31dc8"
     },
@@ -1774,16 +1259,11 @@
       "name": "Mortal Kombat 1",
       "source_url": "https://art.gametdb.com/switch/box/US/A8WRA.png",
       "local_path": "assets/covers/mortal-kombat-1.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 218086,
       "stored_bytes": 25038,
       "sha256": "a6fa12417b6404c2819af5e1be16b958da31a463cd25ace9f852f621ca623231"
     },
@@ -1791,16 +1271,11 @@
       "name": "Mortal Kombat 11",
       "source_url": "https://art.gametdb.com/switch/box/US/ASADA.png",
       "local_path": "assets/covers/mortal-kombat-11.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 262732,
       "stored_bytes": 26628,
       "sha256": "7c64b38f45778fa276fe72d983d27a5d2902acb9ef8d2fa3270d19fc9ad93c69"
     },
@@ -1808,16 +1283,11 @@
       "name": "Mortal Kombat Legacy Kollection",
       "source_url": "https://videogamesplus.ca/cdn/shop/files/VGP0023273_748x748.png?v=1753975914",
       "local_path": "assets/covers/mortal-kombat-legacy-kollection.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        748,
-        748
-      ],
+      "status": "already_present",
       "dimensions": [
         748,
         748
       ],
-      "download_bytes": 32252,
       "stored_bytes": 25482,
       "sha256": "807f661e183bda25736b9819f1254f971b4a1b206be149afbe0dc8ac5d7ed461"
     },
@@ -1825,16 +1295,11 @@
       "name": "My Sims Cozy Bundle",
       "source_url": "https://image.smythstoys.com/original/800/desktop/243686.jpg",
       "local_path": "assets/covers/my-sims-cozy-bundle.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        800,
-        800
-      ],
+      "status": "already_present",
       "dimensions": [
         800,
         800
       ],
-      "download_bytes": 337948,
       "stored_bytes": 76822,
       "sha256": "931b8aafcd17f7cf5aec043d205446866e5ee496af4e0e10b13f8f71031837a5"
     },
@@ -1842,16 +1307,11 @@
       "name": "My Universe - Pet Clinic Cats and Dogs",
       "source_url": "https://m.media-amazon.com/images/I/71+TqQ142tL.jpg",
       "local_path": "assets/covers/my-universe-pet-clinic-cats-and-dogs.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        841,
-        1360
-      ],
+      "status": "already_present",
       "dimensions": [
         633,
         1024
       ],
-      "download_bytes": 177825,
       "stored_bytes": 101516,
       "sha256": "d16139068b02eeb7b95cec781d1bbee348928afb413901da2164370f464fd2cb"
     },
@@ -1859,16 +1319,11 @@
       "name": "NAMCO Museum Arcade Pac",
       "source_url": "https://art.gametdb.com/switch/box/US/AP3MA.png",
       "local_path": "assets/covers/namco-museum-arcade-pac.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 319454,
       "stored_bytes": 41202,
       "sha256": "776a58fe9924955ec25294507434fd4c30172b1fa5d265f2b9aee139b1ce1b2c"
     },
@@ -1876,16 +1331,11 @@
       "name": "NAMCO Museum Archive Vol 1",
       "source_url": "https://m.media-amazon.com/images/I/81sM+uoww+L.jpg",
       "local_path": "assets/covers/namco-museum-archive-vol-1.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        1240,
-        2008
-      ],
+      "status": "already_present",
       "dimensions": [
         632,
         1024
       ],
-      "download_bytes": 397341,
       "stored_bytes": 131584,
       "sha256": "f5851bd487ed74a9a328438c41a4b25f2009d4e5794a984efcb91542a4f0d589"
     },
@@ -1893,16 +1343,11 @@
       "name": "NAMCO Museum Archive Vol 2",
       "source_url": "https://m.media-amazon.com/images/I/81AqlXDJUOL.jpg",
       "local_path": "assets/covers/namco-museum-archive-vol-2.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        1240,
-        2008
-      ],
+      "status": "already_present",
       "dimensions": [
         632,
         1024
       ],
-      "download_bytes": 415128,
       "stored_bytes": 138746,
       "sha256": "ef2756a19906997c13750b78411bb8112ee5bb6c12a1054ae0ad6b659bb463e1"
     },
@@ -1910,16 +1355,11 @@
       "name": "Naruto Shippuden Ultimate Ninja Storm 4 Road to Boruto",
       "source_url": "https://http2.mlstatic.com/D_NQ_NP_2X_723691-MLA99853450425_112025-F.webp",
       "local_path": "assets/covers/naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        309,
-        500
-      ],
+      "status": "already_present",
       "dimensions": [
         309,
         500
       ],
-      "download_bytes": 32626,
       "stored_bytes": 37424,
       "sha256": "6653bf73da66a7e5847c2e0533177a7f23f9d2b9e4fd0d43fafd4d116bfe58c9"
     },
@@ -1927,16 +1367,11 @@
       "name": "Naruto Shippuden Ultimate Ninja Storm Trilogy",
       "source_url": "https://nintendoeverything.com/wp-content/uploads/naruto-shippuden-trilogy-boxart.jpg",
       "local_path": "assets/covers/naruto-shippuden-ultimate-ninja-storm-trilogy.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        485
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         485
       ],
-      "download_bytes": 160224,
       "stored_bytes": 44022,
       "sha256": "e1f85c3296b6c519a59cbc4e4fa600bec3b4b7a7ec4c89e59149ba7142223559"
     },
@@ -1944,16 +1379,11 @@
       "name": "Naruto x Boruto Ultimate Ninja Storm Connections",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/04/NARUTO-X-BORUTO-Ultimate-Ninja-STORM-CONNECTIONS.webp",
       "local_path": "assets/covers/naruto-x-boruto-ultimate-ninja-storm-connections.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 66832,
       "stored_bytes": 77530,
       "sha256": "9b7d08314b5d16524811b6ef8f567b9deae460a4d7f3dd988638c255600c56d0"
     },
@@ -1961,16 +1391,11 @@
       "name": "Need for Speed Hot Pursuit Remastered",
       "source_url": "https://art.gametdb.com/switch/box/US/AXVXA.png",
       "local_path": "assets/covers/need-for-speed-hot-pursuit-remastered.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 303214,
       "stored_bytes": 38296,
       "sha256": "cc2f531eee7060f036eae69bbe0eac5a0e328bdc3c057a7196f47fe964b48375"
     },
@@ -1978,16 +1403,11 @@
       "name": "New Super Mario Bros. U Deluxe",
       "source_url": "https://art.gametdb.com/switch/box/US/ADALA.png",
       "local_path": "assets/covers/new-super-mario-bros-u-deluxe.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 290769,
       "stored_bytes": 37384,
       "sha256": "527d6e4701033f0f771e12a397abb287009734569d47c7a682632f3020f2c940"
     },
@@ -1995,16 +1415,11 @@
       "name": "NieR Automata The End of YoRHa Edition",
       "source_url": "https://art.gametdb.com/switch/box/US/A532A.png",
       "local_path": "assets/covers/nier-automata-the-end-of-yorha-edition.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 260948,
       "stored_bytes": 31812,
       "sha256": "6b01d534da63834a07fd1c418337bb797bc1cb14e49f187db1f1b6da40181420"
     },
@@ -2012,16 +1427,11 @@
       "name": "Nine Sols",
       "source_url": "https://nswvault.com/wp-content/uploads/2024/11/Nine-Sols-nsp.png",
       "local_path": "assets/covers/nine-sols.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 467840,
       "stored_bytes": 51470,
       "sha256": "6bb2676f834786b914c64e80be7f2799a74cd11125e53d5e01a79f7c5fb53313"
     },
@@ -2029,16 +1439,11 @@
       "name": "Ninja Gaiden - Master Collection",
       "source_url": "https://m.media-amazon.com/images/I/614QOEZ8bLL._AC_SL1000_.jpg",
       "local_path": "assets/covers/ninja-gaiden-master-collection.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        622,
-        1000
-      ],
+      "status": "already_present",
       "dimensions": [
         622,
         1000
       ],
-      "download_bytes": 84991,
       "stored_bytes": 76216,
       "sha256": "227ce1f762a47df8b2c9b7aee6b870844f0b4fca954968e1f93ed136b905c26d"
     },
@@ -2046,16 +1451,11 @@
       "name": "Nintendo 64 – Nintendo Switch Online",
       "source_url": "https://images.launchbox-app.com//156e0020-699a-4dd6-b8be-bab2956715fb.png",
       "local_path": "assets/covers/nintendo-64-nintendo-switch-online.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        1078,
-        1776
-      ],
+      "status": "already_present",
       "dimensions": [
         622,
         1024
       ],
-      "download_bytes": 785532,
       "stored_bytes": 29710,
       "sha256": "5f91cc3f6039e8e030cbff4933997fd3dd0ecc99fb4501a494e64b8b5ec52809"
     },
@@ -2063,16 +1463,11 @@
       "name": "Nintendo Entertainment System – Nintendo Switch Online",
       "source_url": "https://romsbr.com.br/capas/game-boy/nintendo-ntf2-test-cartridge.webp",
       "local_path": "assets/covers/nintendo-entertainment-system-nintendo-switch-online.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        400,
-        560
-      ],
+      "status": "already_present",
       "dimensions": [
         400,
         560
       ],
-      "download_bytes": 12002,
       "stored_bytes": 11918,
       "sha256": "93997f569615c93f1ebf54cd196c71935e317457e82f709de1d41191b30a8fa3"
     },
@@ -2080,16 +1475,11 @@
       "name": "Nintendo Switch Sports",
       "source_url": "https://art.gametdb.com/switch/box/US/AS8SA.png",
       "local_path": "assets/covers/nintendo-switch-sports.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 240555,
       "stored_bytes": 31266,
       "sha256": "8269c57c2540c08ff4cd5b9a158642fec1dd83df5fedb084c3b7f6c0f2b7a83f"
     },
@@ -2097,16 +1487,11 @@
       "name": "Nintendo World Championships: NES Edition",
       "source_url": "https://art.gametdb.com/switch/box/US/A82CA.png",
       "local_path": "assets/covers/nintendo-world-championships-nes-edition.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 299454,
       "stored_bytes": 43998,
       "sha256": "4251ecf93de665f7e6d9b8ebb98c77c31363b3af3e4b7fbe079fc8745c6f2d56"
     },
@@ -2114,16 +1499,11 @@
       "name": "Ori and the Blind Forest Definitive Edition",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/10/ori-and-the-blind-forest-definitive-edition-720x1178.webp",
       "local_path": "assets/covers/ori-and-the-blind-forest-definitive-edition.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        720,
-        1178
-      ],
+      "status": "already_present",
       "dimensions": [
         626,
         1024
       ],
-      "download_bytes": 56732,
       "stored_bytes": 63778,
       "sha256": "e3399897076fba19af65847c8072e3b8ae720bfacbf1715459bd38406a68d350"
     },
@@ -2131,16 +1511,11 @@
       "name": "Ori and the Will of the Wisps",
       "source_url": "https://art.gametdb.com/switch/box/US/AWAYB.png",
       "local_path": "assets/covers/ori-and-the-will-of-the-wisps.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 289175,
       "stored_bytes": 36024,
       "sha256": "132a466193c543d2838935426f85f9eaac35a281932880ff454f9e0db0121828"
     },
@@ -2148,16 +1523,11 @@
       "name": "Paper Mario - The Origami King",
       "source_url": "https://art.gametdb.com/switch/box/US/ARUUA.png",
       "local_path": "assets/covers/paper-mario-the-origami-king.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 312683,
       "stored_bytes": 44980,
       "sha256": "ef5e55707314a7c8fe9cda6d20f4fea770da1e901c3f25e707e0553c9409cfe9"
     },
@@ -2165,16 +1535,11 @@
       "name": "Paper Mario - The Thousand-Year Door",
       "source_url": "https://art.gametdb.com/switch/box/US/A9QDA.png",
       "local_path": "assets/covers/paper-mario-the-thousand-year-door.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 345046,
       "stored_bytes": 49262,
       "sha256": "fbd4ae9c243a0e34330614d3b6d14c4af6340c3b1c4d152f64fd6c5127627300"
     },
@@ -2182,16 +1547,11 @@
       "name": "Persona 5 Royal",
       "source_url": "https://art.gametdb.com/switch/box/US/A42UC.png",
       "local_path": "assets/covers/persona-5-royal.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 324559,
       "stored_bytes": 47726,
       "sha256": "62d456b116bfba91fc7696915f2463ba800a42e133b622e5720598013a52c50c"
     },
@@ -2199,16 +1559,11 @@
       "name": "Pokémon Brilliant Diamond",
       "source_url": "https://art.gametdb.com/switch/box/US/AX7QA.png",
       "local_path": "assets/covers/pokemon-brilliant-diamond.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 300835,
       "stored_bytes": 31048,
       "sha256": "500db5b99db75e54861a0e4d6bacf27c313da8c187644ec265bd7323d9a0b937"
     },
@@ -2216,16 +1571,11 @@
       "name": "Pokémon FireRed and LeafGreen",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/02/Pokemon-FireRed-and-LeafGreen-1.webp",
       "local_path": "assets/covers/pokemon-firered-and-leafgreen.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 37262,
       "stored_bytes": 42560,
       "sha256": "d63bc7bd4466995babfc8fbb8505199bba5713bb0044006ea46d51aa721794ff"
     },
@@ -2233,16 +1583,11 @@
       "name": "Pokémon Legends: Arceus",
       "source_url": "https://art.gametdb.com/switch/box/US/AW7KA.png",
       "local_path": "assets/covers/pokemon-legends-arceus.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 298045,
       "stored_bytes": 39474,
       "sha256": "409165a735cb02695b6b4175a5e78902aaabb89a14e1ec4b95591380775b0069"
     },
@@ -2250,16 +1595,11 @@
       "name": "Pokémon Legends: Z‑A",
       "source_url": "https://m.media-amazon.com/images/I/61byd3OPF+L._AC_SL1000_.jpg",
       "local_path": "assets/covers/pokemon-legends-za.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        498,
-        805
-      ],
+      "status": "already_present",
       "dimensions": [
         498,
         805
       ],
-      "download_bytes": 70055,
       "stored_bytes": 64654,
       "sha256": "61c8e4a07bb6fe7ba79ca5c03700ada020410e594f1776c8717417e0141612c8"
     },
@@ -2267,16 +1607,11 @@
       "name": "Pokémon Mystery Dungeon: Rescue Team DX",
       "source_url": "https://art.gametdb.com/switch/box/US/AQ42A.png",
       "local_path": "assets/covers/pokemon-mystery-dungeon-rescue-team-dx.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 333548,
       "stored_bytes": 52042,
       "sha256": "b8e7fafbff4bd174ec4c81755979caf2aaf0a7a7fa6233b4f6a64bb4b95d8b3c"
     },
@@ -2284,16 +1619,11 @@
       "name": "Pokémon Quest",
       "source_url": "https://m.media-amazon.com/images/I/5185M4TDl+L.jpg",
       "local_path": "assets/covers/pokemon-quest.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        350,
-        500
-      ],
+      "status": "already_present",
       "dimensions": [
         350,
         500
       ],
-      "download_bytes": 46860,
       "stored_bytes": 30086,
       "sha256": "949a851d2f1aeb0d4b727ac8945a631d4b3e431ad62dc7b4fbbb59b031aaae91"
     },
@@ -2301,16 +1631,11 @@
       "name": "Pokémon Scarlet",
       "source_url": "https://art.gametdb.com/switch/box/US/ALZXA.png",
       "local_path": "assets/covers/pokemon-scarlet.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 315324,
       "stored_bytes": 36362,
       "sha256": "e106656f6cb1aa35ec84ada16e4673cf032f69caaae5fc925371921b95dda863"
     },
@@ -2318,16 +1643,11 @@
       "name": "Pokémon Shield",
       "source_url": "https://art.gametdb.com/switch/box/US/ALZBA.png",
       "local_path": "assets/covers/pokemon-shield.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 236290,
       "stored_bytes": 33650,
       "sha256": "e457d71ec8fe44082728fec7ec0b33f735dab503eac1dea17e190b8d67d168e1"
     },
@@ -2335,16 +1655,11 @@
       "name": "Pokémon Shining Pearl",
       "source_url": "https://art.gametdb.com/switch/box/US/AX7RA.png",
       "local_path": "assets/covers/pokemon-shining-pearl.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 316153,
       "stored_bytes": 34124,
       "sha256": "9130420866c8f9ad06b0241e83faf78b988f1e64bdfe21966f3a323aa563a573"
     },
@@ -2352,16 +1667,11 @@
       "name": "Pokémon Sword",
       "source_url": "https://art.gametdb.com/switch/box/US/ALZAA.png",
       "local_path": "assets/covers/pokemon-sword.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 214743,
       "stored_bytes": 33108,
       "sha256": "010f82a15b6e73d07b563be74c4da568292119ef771bfecd9418d9fbdfaa9ac3"
     },
@@ -2369,16 +1679,11 @@
       "name": "Pokémon Violet",
       "source_url": "https://art.gametdb.com/switch/box/US/ALZYA.png",
       "local_path": "assets/covers/pokemon-violet.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 311488,
       "stored_bytes": 32242,
       "sha256": "876b2d568ec4b9a70a46a193bed49cf4cd658898fbf7bfd2cbfa3a93738f2d49"
     },
@@ -2386,16 +1691,11 @@
       "name": "Pokémon: Let’s Go, Eevee!",
       "source_url": "https://art.gametdb.com/switch/box/US/ADW3A.png",
       "local_path": "assets/covers/pokemon-lets-go-eevee.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 289704,
       "stored_bytes": 35334,
       "sha256": "6f7791f5e146b07d623a13b55e438709bd70b3b95081a87c14e66f7998b0c6e8"
     },
@@ -2403,16 +1703,11 @@
       "name": "Pokémon: Let’s Go, Pikachu!",
       "source_url": "https://art.gametdb.com/switch/box/US/ADW2A.png",
       "local_path": "assets/covers/pokemon-lets-go-pikachu.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 237893,
       "stored_bytes": 32630,
       "sha256": "40d7e21bd7386868ee7fca153d98aa8220f04bd088b3b24317d393f3b271926a"
     },
@@ -2420,16 +1715,11 @@
       "name": "Pokkén Tournament DX",
       "source_url": "https://art.gametdb.com/switch/box/US/BAAYA.png",
       "local_path": "assets/covers/pokken-tournament-dx.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 327138,
       "stored_bytes": 47392,
       "sha256": "4db97a3fd5721e6aed3e0b6f28bd92965bc524db80a5b94f5ff6628c2420cdac"
     },
@@ -2437,16 +1727,11 @@
       "name": "Power Rangers Battle for the Grid",
       "source_url": "https://art.gametdb.com/switch/box/US/AS39F.png",
       "local_path": "assets/covers/power-rangers-battle-for-the-grid.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 300986,
       "stored_bytes": 40552,
       "sha256": "3c99bbd900e21bbbe6c881e4366241cc7a3db288743b9f1557c069c2912ef7df"
     },
@@ -2454,16 +1739,11 @@
       "name": "Prince of Persia the Lost Crown",
       "source_url": "https://m.media-amazon.com/images/I/81NlccH9nYL._AC_SL1500_.jpg",
       "local_path": "assets/covers/prince-of-persia-the-lost-crown.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        928,
-        1500
-      ],
+      "status": "already_present",
       "dimensions": [
         634,
         1024
       ],
-      "download_bytes": 189420,
       "stored_bytes": 96424,
       "sha256": "d2ef9a28dcab30d16d230863345ed4b47f99c0140f49b39a9e074309bd116194"
     },
@@ -2471,16 +1751,11 @@
       "name": "Rayman: 30th Anniversary Edition",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/02/rayman-30th-anniversary-edition.webp",
       "local_path": "assets/covers/rayman-30th-anniversary-edition.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 29352,
       "stored_bytes": 34106,
       "sha256": "a6a1d3214dadbccb8f6f2d433a501a89b1d3cb9eee8e3caee7e67038aa13698d"
     },
@@ -2488,16 +1763,11 @@
       "name": "Rayman Legends Definitive Edition",
       "source_url": "https://art.gametdb.com/switch/box/US/ACVKA.png",
       "local_path": "assets/covers/rayman-legends-definitive-edition.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 309741,
       "stored_bytes": 37394,
       "sha256": "12124a181f12fb1a0c940f7ef4b3cb7bf59d78d5e55a2040e79b2c02f7cfac4d"
     },
@@ -2505,16 +1775,11 @@
       "name": "Red Dead Redemption",
       "source_url": "https://art.gametdb.com/switch/box/US/BAF2A.png",
       "local_path": "assets/covers/red-dead-redemption.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 190735,
       "stored_bytes": 29028,
       "sha256": "17b1dacec8c575629b027bf6111ad9cea228b99807a078ee9ca8445a4562dbb0"
     },
@@ -2522,16 +1787,11 @@
       "name": "Resident Evil 0",
       "source_url": "https://cdn.mobygames.com/covers/7588741-resident-evil-0-nintendo-switch-front-cover.png",
       "local_path": "assets/covers/resident-evil-0.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 275056,
       "stored_bytes": 30062,
       "sha256": "c7afb51021ab548a3dc85133c00fda91d424d54f772a22374954fa4d651c24a9"
     },
@@ -2539,16 +1799,11 @@
       "name": "Resident Evil 4",
       "source_url": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/23UM5P/031c86d11b374a1c8c3b1fb2d5cf0602.png/f/resident-evil-4-code-in-box.png",
       "local_path": "assets/covers/resident-evil-4.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        2894,
-        4686
-      ],
+      "status": "already_present",
       "dimensions": [
         632,
         1024
       ],
-      "download_bytes": 1007540,
       "stored_bytes": 113614,
       "sha256": "6d5dd4c2338a238eca552fb26135360b919cc823f9373b6f1de55f64a297bf1c"
     },
@@ -2556,16 +1811,11 @@
       "name": "Resident Evil 5",
       "source_url": "https://nswvault.com/wp-content/uploads/2025/11/resident-evil-5.webp",
       "local_path": "assets/covers/resident-evil-5.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        592,
-        960
-      ],
+      "status": "already_present",
       "dimensions": [
         592,
         960
       ],
-      "download_bytes": 56544,
       "stored_bytes": 64768,
       "sha256": "a7844ab8b5ea2b5133cd229315b660132105a27d503ddf9bd1cc5bc919d9cc33"
     },
@@ -2573,16 +1823,11 @@
       "name": "Resident Evil 6",
       "source_url": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/23UM5V/5b49d35d47e54dcb81d8f856392c2050.png/f/resident-evil-6-code-in-box.png",
       "local_path": "assets/covers/resident-evil-6.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        2894,
-        4686
-      ],
+      "status": "already_present",
       "dimensions": [
         632,
         1024
       ],
-      "download_bytes": 587128,
       "stored_bytes": 71648,
       "sha256": "3f1d7f8888f5525dcce65bd3d81148bbe4800c6f33447999633b470483038757"
     },
@@ -2590,16 +1835,11 @@
       "name": "Resident Evil Revelations",
       "source_url": "https://nswvault.com/wp-content/uploads/2025/12/Resident_Evil_Revelations.webp",
       "local_path": "assets/covers/resident-evil-revelations.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 36832,
       "stored_bytes": 42266,
       "sha256": "010e018bb0276b8d7d55fde14568aa5725b3f182a969c336bc7bff48c1d9f1a3"
     },
@@ -2607,16 +1847,11 @@
       "name": "Resident Evil Revelations 2",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/01/Resident_Evil_Revelations_2.webp",
       "local_path": "assets/covers/resident-evil-revelations-2.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 40746,
       "stored_bytes": 47484,
       "sha256": "b74da94e614c7560e31aa1fb72306f1e7ee057eda3cb6c460ef507740005bbbd"
     },
@@ -2624,16 +1859,11 @@
       "name": "SEGA Genesis – Nintendo Switch Online",
       "source_url": "https://images.launchbox-app.com//8b7f46f0-c134-4a86-a008-fa0c8944e4e2.png",
       "local_path": "assets/covers/sega-genesis-nintendo-switch-online.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        1078,
-        1776
-      ],
+      "status": "already_present",
       "dimensions": [
         622,
         1024
       ],
-      "download_bytes": 913525,
       "stored_bytes": 32722,
       "sha256": "72394c4cc2d1494be7e6420defc94c0249f15a5dc5cf0514c43714c6ee1ba946"
     },
@@ -2641,16 +1871,11 @@
       "name": "Shin Megami Tensei V",
       "source_url": "https://art.gametdb.com/switch/box/US/BBXAC.png",
       "local_path": "assets/covers/shin-megami-tensei-v.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 333688,
       "stored_bytes": 49468,
       "sha256": "04334780ecfcb909858624e881f54165de65d4f1bc00404e15f7135c46575d57"
     },
@@ -2658,16 +1883,11 @@
       "name": "Shinobi Art of Vengeance",
       "source_url": "https://nswvault.com/wp-content/uploads/2025/09/SHINOBI-Art-of-Vengeance-nsp.png",
       "local_path": "assets/covers/shinobi-art-of-vengeance.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 560506,
       "stored_bytes": 72428,
       "sha256": "64a0efb2db29a9256985f8450bbd4e06c591860d21251b4987778ad7f6cc9394"
     },
@@ -2675,16 +1895,11 @@
       "name": "Ship of Harkinian (OOT native port)",
       "source_url": "https://nswpedia.com/wp-content/uploads/2025/02/Ship-of-Harkinian-nsp-rom-300x489.png.webp",
       "local_path": "assets/covers/ship-of-harkinian-oot-native-port.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        489
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         489
       ],
-      "download_bytes": 218666,
       "stored_bytes": 39544,
       "sha256": "9537dcd39e87b8677412c49f9a91d92890b236b60df41a7891d3daf33920c27d"
     },
@@ -2692,16 +1907,11 @@
       "name": "Sifu",
       "source_url": "https://art.gametdb.com/switch/box/US/A7XDA.png",
       "local_path": "assets/covers/sifu.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 187224,
       "stored_bytes": 20716,
       "sha256": "2a846aaa962dd6a706be75022203297221f04ab43c0dd0990ac811a7c1c59c68"
     },
@@ -2709,16 +1919,11 @@
       "name": "Sonic Mania",
       "source_url": "https://art.gametdb.com/switch/box/US/ABD7C.png",
       "local_path": "assets/covers/sonic-mania.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 287742,
       "stored_bytes": 35610,
       "sha256": "4debd5f5f4ec2ea37ab6bf0ad3a267828269bb282eb3f84ed4af31b63d668296"
     },
@@ -2726,16 +1931,11 @@
       "name": "Sonic Racing Cross Worlds",
       "source_url": "https://s.pacn.ws/1/p/1bd/852757.1.jpg",
       "local_path": "assets/covers/sonic-racing-cross-worlds.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        1280,
-        2073
-      ],
+      "status": "already_present",
       "dimensions": [
         632,
         1024
       ],
-      "download_bytes": 288718,
       "stored_bytes": 128964,
       "sha256": "a86b38862216ea12a55084ecb2ed61365054e78f55ea2aa25216091ee180cb0f"
     },
@@ -2743,16 +1943,11 @@
       "name": "Sonic Superstars",
       "source_url": "https://art.gametdb.com/switch/box/US/A7YPB.png",
       "local_path": "assets/covers/sonic-superstars.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 308066,
       "stored_bytes": 35670,
       "sha256": "c81c108fee4b9e0e6992eab45503d180d947bb90a9715320f0caad9b4267be67"
     },
@@ -2760,16 +1955,11 @@
       "name": "Splatoon 2 + Octo Expansion",
       "source_url": "https://nswvault.com/wp-content/uploads/2025/12/Splatoon-2.webp",
       "local_path": "assets/covers/splatoon-2-octo-expansion.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 52690,
       "stored_bytes": 60180,
       "sha256": "1d39250669ac4c398f688a0b3a8a15a91e2bece981584b86947743fbb997f628"
     },
@@ -2777,16 +1967,11 @@
       "name": "Splatoon 3",
       "source_url": "https://art.gametdb.com/switch/box/US/AV5JA.png",
       "local_path": "assets/covers/splatoon-3.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 336800,
       "stored_bytes": 47774,
       "sha256": "0fa18d42cad0807bc5e449b86cf4117c3b7c52d9ddcad1b2ec7a86707fd83ce9"
     },
@@ -2794,16 +1979,11 @@
       "name": "Sponge Bob Square Pants the Cosmic Shake",
       "source_url": "https://art.gametdb.com/switch/box/US/A7G3A.png",
       "local_path": "assets/covers/sponge-bob-square-pants-the-cosmic-shake.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 251122,
       "stored_bytes": 33076,
       "sha256": "d3647c294c4cf6951b5b6c48433fa16ebf176f6f986ed6aa4c65bdf322b7ec4a"
     },
@@ -2811,16 +1991,11 @@
       "name": "SpongeBob SquarePants Battle for Bikini Bottom Rehydrated",
       "source_url": "https://art.gametdb.com/switch/box/US/AWXEA.png",
       "local_path": "assets/covers/spongebob-squarepants-battle-for-bikini-bottom-rehydrated.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 276917,
       "stored_bytes": 36374,
       "sha256": "35eb07cccf63a413a6b21b909edc4b8ca4aea2c6ba944ef71546f5ac032fab15"
     },
@@ -2828,16 +2003,11 @@
       "name": "Street Fighter - 30th Anniversary Collection",
       "source_url": "https://art.gametdb.com/switch/box/US/AK6JA.png",
       "local_path": "assets/covers/street-fighter-30th-anniversary-collection.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 315880,
       "stored_bytes": 42694,
       "sha256": "580955c25f9bb5d43543664c71b3806ae6a2351c382ada3726c7c291a924b6df"
     },
@@ -2845,16 +2015,11 @@
       "name": "Streets of Rage 4",
       "source_url": "https://art.gametdb.com/switch/box/EN/AWGWE.png",
       "local_path": "assets/covers/streets-of-rage-4.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 337648,
       "stored_bytes": 50990,
       "sha256": "585e8ca24613507b39aa8ece727ff0f652b7416cb14d4f31e9854b84e6696283"
     },
@@ -2862,16 +2027,11 @@
       "name": "Super Bomberman R",
       "source_url": "https://art.gametdb.com/switch/box/US/AAB8A.png",
       "local_path": "assets/covers/super-bomberman-r.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 303005,
       "stored_bytes": 51534,
       "sha256": "d17c5507dcf49d8293cd236da3c45d288edbd2568c4b5a27b0f567e9795e7680"
     },
@@ -2879,16 +2039,11 @@
       "name": "Super Bomberman R2",
       "source_url": "https://d5gag3xtge2og.cloudfront.net/producao/33882671/G/super-bomberman-r-2switch-.webp",
       "local_path": "assets/covers/super-bomberman-r2.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        617,
-        1000
-      ],
+      "status": "already_present",
       "dimensions": [
         617,
         1000
       ],
-      "download_bytes": 117916,
       "stored_bytes": 122816,
       "sha256": "fdb71025494502ecd93b5a902c9befceb6e3e8121da757ff3752b7ca3b4def0f"
     },
@@ -2896,16 +2051,11 @@
       "name": "Super Dragon Ball Heroes World Mission",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/10/super-dragon-ball-heroes-world-mission.webp",
       "local_path": "assets/covers/super-dragon-ball-heroes-world-mission.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        478,
-        774
-      ],
+      "status": "already_present",
       "dimensions": [
         478,
         774
       ],
-      "download_bytes": 71614,
       "stored_bytes": 82722,
       "sha256": "9defd69323b29b072ecf24dd56fd31b60e00462b93f9c4d52f3c07adaa75b4aa"
     },
@@ -2913,16 +2063,11 @@
       "name": "Super Mario 3D All-Stars",
       "source_url": "https://art.gametdb.com/switch/box/US/AVP3A.png",
       "local_path": "assets/covers/super-mario-3d-all-stars.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 295403,
       "stored_bytes": 44676,
       "sha256": "41cc6f7cccfc0fc173cb043ab48ad96f8c9f8ea0285b9696f0edc8bbd0ad88b3"
     },
@@ -2930,16 +2075,11 @@
       "name": "Super Mario 3D World + Bowser’s Fury",
       "source_url": "https://art.gametdb.com/switch/box/US/AUZPA.png",
       "local_path": "assets/covers/super-mario-3d-world-bowsers-fury.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 313997,
       "stored_bytes": 47608,
       "sha256": "f1c7dbda44a282631533a8fcd4017d13a3091f43eb980f514353f3ae9d2fb63b"
     },
@@ -2947,16 +2087,11 @@
       "name": "Super Mario Bros 35",
       "source_url": "https://i.redd.it/zf74qzzfc1l51.png",
       "local_path": "assets/covers/super-mario-bros-35.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        1024,
-        1659
-      ],
+      "status": "already_present",
       "dimensions": [
         632,
         1024
       ],
-      "download_bytes": 549469,
       "stored_bytes": 29796,
       "sha256": "f46e4e834da0623ba52cdd79f5829c4d5904a7e0646d9fd3e9659aecf4356c8c"
     },
@@ -2964,16 +2099,11 @@
       "name": "Super Mario Bros. Wonder",
       "source_url": "https://art.gametdb.com/switch/box/US/AQMXA.png",
       "local_path": "assets/covers/super-mario-bros-wonder.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 278888,
       "stored_bytes": 41158,
       "sha256": "1b5ee9b7bfdb6194f008bec2d6c9e27ef76c8f68342a44c3cf08e8b336786592"
     },
@@ -2981,16 +2111,11 @@
       "name": "Super Mario Galaxy + Super Mario Galaxy 2",
       "source_url": "https://m.media-amazon.com/images/I/61tLkY3m0OL._AC_SL1000_.jpg",
       "local_path": "assets/covers/super-mario-galaxy-super-mario-galaxy-2.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        525,
-        849
-      ],
+      "status": "already_present",
       "dimensions": [
         525,
         849
       ],
-      "download_bytes": 93763,
       "stored_bytes": 90828,
       "sha256": "404e1ab9b3fef4283401f8ee03a1f2d18823e616ebb11d7ed927ce23cfe254c2"
     },
@@ -2998,16 +2123,11 @@
       "name": "Super Mario Maker 2",
       "source_url": "https://art.gametdb.com/switch/box/US/BAAQA.png",
       "local_path": "assets/covers/super-mario-maker-2.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 249463,
       "stored_bytes": 37146,
       "sha256": "0b01f6f21453795b6f4cc14513c6d09ab22d3fb1637582c1a86ca14a4a1b3a93"
     },
@@ -3015,16 +2135,11 @@
       "name": "Super Mario Odyssey",
       "source_url": "https://art.gametdb.com/switch/box/US/AAACA.png",
       "local_path": "assets/covers/super-mario-odyssey.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 337547,
       "stored_bytes": 48042,
       "sha256": "51769120ae01706d0bc27c3aecb2fe9dd9612f64befe7c8369d2c37ffddfa5e2"
     },
@@ -3032,16 +2147,11 @@
       "name": "Super Mario Party Jamboree",
       "source_url": "https://art.gametdb.com/switch/box/US/A7HLA.png?1740553860",
       "local_path": "assets/covers/super-mario-party-jamboree.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 315523,
       "stored_bytes": 51480,
       "sha256": "b5b82c361b518f3a59142e57bbeb33d59ab132c2c5af60d07ed54db2350a7ad0"
     },
@@ -3049,16 +2159,11 @@
       "name": "Super Mario RPG",
       "source_url": "https://art.gametdb.com/switch/box/US/A8LUA.png?1700321690",
       "local_path": "assets/covers/super-mario-rpg.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 191654,
       "stored_bytes": 29656,
       "sha256": "dc6d3713bcb827c08b626fcbda83ce7c8d29954c8a8f837487fcb921bc8f2f7c"
     },
@@ -3066,16 +2171,11 @@
       "name": "Super Nintendo Entertainment System – Nintendo Switch Online",
       "source_url": "https://images.launchbox-app.com//26f5f756-9706-47ec-9475-52c3514c5771.jpg",
       "local_path": "assets/covers/super-nintendo-entertainment-system-nintendo-switch-online.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        679,
-        1124
-      ],
+      "status": "already_present",
       "dimensions": [
         619,
         1024
       ],
-      "download_bytes": 111813,
       "stored_bytes": 32936,
       "sha256": "1c9bdef3df4bf24d354dadc78bd1ad161a1af0fc643899dd48cbedc27f6835af"
     },
@@ -3083,16 +2183,11 @@
       "name": "Super Smash Bros. Ultimate",
       "source_url": "https://art.gametdb.com/switch/box/US/AAABA.png?1557350324",
       "local_path": "assets/covers/super-smash-bros-ultimate.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 325775,
       "stored_bytes": 50360,
       "sha256": "65a43ce371d3f2059c39dc9d4e00bdd675bf3e42f2cf5b2b15a49594a2c95c99"
     },
@@ -3100,16 +2195,11 @@
       "name": "Teenage Mutant Ninja Turtles: Shredder’s Revenge",
       "source_url": "https://cybertronvideogames.com/cdn/shop/products/6510132_sd_615x.jpg",
       "local_path": "assets/covers/teenage-mutant-ninja-turtles-shredders-revenge.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        615,
-        1000
-      ],
+      "status": "already_present",
       "dimensions": [
         615,
         1000
       ],
-      "download_bytes": 199102,
       "stored_bytes": 151378,
       "sha256": "3816b4b07f93ada20ec377562f3656587fb93c883c47fe188d6229e3b2e07543"
     },
@@ -3117,16 +2207,11 @@
       "name": "The Elder Scrolls V: Skyrim",
       "source_url": "https://art.gametdb.com/switch/box/US/AF3CA.png?1558215298",
       "local_path": "assets/covers/the-elder-scrolls-v-skyrim.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 249678,
       "stored_bytes": 16662,
       "sha256": "2d8668dbd537f25bbd185ac4ae0e26ffca99a09c3b640ff8554449aa02c71cbe"
     },
@@ -3134,16 +2219,11 @@
       "name": "The Legend of Zelda: Breath of the Wild",
       "source_url": "https://art.gametdb.com/switch/box/US/AAAAA.png",
       "local_path": "assets/covers/the-legend-of-zelda-breath-of-the-wild.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 289371,
       "stored_bytes": 34916,
       "sha256": "7500bedf6811eb4d39bc5507d3b1be32513117a3aba8ea05c9e9e6fb35f5a905"
     },
@@ -3151,16 +2231,11 @@
       "name": "The Legend of Zelda: Echoes of Wisdom",
       "source_url": "https://art.gametdb.com/switch/box/US/BDGEA.png",
       "local_path": "assets/covers/the-legend-of-zelda-echoes-of-wisdom.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 283119,
       "stored_bytes": 38954,
       "sha256": "000de40805f3a961922fe53d9ef5c0d2147795b248153023d2ab18adbdb0ff22"
     },
@@ -3168,16 +2243,11 @@
       "name": "The Legend of Zelda: Link’s Awakening",
       "source_url": "https://art.gametdb.com/switch/box/US/AR3NA.png",
       "local_path": "assets/covers/the-legend-of-zelda-links-awakening.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 290186,
       "stored_bytes": 40440,
       "sha256": "833eead9e537d0d654ca6ec57fe968e8e1b94da105fcde0b376661d07a4aa3ba"
     },
@@ -3185,16 +2255,11 @@
       "name": "The Legend of Zelda: Skyward Sword HD",
       "source_url": "https://art.gametdb.com/switch/box/US/AZ89A.png",
       "local_path": "assets/covers/the-legend-of-zelda-skyward-sword-hd.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 325604,
       "stored_bytes": 42230,
       "sha256": "abbc54a01570e7c6a4208a06edfb00c65c02400385d5fee458eeac5c19e734a3"
     },
@@ -3202,16 +2267,11 @@
       "name": "The Legend of Zelda: Tears of the Kingdom",
       "source_url": "https://art.gametdb.com/switch/box/US/AXN7A.png",
       "local_path": "assets/covers/the-legend-of-zelda-tears-of-the-kingdom.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 319420,
       "stored_bytes": 43470,
       "sha256": "b615ff1b3b58e868f097e5beb0315543fa37913d71b901a1b8c0fb21c80d77bb"
     },
@@ -3219,16 +2279,11 @@
       "name": "The Rogue Prince of Persia",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/01/the-rogue-prince-of-persia.webp",
       "local_path": "assets/covers/the-rogue-prince-of-persia.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 49202,
       "stored_bytes": 56884,
       "sha256": "10885b7f54bdbc2fa2671dc872888228ce7c24914f2f4256a347c22c1ecef541"
     },
@@ -3236,16 +2291,11 @@
       "name": "The Witcher 3: Wild Hunt – Complete Edition",
       "source_url": "https://art.gametdb.com/switch/box/JA/AURVL.png?1626434299",
       "local_path": "assets/covers/the-witcher-3-wild-hunt-complete-edition.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 255346,
       "stored_bytes": 38474,
       "sha256": "e3c5c9569cdb48daee435ce490bfde272503f004f43f284fff02c5256592a421"
     },
@@ -3253,16 +2303,11 @@
       "name": "Tomb Raider Definitive edition",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/10/tomb-raider-definitive-edition.webp",
       "local_path": "assets/covers/tomb-raider-definitive-edition.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 32506,
       "stored_bytes": 37924,
       "sha256": "dbc02fc406561043b7b223514df473ad4638a70fe85166f2fd29d252bbd5e35a"
     },
@@ -3270,16 +2315,11 @@
       "name": "Tomb Raider I–III Remastered",
       "source_url": "https://m.media-amazon.com/images/I/81RkU10C5UL._AC_UF1000,1000_QL80_.jpg",
       "local_path": "assets/covers/tomb-raider-iiii-remastered.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        618,
-        1000
-      ],
+      "status": "already_present",
       "dimensions": [
         618,
         1000
       ],
-      "download_bytes": 82632,
       "stored_bytes": 78026,
       "sha256": "fcc9895b00663d821b104007290fc7ebeca2daafd249278bb6ff0fa2a13f8696"
     },
@@ -3287,16 +2327,11 @@
       "name": "Tomodachi Life Living the Dream",
       "source_url": "https://nswvault.com/wp-content/uploads/2026/03/Tomodachi-Life-Living-the-Dream.webp",
       "local_path": "assets/covers/tomodachi-life-living-the-dream.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        393,
-        640
-      ],
+      "status": "already_present",
       "dimensions": [
         393,
         640
       ],
-      "download_bytes": 66940,
       "stored_bytes": 69344,
       "sha256": "a8a147c323edde6426beed29257446647050a01f34cb2000a6c2bf3fb1ef34ef"
     },
@@ -3304,16 +2339,11 @@
       "name": "Top Racer Collection",
       "source_url": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1916/a019a81275b09d55f7675b56ee18e2a4c380850a58c41625.jpg",
       "local_path": "assets/covers/top-racer-collection.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        1440,
-        2160
-      ],
+      "status": "already_present",
       "dimensions": [
         683,
         1024
       ],
-      "download_bytes": 67374,
       "stored_bytes": 53388,
       "sha256": "57a733df12a1f1dad8bf868808dd14153d12e86e1d879f1e0817c1a3d7411a79"
     },
@@ -3321,16 +2351,11 @@
       "name": "Transformers Battlegrounds",
       "source_url": "https://images-na.ssl-images-amazon.com/images/I/81T9bJ-XSDL._AC_UL600_SR600,600_.jpg",
       "local_path": "assets/covers/transformers-battlegrounds.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        600,
-        600
-      ],
+      "status": "already_present",
       "dimensions": [
         600,
         600
       ],
-      "download_bytes": 68492,
       "stored_bytes": 67542,
       "sha256": "c4a32c97ab76ee611129d56499d93ee23a194b357fd3073fa24dbe829af3c417"
     },
@@ -3338,16 +2363,11 @@
       "name": "Transformers Earthspark Expedition",
       "source_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXuqbyJv_50oxv2GzqZGUgEC3mZEYw2e3_sssSKLWGUNT9F_a9QLhZ31g&s=10",
       "local_path": "assets/covers/transformers-earthspark-expedition.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        351,
-        569
-      ],
+      "status": "already_present",
       "dimensions": [
         351,
         569
       ],
-      "download_bytes": 70419,
       "stored_bytes": 60752,
       "sha256": "e1814d64d7f5c77c4711565a5ee88c28d92d75daf6d9304df93e580627534de7"
     },
@@ -3355,23 +2375,29 @@
       "name": "Transformers Galactic Trials",
       "source_url": "https://www.bigw.com.au/medias/sys_master/images/images/h59/hf5/139604203241502.jpg",
       "local_path": "assets/covers/transformers-galactic-trials.webp",
-      "status": "failed",
-      "error": "RuntimeError: HTTPSConnectionPool(host='www.bigw.com.au', port=443): Read timed out. (read timeout=32) | HTTPSConnectionPool(host='www.bigw.com.au', port=443): Read timed out. (read timeout=32) | HTTPSConnectionPool(host='www.bigw.com.au', port=443): Read timed out. (read timeout=32)"
+      "status": "downloaded",
+      "downloaded_from": "https://art.gametdb.com/switch/box/US/A74GA.png",
+      "original_dimensions": [
+        300,
+        486
+      ],
+      "dimensions": [
+        300,
+        486
+      ],
+      "download_bytes": 304670,
+      "stored_bytes": 39222,
+      "sha256": "d35bfb1b0a62507bf4ba96cfb3905f412d3c6393910d58dee06a348fc88fa8a8"
     },
     {
       "name": "Trial Rising",
       "source_url": "https://image.smythstoys.com/original/800/desktop/215824.webp",
       "local_path": "assets/covers/trial-rising.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        800,
-        800
-      ],
+      "status": "already_present",
       "dimensions": [
         800,
         800
       ],
-      "download_bytes": 165288,
       "stored_bytes": 89082,
       "sha256": "3d8601cd62245b9feb64ec8d610abd03c098a808f143c005f3e812eef66d1326"
     },
@@ -3379,16 +2405,11 @@
       "name": "Ultra Street Fighter II: The Final Challengers",
       "source_url": "https://media.gamestop.com/i/gamestop/10143459/Ultra-Street-Fighter-II-The-Final-Challengers",
       "local_path": "assets/covers/ultra-street-fighter-ii-the-final-challengers.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        1998,
-        3229
-      ],
+      "status": "already_present",
       "dimensions": [
         634,
         1024
       ],
-      "download_bytes": 872920,
       "stored_bytes": 148766,
       "sha256": "b8648bc3023df401abe828009eaabe50f7e8841de95ecbe383e453bc22312ed2"
     },
@@ -3396,16 +2417,11 @@
       "name": "Unravel Two",
       "source_url": "https://art.gametdb.com/switch/box/US/ASGGA.png",
       "local_path": "assets/covers/unravel-two.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 308247,
       "stored_bytes": 35824,
       "sha256": "bc77bef55b7e55ecff690174f50d636108ea174a0f92d06d60af94a53a5073b9"
     },
@@ -3413,16 +2429,11 @@
       "name": "WRC 10",
       "source_url": "https://m.media-amazon.com/images/I/71A-PdOFVmL._AC_SL1500_.jpg",
       "local_path": "assets/covers/wrc-10.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        912,
-        1474
-      ],
+      "status": "already_present",
       "dimensions": [
         634,
         1024
       ],
-      "download_bytes": 170724,
       "stored_bytes": 95096,
       "sha256": "675925e85e51f0164521d8afaf0b19386955d4dedfd2c7bddb78bc414087d861"
     },
@@ -3430,16 +2441,11 @@
       "name": "Xenoblade Chronicles X: Definitive Edition",
       "source_url": "https://static.wikia.nocookie.net/xenoblade/images/5/52/Switch_XenobladeChroniclesDefinitiveEdition_boxart_01.png",
       "local_path": "assets/covers/xenoblade-chronicles-x-definitive-edition.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        1240,
-        2008
-      ],
+      "status": "already_present",
       "dimensions": [
         632,
         1024
       ],
-      "download_bytes": 884966,
       "stored_bytes": 179900,
       "sha256": "a073d948db2ef5f391aa86112d69cf9f28b9a8f6319366aca07c923f63621814"
     },
@@ -3447,16 +2453,11 @@
       "name": "Yoshi's Crafted World",
       "source_url": "https://art.gametdb.com/switch/box/US/AEA2A.png",
       "local_path": "assets/covers/yoshi-s-crafted-world.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 331279,
       "stored_bytes": 46364,
       "sha256": "807ef5c8cb46330d0c993de01b43165db7176736b4c65abc7e17a5105a35e4d5"
     },
@@ -3464,16 +2465,11 @@
       "name": "YouTube (oficial)",
       "source_url": "https://art.gametdb.com/switch/box/US/ARVHA.png",
       "local_path": "assets/covers/youtube-oficial.webp",
-      "status": "downloaded",
-      "original_dimensions": [
-        300,
-        486
-      ],
+      "status": "already_present",
       "dimensions": [
         300,
         486
       ],
-      "download_bytes": 27507,
       "stored_bytes": 6124,
       "sha256": "1453dff3a4af654462f9129dd50c2964582b1edaddc0c17ffba33e5a906138ac"
     }
