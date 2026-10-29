@@ -442,6 +442,28 @@
       align-items:center;
     }
 
+    /* Mobile: o resumo permanece visível e os dois botões ficam lado a lado. */
+    @media (max-width: 767px){
+      main{ padding-bottom: 180px; }
+      .footer-row{
+        flex-direction:column;
+        align-items:stretch;
+        gap:8px;
+      }
+      .footer-actions{
+        display:grid;
+        grid-template-columns:repeat(2, minmax(0, 1fr));
+      }
+      .footer-actions .btn{
+        min-width:0;
+        width:100%;
+        padding:10px 6px;
+        font-size:clamp(11px, 3vw, 13px);
+        white-space:normal;
+      }
+      .toast{ bottom:130px; }
+    }
+
     .toast{
       position: fixed;
       left: 12px;
@@ -520,6 +542,7 @@
         <div class="small" id="sumCount">0 itens selecionados</div>
       </div>
       <div class="footer-actions">
+        <button class="btn" id="viewSelectedBtn" type="button" aria-pressed="false">Ver meus jogos</button>
         <button class="btn primary" id="saveSheetsBtn" type="button">Salvar lista de jogos</button>
       </div>
     </div>
@@ -773,10 +796,11 @@
     /***********************************************************
      *  STATE
      ***********************************************************/
-    const state = { selected: new Set(), query: "" };
+    const state = { selected: new Set(), query: "", showSelectedOnly: false };
 
     const elGrid = document.getElementById("grid");
     const elQ = document.getElementById("q");
+    const elViewSelectedBtn = document.getElementById("viewSelectedBtn");
     const elSumGB = document.getElementById("sumGB");
     const elSumCount = document.getElementById("sumCount");
     const elPillInfo = document.getElementById("pillInfo");
@@ -882,7 +906,11 @@
       const q = state.query.trim();
       const frag = document.createDocumentFragment();
 
+      elViewSelectedBtn.textContent = state.showSelectedOnly ? "Ver lista completa" : "Ver meus jogos";
+      elViewSelectedBtn.setAttribute("aria-pressed", String(state.showSelectedOnly));
+
       GAMES.forEach((g, idx) => {
+        if (state.showSelectedOnly && !state.selected.has(idx)) return;
         if (!matchesQuery(g.name, q)) return;
 
         const card = document.createElement("div");
@@ -1097,6 +1125,15 @@
     });
 
     document.getElementById("saveSheetsBtn").addEventListener("click", saveToSheets);
+
+    elViewSelectedBtn.addEventListener("click", () => {
+      state.showSelectedOnly = !state.showSelectedOnly;
+      // Cada modo começa sem pesquisa, para mostrar todos os jogos do modo escolhido.
+      state.query = "";
+      elQ.value = "";
+      render();
+      window.scrollTo({ top: 0, behavior: "auto" });
+    });
 
     elQ.addEventListener("input", (e) => {
       state.query = e.target.value || "";
