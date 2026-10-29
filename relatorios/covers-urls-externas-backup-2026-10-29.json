@@ -1,0 +1,2750 @@
+[
+  {
+    "name": "1-2-Switch",
+    "titleId": "AACCA",
+    "matchedTitle": "AACCA - 1-2-Switch",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AACCA.png",
+    "tried": [
+      {
+        "id": "AACCA",
+        "title": "AACCA - 1-2-Switch",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Animal Crossing: New Horizons",
+    "titleId": "ACBAA",
+    "matchedTitle": "ACBAA - Animal Crossing: New Horizons",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ACBAA.png",
+    "tried": [
+      {
+        "id": "ACBAA",
+        "title": "ACBAA - Animal Crossing: New Horizons",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Astral Chain",
+    "titleId": "AB48A",
+    "matchedTitle": "Astral Chain",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AB48A.png",
+    "tried": []
+  },
+  {
+    "name": "Atari 50 The Anniversary Celebration",
+    "titleId": "A85DA",
+    "matchedTitle": "Atari 50 The Anniversary Celebration",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/A85DA.png",
+    "tried": []
+  },
+  {
+    "name": "Batman: Arkham Trilogy",
+    "titleId": "A6DQA",
+    "matchedTitle": "A6DQA - Batman: Arkham Trilogy",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/A6DQA.png",
+    "tried": [
+      {
+        "id": "A6DQA",
+        "title": "A6DQA - Batman: Arkham Trilogy",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Bayonetta",
+    "titleId": "AE99A",
+    "matchedTitle": "Bayonetta",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AE99A.png",
+    "tried": []
+  },
+  {
+    "name": "Bayonetta 2",
+    "titleId": "AE98A",
+    "matchedTitle": "Bayonetta 2",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/09/bayonetta-2.webp",
+    "tried": []
+  },
+  {
+    "name": "Bayonetta 3",
+    "titleId": "AXB7A",
+    "matchedTitle": "Bayonetta 3",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AXB7A.png",
+    "tried": []
+  },
+  {
+    "name": "Bladed Fury",
+    "titleId": "AXZSA",
+    "matchedTitle": "Bladed Fury",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AXZSA.png",
+    "tried": []
+  },
+  {
+    "name": "Blasphemous 2",
+    "titleId": "BBLYA",
+    "matchedTitle": "Blasphemous 2",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/BBLYA.png",
+    "tried": []
+  },
+  {
+    "name": "Bluey the Videogame",
+    "titleId": "",
+    "matchedTitle": "Bluey the Videogame",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-referencia",
+    "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_07745c6c-c9c3-4d0e-9686-56a208019b04?qlt=80&wid=1900",
+    "tried": []
+  },
+  {
+    "name": "Burnout Paradise Remastered",
+    "titleId": "AWVAA",
+    "matchedTitle": "Burnout Paradise Remastered",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AWVAA.png",
+    "tried": []
+  },
+  {
+    "name": "Cars 3",
+    "titleId": "ABTDA",
+    "matchedTitle": "Cars 3",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ABTDA.png",
+    "tried": []
+  },
+  {
+    "name": "Castlevania Advance Collection",
+    "titleId": "",
+    "matchedTitle": "Castlevania Advance Collection",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-frontal-indicada",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_708650-MLB109816698106_042026-O.webp",
+    "tried": []
+  },
+  {
+    "name": "Castlevania Anniversary Collection",
+    "titleId": "ATA9B",
+    "matchedTitle": "Castlevania Anniversary Collection",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ATA9B.png",
+    "tried": []
+  },
+  {
+    "name": "Castlevania Dominus Collection",
+    "titleId": "",
+    "matchedTitle": "Castlevania Dominus Collection",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-frontal-indicada",
+    "imageUrl": "https://www.jbhifi.com.au/cdn/shop/files/833186-Product-0-I-638916711604468881.jpg?v=1756074427",
+    "tried": []
+  },
+  {
+    "name": "Castlevania Symphony of the Night (homebrew port) for Nintendo Switch",
+    "titleId": "",
+    "matchedTitle": "Castlevania Symphony of the Night (homebrew port) for Nintendo Switch",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-adaptada-nswvault",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/10/castlevania-symphony-of-the-night.webp",
+    "tried": []
+  },
+  {
+    "name": "Celeste",
+    "titleId": "ACF3A",
+    "matchedTitle": "Celeste",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ACF3A.png",
+    "tried": []
+  },
+  {
+    "name": "Contra Operation Galuga",
+    "titleId": "",
+    "matchedTitle": "Contra Operation Galuga",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nswvault-indicada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/10/contra-operation-galuga.webp",
+    "tried": []
+  },
+  {
+    "name": "Crash Bandicoot 4: It’s About Time",
+    "titleId": "AXSRA",
+    "matchedTitle": "AXSRA - Crash Bandicoot 4: It's About Time",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AXSRA.png",
+    "tried": [
+      {
+        "id": "AXSRA",
+        "title": "AXSRA - Crash Bandicoot 4: It's About Time",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Crash Bandicoot N. Sane Trilogy",
+    "titleId": "AHQ3A",
+    "matchedTitle": "Crash Bandicoot N. Sane Trilogy",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AHQ3A.png",
+    "tried": []
+  },
+  {
+    "name": "Crash Team Racing Nitro-Fueled",
+    "titleId": "AST4A",
+    "matchedTitle": "AST4A - Crash Team Racing Nitro-Fueled",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AST4A.png",
+    "tried": [
+      {
+        "id": "AST4A",
+        "title": "AST4A - Crash Team Racing Nitro-Fueled",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Cult of the Lamb",
+    "titleId": "A6YYA",
+    "matchedTitle": "Cult of the Lamb",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/A6YYA.png",
+    "tried": []
+  },
+  {
+    "name": "Cuphead",
+    "titleId": "ASVUG",
+    "matchedTitle": "Cuphead",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://s.pacn.ws/1/p/14u/cuphead-physical-edition-735281.7.jpg?v=rjmbun",
+    "tried": []
+  },
+  {
+    "name": "Danganronpa Decadence",
+    "titleId": "A3TUA",
+    "matchedTitle": "Danganronpa Decadence",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://m.media-amazon.com/images/I/71z2Ci07D+L._AC_UF1000,1000_QL80_.jpg",
+    "tried": []
+  },
+  {
+    "name": "Dark Souls Remastered",
+    "titleId": "AK63B",
+    "matchedTitle": "AK63B - Dark Souls - Remastered",
+    "matchScore": 75,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AK63B.png",
+    "tried": [
+      {
+        "id": "AK63B",
+        "title": "AK63B - Dark Souls - Remastered",
+        "score": 75,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Dead Cells",
+    "titleId": "ANXTA",
+    "matchedTitle": "Dead Cells",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ANXTA.png",
+    "tried": []
+  },
+  {
+    "name": "Demon Slayer The Hinokami Chronicles Kimetsu no Yaiba",
+    "titleId": "",
+    "matchedTitle": "Demon Slayer The Hinokami Chronicles Kimetsu no Yaiba",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-referencia",
+    "imageUrl": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/550502/Demon-Slayer-The-Hinokami-Chronicles-Switch-M-dia-F-sica_1713271727_gg.jpg",
+    "tried": []
+  },
+  {
+    "name": "Diablo III: Eternal Collection",
+    "titleId": "AQ3FA",
+    "matchedTitle": "AQ3FA - Diablo III - Eternal Collection",
+    "matchScore": 60,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AQ3FA.png",
+    "tried": [
+      {
+        "id": "AQ3FA",
+        "title": "AQ3FA - Diablo III - Eternal Collection",
+        "score": 60,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Disney Classic Games Aladdin and The Lion King - Jungle Book",
+    "titleId": "",
+    "matchedTitle": "Disney Classic Games Aladdin and The Lion King - Jungle Book",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://m.media-amazon.com/images/I/81hvTNlSLGL._AC_UF1000,1000_QL80_.jpg",
+    "tried": []
+  },
+  {
+    "name": "Disney Epic Mickey Rebrushed",
+    "titleId": "",
+    "matchedTitle": "Disney Epic Mickey Rebrushed",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2025/12/Disney_Epic_Mickey_Rebrushed.webp",
+    "tried": []
+  },
+  {
+    "name": "Disney Illusion Island",
+    "titleId": "BADYA",
+    "matchedTitle": "Disney Illusion Island",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/BADYA.png",
+    "tried": []
+  },
+  {
+    "name": "Donkey Kong Country Returns HD",
+    "titleId": "BDLWA",
+    "matchedTitle": "BDLWA - Donkey Kong Country Returns HD",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/BDLWA.png",
+    "tried": [
+      {
+        "id": "BDLWA",
+        "title": "BDLWA - Donkey Kong Country Returns HD",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Donkey Kong Country: Tropical Freeze",
+    "titleId": "AFWTA",
+    "matchedTitle": "AFWTA - Donkey Kong Country: Tropical Freeze",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AFWTA.png",
+    "tried": [
+      {
+        "id": "AFWTA",
+        "title": "AFWTA - Donkey Kong Country: Tropical Freeze",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "DOOM Eternal",
+    "titleId": "A6SVA",
+    "matchedTitle": "A6SVA - DOOM Eternal - GameTDB",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/A6SVA.png",
+    "tried": [
+      {
+        "id": "A6SVA",
+        "title": "A6SVA - DOOM Eternal - GameTDB",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Dragon Ball FighterZ",
+    "titleId": "",
+    "matchedTitle": "Dragon Ball FighterZ",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-amazon-indicada",
+    "imageUrl": "https://m.media-amazon.com/images/I/81I0kUSB88L._AC_UF1000,1000_QL80_.jpg",
+    "tried": []
+  },
+  {
+    "name": "Dragon Ball Sparking Zero",
+    "titleId": "",
+    "matchedTitle": "Dragon Ball Sparking Zero",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-referencia",
+    "imageUrl": "https://down-id.img.susercontent.com/file/id-11134207-82250-mfvuxh3gkniia2",
+    "tried": []
+  },
+  {
+    "name": "Dragon Ball Xenoverse 2",
+    "titleId": "ABYBA",
+    "matchedTitle": "Dragon Ball Xenoverse 2",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ABYBA.png",
+    "tried": []
+  },
+  {
+    "name": "Dragon Ball Z Kakarot + A New Power Awakens Set",
+    "titleId": "",
+    "matchedTitle": "Dragon Ball Z Kakarot + A New Power Awakens Set",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/01/Dragon-Ball-Z-Kakarot-A-New-Power-Awakens-Set.jpeg",
+    "tried": []
+  },
+  {
+    "name": "EA SPORTS FC 26",
+    "titleId": "BMZ2A",
+    "matchedTitle": "BMZ2A - EA SPORTS FC 26",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/04/EA-SPORTS-FC-26.webp",
+    "tried": [
+      {
+        "id": "BMZ2A",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "EA SPORTS FC 27",
+    "titleId": "",
+    "matchedTitle": "EA SPORTS FC 27",
+    "matchScore": 0,
+    "region": "EU",
+    "quality": "normal",
+    "imageUrl": "https://m.media-amazon.com/images/I/610+fLoIm8L._AC_UF1000,1000_QL80_.jpg",
+    "tried": []
+  },
+  {
+    "name": "Everybody 1-2-Switch!",
+    "titleId": "ARGTA",
+    "matchedTitle": "ARGTA - Everybody 1-2-Switch!",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ARGTA.png",
+    "tried": [
+      {
+        "id": "ARGTA",
+        "title": "ARGTA - Everybody 1-2-Switch!",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Formula Legends",
+    "titleId": "",
+    "matchedTitle": "Formula Legends",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-amazon-indicada",
+    "imageUrl": "https://m.media-amazon.com/images/I/71aIXc9QbhL._AC_SL1500_.jpg",
+    "tried": []
+  },
+  {
+    "name": "Game Boy – Nintendo Switch Online",
+    "titleId": "A97PA",
+    "matchedTitle": "Game Boy – Nintendo Switch Online",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://images.launchbox-app.com/8cbf8dfc-5c07-45e3-bbc7-8d18a661fba1.png",
+    "tried": [
+      {
+        "id": "A97PA",
+        "title": "Game Boy – Nintendo Switch Online",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Game Boy Advance – Nintendo Switch Online",
+    "titleId": "ATJWD",
+    "matchedTitle": "ATJWD - Story of Seasons: Friends of Mineral Town",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://images.launchbox-app.com/ebd96614-f63d-4d12-9b81-41a8d4a2c944.png",
+    "tried": [
+      {
+        "id": "ATJWD",
+        "title": "ATJWD - Story of Seasons: Friends of Mineral Town",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Ghosts n Goblins Resurrection",
+    "titleId": "",
+    "matchedTitle": "Ghosts n Goblins Resurrection",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-pinterest-indicada",
+    "imageUrl": "https://i.pinimg.com/736x/93/25/a0/9325a0dcc42463f8edcfe22acd454801.jpg",
+    "tried": []
+  },
+  {
+    "name": "Grand Theft Auto The Trilogy – The Definitive Edition",
+    "titleId": "",
+    "matchedTitle": "Grand Theft Auto The Trilogy – The Definitive Edition",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-componente-trilogia-nswvault",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/09/grand-theft-auto-san-andreas-the-definitive-edition.webp",
+    "tried": []
+  },
+  {
+    "name": "Grounded",
+    "titleId": "",
+    "matchedTitle": "Grounded",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2025/05/Grounded.webp",
+    "tried": []
+  },
+  {
+    "name": "Hades",
+    "titleId": "AY9RA",
+    "matchedTitle": "Hades",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AY9RA.png",
+    "tried": []
+  },
+  {
+    "name": "Hades II",
+    "titleId": "",
+    "matchedTitle": "Hades II",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nswvault-verificada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/09/hades-2.webp",
+    "tried": []
+  },
+  {
+    "name": "Hello Kitty Island Adventure",
+    "titleId": "",
+    "matchedTitle": "Hello Kitty Island Adventure",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nswvault-verificada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/09/hello-kitty-island-adventure-deluxe-edition.webp",
+    "tried": []
+  },
+  {
+    "name": "Hogwarts Legacy",
+    "titleId": "AR3XA",
+    "matchedTitle": "AR3XA - Hogwarts Legacy",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://variety.com/wp-content/uploads/2023/11/hogwarts-legacy-nintendo-switch-box-art.jpg",
+    "tried": [
+      {
+        "id": "AR3XA",
+        "title": "AR3XA - Hogwarts Legacy",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Hollow Knight",
+    "titleId": "AKLHA",
+    "matchedTitle": "AKLHA - Hollow Knight",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AKLHA.png",
+    "tried": [
+      {
+        "id": "AKLHA",
+        "title": "AKLHA - Hollow Knight",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Hollow Knight: Silksong",
+    "titleId": "AUSUA",
+    "matchedTitle": "AUSUA - Hollow Knight: Silksong - GameTDB",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://totalcards.net/cdn/shop/files/hollow-knight-silksong_grande.jpg?v=1711634597",
+    "tried": [
+      {
+        "id": "AUSUA",
+        "title": "AUSUA - Hollow Knight: Silksong - GameTDB",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Horizon Chase 2",
+    "titleId": "",
+    "matchedTitle": "Horizon Chase 2",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://s.pacn.ws/1/p/14l/horizon-chase-2-730843.7.jpg?v=rhgfm0",
+    "tried": []
+  },
+  {
+    "name": "Horizon Chase Turbo",
+    "titleId": "",
+    "matchedTitle": "Horizon Chase Turbo",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://media.gamestop.com/i/gamestop/11094683/Horizon-Chase-Turbo",
+    "tried": []
+  },
+  {
+    "name": "Hot Wheels Monster Trucks Stunt Mayhem",
+    "titleId": "",
+    "matchedTitle": "Hot Wheels Monster Trucks Stunt Mayhem",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-coolshop-pesquisada",
+    "imageUrl": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/23N7GC/2f7edd5-b41a4e69879075e6c8b5f97c.png/f/hot-wheels-monster-trucks-stunt-mayhem.png?borderless=1&height=484&transparent=1",
+    "tried": []
+  },
+  {
+    "name": "Hot Wheels Unleashed",
+    "titleId": "A2E9A",
+    "matchedTitle": "Hot Wheels Unleashed",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://m.media-amazon.com/images/I/81J7KuOrI1L.jpg",
+    "tried": []
+  },
+  {
+    "name": "Hot Wheels Unleashed 2 Turbocharged",
+    "titleId": "",
+    "matchedTitle": "Hot Wheels Unleashed 2 Turbocharged",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-wog-indicada",
+    "imageUrl": "https://www.wog.ch/nas/cover_xl/sw/sw_hotwheelsunleashed2turbochargedciab.jpg",
+    "tried": []
+  },
+  {
+    "name": "Hyrule Warriors: Age of Calamity",
+    "titleId": "AXEAB",
+    "matchedTitle": "AXEAB - Hyrule Warriors: Age of Calamity",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AXEAB.png",
+    "tried": [
+      {
+        "id": "AXEAB",
+        "title": "AXEAB - Hyrule Warriors: Age of Calamity",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Immortals Fenyx Rising",
+    "titleId": "AU84A",
+    "matchedTitle": "AU84A - Immortals Fenyx Rising",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AU84A.png",
+    "tried": [
+      {
+        "id": "AU84A",
+        "title": "AU84A - Immortals Fenyx Rising",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Inside",
+    "titleId": "",
+    "matchedTitle": "Inside",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nswvault-verificada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/10/inside.webp",
+    "tried": []
+  },
+  {
+    "name": "It Takes Two",
+    "titleId": "A7GST",
+    "matchedTitle": "A7GST - It Takes Two",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/A7GST.png",
+    "tried": [
+      {
+        "id": "A7GST",
+        "title": "A7GST - It Takes Two",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Just Dance 2025 plus",
+    "titleId": "",
+    "matchedTitle": "Just Dance 2025 plus",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/03/Just-Dance-2025-Edition-Custom-Offline-JD-Minus.png",
+    "tried": []
+  },
+  {
+    "name": "Kaze and the Wild Masks",
+    "titleId": "AVEDA",
+    "matchedTitle": "Kaze and the Wild Masks",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AVEDA.png",
+    "tried": []
+  },
+  {
+    "name": "Kirby and the Forgotten Land",
+    "titleId": "ARZGA",
+    "matchedTitle": "Kirby and the Forgotten Land",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ARZGA.png",
+    "tried": []
+  },
+  {
+    "name": "LEGO DC Super-Villains",
+    "titleId": "ANW7A",
+    "matchedTitle": "ANW7A - LEGO DC Super-Villains",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ANW7A.png",
+    "tried": [
+      {
+        "id": "ANW7A",
+        "title": "ANW7A - LEGO DC Super-Villains",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "LEGO Harry Potter Collection",
+    "titleId": "AQPZA",
+    "matchedTitle": "AQPZA - LEGO Harry Potter Collection",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AQPZA.png",
+    "tried": [
+      {
+        "id": "AQPZA",
+        "title": "AQPZA - LEGO Harry Potter Collection",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "LEGO Horizon Adventures",
+    "titleId": "BFESA",
+    "matchedTitle": "LEGO Horizon Adventures",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://m.media-amazon.com/images/I/81MtfFqZWKL._AC_SY741_.jpg",
+    "tried": [
+      {
+        "id": "BFESA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "LEGO Jurassic World",
+    "titleId": "AUM9A",
+    "matchedTitle": "AUM9A - LEGO Jurassic World",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AUM9A.png",
+    "tried": [
+      {
+        "id": "AUM9A",
+        "title": "AUM9A - LEGO Jurassic World",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "LEGO Marvel Super Heroes",
+    "titleId": "AEANA",
+    "matchedTitle": "AEANA - LEGO Marvel Super Heroes 2",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://m.media-amazon.com/images/I/618TWZNbUtL._AC_SY741_.jpg",
+    "tried": [
+      {
+        "id": "AEANA",
+        "title": "AEANA - LEGO Marvel Super Heroes 2",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "LEGO Marvel Super Heroes 2",
+    "titleId": "AEANA",
+    "matchedTitle": "AEANA - LEGO Marvel Super Heroes 2",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AEANA.png",
+    "tried": [
+      {
+        "id": "AEANA",
+        "title": "AEANA - LEGO Marvel Super Heroes 2",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "LEGO NINJAGO Movie Video Game",
+    "titleId": "AJJ7A",
+    "matchedTitle": "LEGO NINJAGO Movie Video Game",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AB4JA.png",
+    "tried": [
+      {
+        "id": "AJJ7A",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "LEGO Party",
+    "titleId": "BPRGA",
+    "matchedTitle": "BPRGA - LEGO Party!",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://m.media-amazon.com/images/I/81BJNaACs3L._AC_SY500_.jpg",
+    "tried": [
+      {
+        "id": "BPRGA",
+        "title": "BPRGA - LEGO Party!",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "LEGO Star Wars The Skywalker Saga",
+    "titleId": "ATHJA",
+    "matchedTitle": "LEGO Star Wars The Skywalker Saga",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ATHJA.png",
+    "tried": []
+  },
+  {
+    "name": "Let's Sing 2025",
+    "titleId": "",
+    "matchedTitle": "Let's Sing 2025",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://m.media-amazon.com/images/I/71Hj46a90nL.jpg",
+    "tried": []
+  },
+  {
+    "name": "Limbo",
+    "titleId": "",
+    "matchedTitle": "Limbo",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "mockup",
+    "imageUrl": "./assets/limbo-switch-1-box-original.webp",
+    "tried": []
+  },
+  {
+    "name": "Little Nightmares",
+    "titleId": "",
+    "matchedTitle": "Little Nightmares",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/03/little-nightmers-complete-edition.webp",
+    "tried": []
+  },
+  {
+    "name": "Little Nightmares 2",
+    "titleId": "AU56A",
+    "matchedTitle": "Little Nightmares 2",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AU56A.png",
+    "tried": []
+  },
+  {
+    "name": "Little Nightmares III",
+    "titleId": "",
+    "matchedTitle": "Little Nightmares III",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nswvault-indicada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2025/10/Little-Nightmares-III.png",
+    "tried": []
+  },
+  {
+    "name": "Luigi’s Mansion 3",
+    "titleId": "AG3JA",
+    "matchedTitle": "AG3JA - Luigi's Mansion 3",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AG3JA.png",
+    "tried": [
+      {
+        "id": "AG3JA",
+        "title": "AG3JA - Luigi's Mansion 3",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Luigis Mansion 2 HD",
+    "titleId": "BANRA",
+    "matchedTitle": "Luigis Mansion 2 HD",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/BANRA.png",
+    "tried": [
+      {
+        "id": "BANRA",
+        "title": "Luigis Mansion 2 HD",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Mario & Luigi: Brothership",
+    "titleId": "A8E6A",
+    "matchedTitle": "A8E6A - Mario & Luigi: Brothership",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/A8E6A.png",
+    "tried": [
+      {
+        "id": "A8E6A",
+        "title": "A8E6A - Mario & Luigi: Brothership",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Mario Golf Super Rush",
+    "titleId": "AT9HA",
+    "matchedTitle": "Mario Golf Super Rush",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AT9HA.png",
+    "tried": []
+  },
+  {
+    "name": "Mario Kart 8 Deluxe",
+    "titleId": "AABPA",
+    "matchedTitle": "AABPA - Mario Kart 8 Deluxe",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AABPA.png",
+    "tried": [
+      {
+        "id": "AABPA",
+        "title": "AABPA - Mario Kart 8 Deluxe",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Mario Strikers: Battle League",
+    "titleId": "AWN6A",
+    "matchedTitle": "AWN6A - Mario Strikers: Battle League",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AWN6A.png",
+    "tried": [
+      {
+        "id": "AWN6A",
+        "title": "AWN6A - Mario Strikers: Battle League",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Mario Tennis Aces",
+    "titleId": "ALERA",
+    "matchedTitle": "ALERA - Mario Tennis Aces",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ALERA.png",
+    "tried": [
+      {
+        "id": "ALERA",
+        "title": "ALERA - Mario Tennis Aces",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Mario vs. Donkey Kong",
+    "titleId": "",
+    "matchedTitle": "Mario vs. Donkey Kong",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nswvault-indicada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2025/12/Mario_vs._Donkey_Kong.webp",
+    "tried": []
+  },
+  {
+    "name": "Marvel Ultimate Alliance 3 The Black Order + DLC",
+    "titleId": "",
+    "matchedTitle": "Marvel Ultimate Alliance 3 The Black Order + DLC",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/06/marvel-ultimate-alliance-3-the-black-order-720x1166.webp",
+    "tried": []
+  },
+  {
+    "name": "Marvel vs Capcom Fighting Collection Arcade Classics",
+    "titleId": "",
+    "matchedTitle": "Marvel vs Capcom Fighting Collection Arcade Classics",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nswvault-indicada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/05/marvel-vs-capcom-fighting-collection-arcade-classics.webp",
+    "tried": []
+  },
+  {
+    "name": "Mega Man 11",
+    "titleId": "ALGCA",
+    "matchedTitle": "Mega Man 11",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ALGCA.png",
+    "tried": [
+      {
+        "id": "ALGCA",
+        "title": "Mega Man 11",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Mega Man Legacy Collection 1 + 2",
+    "titleId": "",
+    "matchedTitle": "Mega Man Legacy Collection 1 + 2",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-pacote-indicada",
+    "imageUrl": "https://gameline.ph/cdn/shop/products/MMLC_625x625.png?",
+    "tried": []
+  },
+  {
+    "name": "Mega Man X Legacy Collection 1+2",
+    "titleId": "",
+    "matchedTitle": "Mega Man X Legacy Collection 1+2",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-gamegames-equivalente",
+    "imageUrl": "https://cdn.awsli.com.br/2500x2500/53/53761/produto/29705747/215675e9d5.jpg",
+    "tried": []
+  },
+  {
+    "name": "Mega Man Zero/ZX Legacy Collection",
+    "titleId": "AS4UA",
+    "matchedTitle": "AS4UA - Mega Man Zero ZX Legacy Collection",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AS4UA.png",
+    "tried": [
+      {
+        "id": "AS4UA",
+        "title": "AS4UA - Mega Man Zero ZX Legacy Collection",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Metroid Dread",
+    "titleId": "AYL8A",
+    "matchedTitle": "AYL8A - Metroid Dread",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AYL8A.png",
+    "tried": [
+      {
+        "id": "AYL8A",
+        "title": "AYL8A - Metroid Dread",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Metroid Prime 4 Beyond",
+    "titleId": "",
+    "matchedTitle": "Metroid Prime 4 Beyond",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nswvault-indicada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/05/metroid-prime-4-beyond.webp",
+    "tried": []
+  },
+  {
+    "name": "Metroid Prime Remastered",
+    "titleId": "A3SDA",
+    "matchedTitle": "Metroid Prime Remastered",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/A3SDA.png",
+    "tried": []
+  },
+  {
+    "name": "MGS Master Collection Vol. 1",
+    "titleId": "A7C4A",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/BCK6A.png",
+    "tried": [
+      {
+        "id": "A7C4A",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Mighty Morphin Power Rangers Rita's Rewind",
+    "titleId": "",
+    "matchedTitle": "Mighty Morphin Power Rangers Rita's Rewind",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-referencia",
+    "imageUrl": "https://down-br.img.susercontent.com/file/sg-11134201-7rauu-maiggmo4t6d2f7",
+    "tried": []
+  },
+  {
+    "name": "Minecraft",
+    "titleId": "AEUCA",
+    "matchedTitle": "AEUCA - Minecraft",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AEUCA.png",
+    "tried": [
+      {
+        "id": "AEUCA",
+        "title": "AEUCA - Minecraft",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Minecraft Legends",
+    "titleId": "AZJ4A",
+    "matchedTitle": "AZJ4A - Minecraft Legends",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AZJ4A.png",
+    "tried": [
+      {
+        "id": "AZJ4A",
+        "title": "AZJ4A - Minecraft Legends",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Minecraft Story Mode",
+    "titleId": "APFZA",
+    "matchedTitle": "APFZA - Minecraft - Story Mode - Season Two",
+    "matchScore": 50,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/APFZA.png",
+    "tried": [
+      {
+        "id": "APFZA",
+        "title": "APFZA - Minecraft - Story Mode - Season Two",
+        "score": 50,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Monster Hunter Rise",
+    "titleId": "AXSEB",
+    "matchedTitle": "AXSEB - Monster Hunter Rise",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AXSEB.png",
+    "tried": [
+      {
+        "id": "AXSEA",
+        "title": "AXSEA - Monster Hunter Rise",
+        "score": 650,
+        "hasCover": false
+      },
+      {
+        "id": "AXSEB",
+        "title": "AXSEB - Monster Hunter Rise",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Morbid the Lords of Ire",
+    "titleId": "",
+    "matchedTitle": "Morbid the Lords of Ire",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-amazon-indicada",
+    "imageUrl": "https://m.media-amazon.com/images/I/718kaYp-RxL.jpg",
+    "tried": []
+  },
+  {
+    "name": "Mortal Kombat 1",
+    "titleId": "A8WRA",
+    "matchedTitle": "A8WRA - Mortal Kombat 1",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/A8WRA.png",
+    "tried": [
+      {
+        "id": "A8WRA",
+        "title": "A8WRA - Mortal Kombat 1",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Mortal Kombat 11",
+    "titleId": "ASADA",
+    "matchedTitle": "Mortal Kombat 11",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-referencia",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ASADA.png",
+    "tried": []
+  },
+  {
+    "name": "Mortal Kombat Legacy Kollection",
+    "titleId": "BNMGA",
+    "matchedTitle": "Mortal Kombat Legacy Kollection",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://videogamesplus.ca/cdn/shop/files/VGP0023273_748x748.png?v=1753975914",
+    "tried": []
+  },
+  {
+    "name": "My Sims Cozy Bundle",
+    "titleId": "",
+    "matchedTitle": "My Sims Cozy Bundle",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-frontal-referencia",
+    "imageUrl": "https://image.smythstoys.com/original/800/desktop/243686.jpg",
+    "tried": []
+  },
+  {
+    "name": "My Universe - Pet Clinic Cats and Dogs",
+    "titleId": "",
+    "matchedTitle": "My Universe - Pet Clinic Cats and Dogs",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-amazon-indicada",
+    "imageUrl": "https://m.media-amazon.com/images/I/71+TqQ142tL.jpg",
+    "tried": []
+  },
+  {
+    "name": "NAMCO Museum Arcade Pac",
+    "titleId": "AP3MA",
+    "matchedTitle": "NAMCO Museum Arcade Pac",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AP3MA.png",
+    "tried": []
+  },
+  {
+    "name": "NAMCO Museum Archive Vol 1",
+    "titleId": "",
+    "matchedTitle": "NAMCO Museum Archive Vol 1",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-amazon-indicada",
+    "imageUrl": "https://m.media-amazon.com/images/I/81sM+uoww+L.jpg",
+    "tried": []
+  },
+  {
+    "name": "NAMCO Museum Archive Vol 2",
+    "titleId": "",
+    "matchedTitle": "NAMCO Museum Archive Vol 2",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-amazon-indicada",
+    "imageUrl": "https://m.media-amazon.com/images/I/81AqlXDJUOL.jpg",
+    "tried": []
+  },
+  {
+    "name": "Naruto Shippuden Ultimate Ninja Storm 4 Road to Boruto",
+    "titleId": "",
+    "matchedTitle": "Naruto Shippuden Ultimate Ninja Storm 4 Road to Boruto",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-mercadolivre-indicada",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_723691-MLA99853450425_112025-F.webp",
+    "tried": []
+  },
+  {
+    "name": "Naruto Shippuden Ultimate Ninja Storm Trilogy",
+    "titleId": "",
+    "matchedTitle": "Naruto Shippuden Ultimate Ninja Storm Trilogy",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nintendoeverything-indicada",
+    "imageUrl": "https://nintendoeverything.com/wp-content/uploads/naruto-shippuden-trilogy-boxart.jpg",
+    "tried": []
+  },
+  {
+    "name": "Naruto x Boruto Ultimate Ninja Storm Connections",
+    "titleId": "",
+    "matchedTitle": "Naruto x Boruto Ultimate Ninja Storm Connections",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nswvault-indicada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/04/NARUTO-X-BORUTO-Ultimate-Ninja-STORM-CONNECTIONS.webp",
+    "tried": []
+  },
+  {
+    "name": "Need for Speed Hot Pursuit Remastered",
+    "titleId": "AXVXA",
+    "matchedTitle": "Need for Speed Hot Pursuit Remastered",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AXVXA.png",
+    "tried": []
+  },
+  {
+    "name": "New Super Mario Bros. U Deluxe",
+    "titleId": "ADALA",
+    "matchedTitle": "ADALA - New Super Mario Bros. U Deluxe",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ADALA.png",
+    "tried": [
+      {
+        "id": "ADALA",
+        "title": "ADALA - New Super Mario Bros. U Deluxe",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "NieR Automata The End of YoRHa Edition",
+    "titleId": "A532A",
+    "matchedTitle": "NieR Automata The End of YoRHa Edition",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/A532A.png",
+    "tried": []
+  },
+  {
+    "name": "Nine Sols",
+    "titleId": "",
+    "matchedTitle": "Nine Sols",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nswvault-verificada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2024/11/Nine-Sols-nsp.png",
+    "tried": []
+  },
+  {
+    "name": "Ninja Gaiden - Master Collection",
+    "titleId": "",
+    "matchedTitle": "Ninja Gaiden - Master Collection",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-pacote-amazon",
+    "imageUrl": "https://m.media-amazon.com/images/I/614QOEZ8bLL._AC_SL1000_.jpg",
+    "tried": []
+  },
+  {
+    "name": "Nintendo 64 – Nintendo Switch Online",
+    "titleId": "AZ82A",
+    "matchedTitle": "AZ82A - Mario Party Superstars",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://images.launchbox-app.com//156e0020-699a-4dd6-b8be-bab2956715fb.png",
+    "tried": [
+      {
+        "id": "AZ82A",
+        "title": "AZ82A - Mario Party Superstars",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Nintendo Entertainment System – Nintendo Switch Online",
+    "titleId": "ARGTA",
+    "matchedTitle": "ARGTA - Everybody 1-2-Switch!",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://romsbr.com.br/capas/game-boy/nintendo-ntf2-test-cartridge.webp",
+    "tried": [
+      {
+        "id": "ARGTA",
+        "title": "ARGTA - Everybody 1-2-Switch!",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Nintendo Switch Sports",
+    "titleId": "AS8SA",
+    "matchedTitle": "AS8SA - Nintendo Switch Sports",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AS8SA.png",
+    "tried": [
+      {
+        "id": "AS8SA",
+        "title": "AS8SA - Nintendo Switch Sports",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Nintendo World Championships: NES Edition",
+    "titleId": "A82CA",
+    "matchedTitle": "A82CA - Nintendo World Championships: NES Edition",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/A82CA.png",
+    "tried": [
+      {
+        "id": "A82CA",
+        "title": "A82CA - Nintendo World Championships: NES Edition",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Ori and the Blind Forest Definitive Edition",
+    "titleId": "",
+    "matchedTitle": "Ori and the Blind Forest Definitive Edition",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nswvault-indicada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/10/ori-and-the-blind-forest-definitive-edition-720x1178.webp",
+    "tried": []
+  },
+  {
+    "name": "Ori and the Will of the Wisps",
+    "titleId": "AWAYB",
+    "matchedTitle": "Ori and the Will of the Wisps",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AWAYB.png",
+    "tried": []
+  },
+  {
+    "name": "Paper Mario - The Origami King",
+    "titleId": "ARUUA",
+    "matchedTitle": "Paper Mario - The Origami King",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ARUUA.png",
+    "tried": [
+      {
+        "id": "ARUUA",
+        "title": "Paper Mario - The Origami King",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Paper Mario - The Thousand-Year Door",
+    "titleId": "A9QDA",
+    "matchedTitle": "Paper Mario - The Thousand-Year Door",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/A9QDA.png",
+    "tried": [
+      {
+        "id": "A9QDA",
+        "title": "Paper Mario - The Thousand-Year Door",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Persona 5 Royal",
+    "titleId": "A42UC",
+    "matchedTitle": "A42UC - Persona 5 Royal",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/A42UC.png",
+    "tried": [
+      {
+        "id": "A42UC",
+        "title": "A42UC - Persona 5 Royal",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Pokémon Brilliant Diamond",
+    "titleId": "AX7QA",
+    "matchedTitle": "AX7QA - Pokémon Brilliant Diamond",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AX7QA.png",
+    "tried": [
+      {
+        "id": "AX7QA",
+        "title": "AX7QA - Pokémon Brilliant Diamond",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Pokémon FireRed and LeafGreen",
+    "titleId": "",
+    "matchedTitle": "Pokémon FireRed and LeafGreen",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-pacote-nswvault",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/02/Pokemon-FireRed-and-LeafGreen-1.webp",
+    "tried": []
+  },
+  {
+    "name": "Pokémon Legends: Arceus",
+    "titleId": "AW7KA",
+    "matchedTitle": "AW7KA - Pokémon Legends: Arceus",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AW7KA.png",
+    "tried": [
+      {
+        "id": "AW7KA",
+        "title": "AW7KA - Pokémon Legends: Arceus",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Pokémon Legends: Z‑A",
+    "titleId": "AQRWA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://m.media-amazon.com/images/I/61byd3OPF+L._AC_SL1000_.jpg",
+    "tried": [
+      {
+        "id": "AQRWA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Pokémon Mystery Dungeon: Rescue Team DX",
+    "titleId": "AQ42A",
+    "matchedTitle": "AQ42A - Pokémon Mystery Dungeon: Rescue Team DX",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AQ42A.png",
+    "tried": [
+      {
+        "id": "AQ42A",
+        "title": "AQ42A - Pokémon Mystery Dungeon: Rescue Team DX",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Pokémon Quest",
+    "titleId": "ARMPB",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://m.media-amazon.com/images/I/5185M4TDl+L.jpg",
+    "tried": [
+      {
+        "id": "ARMPB",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Pokémon Scarlet",
+    "titleId": "ALZXA",
+    "matchedTitle": "ALZXA - Pokémon Scarlet",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ALZXA.png",
+    "tried": [
+      {
+        "id": "ALZXA",
+        "title": "ALZXA - Pokémon Scarlet",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Pokémon Shield",
+    "titleId": "ALZBA",
+    "matchedTitle": "ALZBA - Pokémon Shield",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ALZBA.png",
+    "tried": [
+      {
+        "id": "ALZBA",
+        "title": "ALZBA - Pokémon Shield",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Pokémon Shining Pearl",
+    "titleId": "AX7RA",
+    "matchedTitle": "AX7RA - Pokémon Shining Pearl",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AX7RA.png",
+    "tried": [
+      {
+        "id": "AX7RA",
+        "title": "AX7RA - Pokémon Shining Pearl",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Pokémon Sword",
+    "titleId": "ALZAA",
+    "matchedTitle": "ALZAA - Pokémon Sword",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ALZAA.png",
+    "tried": [
+      {
+        "id": "ALZAA",
+        "title": "ALZAA - Pokémon Sword",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Pokémon Violet",
+    "titleId": "ALZYA",
+    "matchedTitle": "ALZYA - Pokémon Violet",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ALZYA.png",
+    "tried": [
+      {
+        "id": "A9CZA",
+        "title": "A9CZA - Pokémon Scarlet and Pokémon Violet Double Pack",
+        "score": 650,
+        "hasCover": false
+      },
+      {
+        "id": "ALZYA",
+        "title": "ALZYA - Pokémon Violet",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Pokémon: Let’s Go, Eevee!",
+    "titleId": "ADW3A",
+    "matchedTitle": "ADW3A - Pokémon: Let's Go, Eevee!",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ADW3A.png",
+    "tried": [
+      {
+        "id": "ADW3A",
+        "title": "ADW3A - Pokémon: Let's Go, Eevee!",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Pokémon: Let’s Go, Pikachu!",
+    "titleId": "ADW2A",
+    "matchedTitle": "ADW2A - Pokémon: Let's Go, Pikachu!",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ADW2A.png",
+    "tried": [
+      {
+        "id": "ADW2A",
+        "title": "ADW2A - Pokémon: Let's Go, Pikachu!",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Pokkén Tournament DX",
+    "titleId": "BAAYA",
+    "matchedTitle": "BAAYA - Pokkén Tournament DX",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/BAAYA.png",
+    "tried": [
+      {
+        "id": "BAAYA",
+        "title": "BAAYA - Pokkén Tournament DX",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Power Rangers Battle for the Grid",
+    "titleId": "AS39F",
+    "matchedTitle": "Power Rangers Battle for the Grid",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AS39F.png",
+    "tried": []
+  },
+  {
+    "name": "Prince of Persia the Lost Crown",
+    "titleId": "",
+    "matchedTitle": "Prince of Persia the Lost Crown",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-amazon-indicada",
+    "imageUrl": "https://m.media-amazon.com/images/I/81NlccH9nYL._AC_SL1500_.jpg",
+    "tried": []
+  },
+  {
+    "name": "Rayman: 30th Anniversary Edition",
+    "titleId": "",
+    "matchedTitle": "Rayman: 30th Anniversary Edition",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nswvault-indicada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/02/rayman-30th-anniversary-edition.webp",
+    "tried": []
+  },
+  {
+    "name": "Rayman Legends Definitive Edition",
+    "titleId": "ACVKA",
+    "matchedTitle": "Rayman Legends Definitive Edition",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ACVKA.png",
+    "tried": []
+  },
+  {
+    "name": "Red Dead Redemption",
+    "titleId": "BAF2A",
+    "matchedTitle": "BAF2A - Red Dead Redemption",
+    "matchScore": 650,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/BAF2A.png",
+    "tried": [
+      {
+        "id": "BAF2A",
+        "title": "BAF2A - Red Dead Redemption",
+        "score": 650,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Resident Evil 0",
+    "titleId": "ANW7A",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://cdn.mobygames.com/covers/7588741-resident-evil-0-nintendo-switch-front-cover.png",
+    "tried": [
+      {
+        "id": "ANW7A",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Resident Evil 4",
+    "titleId": "",
+    "matchedTitle": "Resident Evil 4",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-coolshop-code-in-box",
+    "imageUrl": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/23UM5P/031c86d11b374a1c8c3b1fb2d5cf0602.png/f/resident-evil-4-code-in-box.png",
+    "tried": []
+  },
+  {
+    "name": "Resident Evil 5",
+    "titleId": "",
+    "matchedTitle": "Resident Evil 5",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nswvault-verificada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2025/11/resident-evil-5.webp",
+    "tried": []
+  },
+  {
+    "name": "Resident Evil 6",
+    "titleId": "",
+    "matchedTitle": "Resident Evil 6",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-coolshop-code-in-box",
+    "imageUrl": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/23UM5V/5b49d35d47e54dcb81d8f856392c2050.png/f/resident-evil-6-code-in-box.png",
+    "tried": []
+  },
+  {
+    "name": "Resident Evil Revelations",
+    "titleId": "",
+    "matchedTitle": "Resident Evil Revelations",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nswvault-verificada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2025/12/Resident_Evil_Revelations.webp",
+    "tried": []
+  },
+  {
+    "name": "Resident Evil Revelations 2",
+    "titleId": "",
+    "matchedTitle": "Resident Evil Revelations 2",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nswvault-verificada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/01/Resident_Evil_Revelations_2.webp",
+    "tried": []
+  },
+  {
+    "name": "SEGA Genesis – Nintendo Switch Online",
+    "titleId": "APS6A",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://images.launchbox-app.com//8b7f46f0-c134-4a86-a008-fa0c8944e4e2.png",
+    "tried": [
+      {
+        "id": "APS6A",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Shin Megami Tensei V",
+    "titleId": "AQ79A",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/BBXAC.png",
+    "tried": [
+      {
+        "id": "AQ79A",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Shinobi Art of Vengeance",
+    "titleId": "",
+    "matchedTitle": "Shinobi Art of Vengeance",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nswvault-verificada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2025/09/SHINOBI-Art-of-Vengeance-nsp.png",
+    "tried": []
+  },
+  {
+    "name": "Ship of Harkinian (OOT native port)",
+    "titleId": "AUPMA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://nswpedia.com/wp-content/uploads/2025/02/Ship-of-Harkinian-nsp-rom-300x489.png.webp",
+    "tried": [
+      {
+        "id": "AUPMA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Sifu",
+    "titleId": "AH3YA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/A7XDA.png",
+    "tried": [
+      {
+        "id": "AH3YA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Sonic Mania",
+    "titleId": "AYQ7A",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ABD7C.png",
+    "tried": [
+      {
+        "id": "AYQ7A",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Sonic Racing Cross Worlds",
+    "titleId": "BMQ7A",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://s.pacn.ws/1/p/1bd/852757.1.jpg",
+    "tried": [
+      {
+        "id": "BMQ7A",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Sonic Superstars",
+    "titleId": "A7YPB",
+    "matchedTitle": "Sonic Superstars",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/A7YPB.png",
+    "tried": []
+  },
+  {
+    "name": "Splatoon 2 + Octo Expansion",
+    "titleId": "",
+    "matchedTitle": "Splatoon 2 + Octo Expansion",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-jogo-base-nswvault",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2025/12/Splatoon-2.webp",
+    "tried": []
+  },
+  {
+    "name": "Splatoon 3",
+    "titleId": "ATTVA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AV5JA.png",
+    "tried": [
+      {
+        "id": "ATTVA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Sponge Bob Square Pants the Cosmic Shake",
+    "titleId": "A7G3A",
+    "matchedTitle": "Sponge Bob Square Pants the Cosmic Shake",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/A7G3A.png",
+    "tried": []
+  },
+  {
+    "name": "SpongeBob SquarePants Battle for Bikini Bottom Rehydrated",
+    "titleId": "AWXEA",
+    "matchedTitle": "SpongeBob SquarePants Battle for Bikini Bottom Rehydrated",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AWXEA.png",
+    "tried": []
+  },
+  {
+    "name": "Street Fighter - 30th Anniversary Collection",
+    "titleId": "AK6JA",
+    "matchedTitle": "Street Fighter - 30th Anniversary Collection",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AK6JA.png",
+    "tried": []
+  },
+  {
+    "name": "Streets of Rage 4",
+    "titleId": "BPEHA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/EN/AWGWE.png",
+    "tried": [
+      {
+        "id": "BPEHA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Super Bomberman R",
+    "titleId": "A3SYA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AAB8A.png",
+    "tried": [
+      {
+        "id": "A3SYA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Super Bomberman R2",
+    "titleId": "BAFSA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://d5gag3xtge2og.cloudfront.net/producao/33882671/G/super-bomberman-r-2switch-.webp",
+    "tried": [
+      {
+        "id": "BAFSA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Super Dragon Ball Heroes World Mission",
+    "titleId": "",
+    "matchedTitle": "Super Dragon Ball Heroes World Mission",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nswvault-verificada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/10/super-dragon-ball-heroes-world-mission.webp",
+    "tried": []
+  },
+  {
+    "name": "Super Mario 3D All-Stars",
+    "titleId": "A4UJA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AVP3A.png",
+    "tried": [
+      {
+        "id": "A4UJA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Super Mario 3D World + Bowser’s Fury",
+    "titleId": "AXS7A",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AUZPA.png",
+    "tried": [
+      {
+        "id": "AXS7A",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Super Mario Bros 35",
+    "titleId": "",
+    "matchedTitle": "Super Mario Bros 35",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://i.redd.it/zf74qzzfc1l51.png",
+    "tried": []
+  },
+  {
+    "name": "Super Mario Bros. Wonder",
+    "titleId": "AH97B",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AQMXA.png",
+    "tried": [
+      {
+        "id": "AH97B",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Super Mario Galaxy + Super Mario Galaxy 2",
+    "titleId": "ATPMB",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://m.media-amazon.com/images/I/61tLkY3m0OL._AC_SL1000_.jpg",
+    "tried": [
+      {
+        "id": "ATPMB",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Super Mario Maker 2",
+    "titleId": "BAAQA",
+    "matchedTitle": "Super Mario Maker 2",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/BAAQA.png",
+    "tried": []
+  },
+  {
+    "name": "Super Mario Odyssey",
+    "titleId": "AQ3SC",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AAACA.png",
+    "tried": [
+      {
+        "id": "AQ3SC",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Super Mario Party Jamboree",
+    "titleId": "AY8KA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/A7HLA.png?1740553860",
+    "tried": [
+      {
+        "id": "AY8KA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Super Mario RPG",
+    "titleId": "A5GFA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/A8LUA.png?1700321690",
+    "tried": [
+      {
+        "id": "A5GFA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Super Nintendo Entertainment System – Nintendo Switch Online",
+    "titleId": "AXUPA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://images.launchbox-app.com//26f5f756-9706-47ec-9475-52c3514c5771.jpg",
+    "tried": [
+      {
+        "id": "AXUPA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Super Smash Bros. Ultimate",
+    "titleId": "AEBNC",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AAABA.png?1557350324",
+    "tried": [
+      {
+        "id": "AEBNC",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles: Shredder’s Revenge",
+    "titleId": "AHWWB",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://cybertronvideogames.com/cdn/shop/products/6510132_sd_615x.jpg",
+    "tried": [
+      {
+        "id": "AHWWB",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "The Elder Scrolls V: Skyrim",
+    "titleId": "ATPCA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AF3CA.png?1558215298",
+    "tried": [
+      {
+        "id": "ATPCA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "titleId": "ARVHA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AAAAA.png",
+    "tried": [
+      {
+        "id": "ARVHA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "The Legend of Zelda: Echoes of Wisdom",
+    "titleId": "BA2TA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/BDGEA.png",
+    "tried": [
+      {
+        "id": "BA2TA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "The Legend of Zelda: Link’s Awakening",
+    "titleId": "A28NA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AR3NA.png",
+    "tried": [
+      {
+        "id": "A28NA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "The Legend of Zelda: Skyward Sword HD",
+    "titleId": "AZQQA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AZ89A.png",
+    "tried": [
+      {
+        "id": "AZQQA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "titleId": "AZTYA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AXN7A.png",
+    "tried": [
+      {
+        "id": "AZTYA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "The Rogue Prince of Persia",
+    "titleId": "",
+    "matchedTitle": "The Rogue Prince of Persia",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nswvault-verificada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/01/the-rogue-prince-of-persia.webp",
+    "tried": []
+  },
+  {
+    "name": "The Witcher 3: Wild Hunt – Complete Edition",
+    "titleId": "AK63B",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/JA/AURVL.png?1626434299",
+    "tried": [
+      {
+        "id": "AK63B",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Tomb Raider Definitive edition",
+    "titleId": "",
+    "matchedTitle": "Tomb Raider Definitive edition",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nswvault-verificada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/10/tomb-raider-definitive-edition.webp",
+    "tried": []
+  },
+  {
+    "name": "Tomb Raider I–III Remastered",
+    "titleId": "BAAZA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://m.media-amazon.com/images/I/81RkU10C5UL._AC_UF1000,1000_QL80_.jpg",
+    "tried": [
+      {
+        "id": "BAAZA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Tomodachi Life Living the Dream",
+    "titleId": "",
+    "matchedTitle": "Tomodachi Life Living the Dream",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-nswvault-verificada",
+    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/03/Tomodachi-Life-Living-the-Dream.webp",
+    "tried": []
+  },
+  {
+    "name": "Top Racer Collection",
+    "titleId": "BCFBA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1916/a019a81275b09d55f7675b56ee18e2a4c380850a58c41625.jpg",
+    "tried": [
+      {
+        "id": "BCFBA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Transformers Battlegrounds",
+    "titleId": "",
+    "matchedTitle": "Transformers Battlegrounds",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-amazon-indicada",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81T9bJ-XSDL._AC_UL600_SR600,600_.jpg",
+    "tried": []
+  },
+  {
+    "name": "Transformers Earthspark Expedition",
+    "titleId": "",
+    "matchedTitle": "Transformers Earthspark Expedition",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fornecida-usuario",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXuqbyJv_50oxv2GzqZGUgEC3mZEYw2e3_sssSKLWGUNT9F_a9QLhZ31g&s=10",
+    "tried": []
+  },
+  {
+    "name": "Transformers Galactic Trials",
+    "titleId": "",
+    "matchedTitle": "Transformers Galactic Trials",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-referencia",
+    "imageUrl": "https://www.bigw.com.au/medias/sys_master/images/images/h59/hf5/139604203241502.jpg",
+    "tried": []
+  },
+  {
+    "name": "Trial Rising",
+    "titleId": "",
+    "matchedTitle": "Trial Rising",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-smyths-indicada",
+    "imageUrl": "https://image.smythstoys.com/original/800/desktop/215824.webp",
+    "tried": []
+  },
+  {
+    "name": "Ultra Street Fighter II: The Final Challengers",
+    "titleId": "AQGTA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://media.gamestop.com/i/gamestop/10143459/Ultra-Street-Fighter-II-The-Final-Challengers",
+    "tried": [
+      {
+        "id": "AQGTA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Unravel Two",
+    "titleId": "ASGGA",
+    "matchedTitle": "Unravel Two",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ASGGA.png",
+    "tried": []
+  },
+  {
+    "name": "WRC 10",
+    "titleId": "",
+    "matchedTitle": "WRC 10",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-amazon-indicada",
+    "imageUrl": "https://m.media-amazon.com/images/I/71A-PdOFVmL._AC_SL1500_.jpg",
+    "tried": []
+  },
+  {
+    "name": "Xenoblade Chronicles X: Definitive Edition",
+    "titleId": "AUP7A",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/52/Switch_XenobladeChroniclesDefinitiveEdition_boxart_01.png",
+    "tried": [
+      {
+        "id": "AUP7A",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  },
+  {
+    "name": "Yoshi's Crafted World",
+    "titleId": "AEA2A",
+    "matchedTitle": "Yoshi's Crafted World",
+    "matchScore": 0,
+    "region": "US",
+    "quality": "capa-fisica-base",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/AEA2A.png",
+    "tried": []
+  },
+  {
+    "name": "YouTube (oficial)",
+    "titleId": "ARVHA",
+    "matchedTitle": null,
+    "matchScore": 0,
+    "region": "US",
+    "quality": "normal",
+    "imageUrl": "https://art.gametdb.com/switch/box/US/ARVHA.png",
+    "tried": [
+      {
+        "id": "ARVHA",
+        "title": "",
+        "score": 0,
+        "hasCover": true
+      }
+    ]
+  }
+]

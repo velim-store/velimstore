@@ -6,7 +6,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AACCA.png",
+    "imageUrl": "./assets/covers/1-2-switch.webp",
     "tried": [
       {
         "id": "AACCA",
@@ -23,7 +23,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ACBAA.png",
+    "imageUrl": "./assets/covers/animal-crossing-new-horizons.webp",
     "tried": [
       {
         "id": "ACBAA",
@@ -40,7 +40,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AB48A.png",
+    "imageUrl": "./assets/covers/astral-chain.webp",
     "tried": []
   },
   {
@@ -50,7 +50,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A85DA.png",
+    "imageUrl": "./assets/covers/atari-50-the-anniversary-celebration.webp",
     "tried": []
   },
   {
@@ -60,7 +60,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A6DQA.png",
+    "imageUrl": "./assets/covers/batman-arkham-trilogy.webp",
     "tried": [
       {
         "id": "A6DQA",
@@ -77,7 +77,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AE99A.png",
+    "imageUrl": "./assets/covers/bayonetta.webp",
     "tried": []
   },
   {
@@ -87,7 +87,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fornecida-usuario",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/09/bayonetta-2.webp",
+    "imageUrl": "./assets/covers/bayonetta-2.webp",
     "tried": []
   },
   {
@@ -97,7 +97,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AXB7A.png",
+    "imageUrl": "./assets/covers/bayonetta-3.webp",
     "tried": []
   },
   {
@@ -107,7 +107,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AXZSA.png",
+    "imageUrl": "./assets/covers/bladed-fury.webp",
     "tried": []
   },
   {
@@ -117,7 +117,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/BBLYA.png",
+    "imageUrl": "./assets/covers/blasphemous-2.webp",
     "tried": []
   },
   {
@@ -127,7 +127,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-referencia",
-    "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_07745c6c-c9c3-4d0e-9686-56a208019b04?qlt=80&wid=1900",
+    "imageUrl": "./assets/covers/bluey-the-videogame.webp",
     "tried": []
   },
   {
@@ -137,7 +137,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AWVAA.png",
+    "imageUrl": "./assets/covers/burnout-paradise-remastered.webp",
     "tried": []
   },
   {
@@ -147,7 +147,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ABTDA.png",
+    "imageUrl": "./assets/covers/cars-3.webp",
     "tried": []
   },
   {
@@ -157,7 +157,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-frontal-indicada",
-    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_708650-MLB109816698106_042026-O.webp",
+    "imageUrl": "./assets/covers/castlevania-advance-collection.webp",
     "tried": []
   },
   {
@@ -167,7 +167,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ATA9B.png",
+    "imageUrl": "./assets/covers/castlevania-anniversary-collection.webp",
     "tried": []
   },
   {
@@ -177,7 +177,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-frontal-indicada",
-    "imageUrl": "https://www.jbhifi.com.au/cdn/shop/files/833186-Product-0-I-638916711604468881.jpg?v=1756074427",
+    "imageUrl": "./assets/covers/castlevania-dominus-collection.webp",
     "tried": []
   },
   {
@@ -187,7 +187,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-adaptada-nswvault",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/10/castlevania-symphony-of-the-night.webp",
+    "imageUrl": "./assets/covers/castlevania-symphony-of-the-night-homebrew-port-for-nintendo-switch.webp",
     "tried": []
   },
   {
@@ -197,7 +197,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ACF3A.png",
+    "imageUrl": "./assets/covers/celeste.webp",
     "tried": []
   },
   {
@@ -207,7 +207,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nswvault-indicada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/10/contra-operation-galuga.webp",
+    "imageUrl": "./assets/covers/contra-operation-galuga.webp",
     "tried": []
   },
   {
@@ -217,7 +217,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AXSRA.png",
+    "imageUrl": "./assets/covers/crash-bandicoot-4-its-about-time.webp",
     "tried": [
       {
         "id": "AXSRA",
@@ -234,7 +234,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AHQ3A.png",
+    "imageUrl": "./assets/covers/crash-bandicoot-n-sane-trilogy.webp",
     "tried": []
   },
   {
@@ -244,7 +244,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AST4A.png",
+    "imageUrl": "./assets/covers/crash-team-racing-nitro-fueled.webp",
     "tried": [
       {
         "id": "AST4A",
@@ -261,7 +261,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A6YYA.png",
+    "imageUrl": "./assets/covers/cult-of-the-lamb.webp",
     "tried": []
   },
   {
@@ -271,7 +271,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://s.pacn.ws/1/p/14u/cuphead-physical-edition-735281.7.jpg?v=rjmbun",
+    "imageUrl": "./assets/covers/cuphead.webp",
     "tried": []
   },
   {
@@ -281,7 +281,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fornecida-usuario",
-    "imageUrl": "https://m.media-amazon.com/images/I/71z2Ci07D+L._AC_UF1000,1000_QL80_.jpg",
+    "imageUrl": "./assets/covers/danganronpa-decadence.webp",
     "tried": []
   },
   {
@@ -291,7 +291,7 @@
     "matchScore": 75,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AK63B.png",
+    "imageUrl": "./assets/covers/dark-souls-remastered.webp",
     "tried": [
       {
         "id": "AK63B",
@@ -308,7 +308,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ANXTA.png",
+    "imageUrl": "./assets/covers/dead-cells.webp",
     "tried": []
   },
   {
@@ -318,7 +318,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-referencia",
-    "imageUrl": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/550502/Demon-Slayer-The-Hinokami-Chronicles-Switch-M-dia-F-sica_1713271727_gg.jpg",
+    "imageUrl": "./assets/covers/demon-slayer-the-hinokami-chronicles-kimetsu-no-yaiba.webp",
     "tried": []
   },
   {
@@ -328,7 +328,7 @@
     "matchScore": 60,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AQ3FA.png",
+    "imageUrl": "./assets/covers/diablo-iii-eternal-collection.webp",
     "tried": [
       {
         "id": "AQ3FA",
@@ -345,7 +345,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fornecida-usuario",
-    "imageUrl": "https://m.media-amazon.com/images/I/81hvTNlSLGL._AC_UF1000,1000_QL80_.jpg",
+    "imageUrl": "./assets/covers/disney-classic-games-aladdin-and-the-lion-king-jungle-book.webp",
     "tried": []
   },
   {
@@ -355,7 +355,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fornecida-usuario",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2025/12/Disney_Epic_Mickey_Rebrushed.webp",
+    "imageUrl": "./assets/covers/disney-epic-mickey-rebrushed.webp",
     "tried": []
   },
   {
@@ -365,7 +365,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/BADYA.png",
+    "imageUrl": "./assets/covers/disney-illusion-island.webp",
     "tried": []
   },
   {
@@ -375,7 +375,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/BDLWA.png",
+    "imageUrl": "./assets/covers/donkey-kong-country-returns-hd.webp",
     "tried": [
       {
         "id": "BDLWA",
@@ -392,7 +392,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AFWTA.png",
+    "imageUrl": "./assets/covers/donkey-kong-country-tropical-freeze.webp",
     "tried": [
       {
         "id": "AFWTA",
@@ -409,7 +409,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A6SVA.png",
+    "imageUrl": "./assets/covers/doom-eternal.webp",
     "tried": [
       {
         "id": "A6SVA",
@@ -426,7 +426,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-amazon-indicada",
-    "imageUrl": "https://m.media-amazon.com/images/I/81I0kUSB88L._AC_UF1000,1000_QL80_.jpg",
+    "imageUrl": "./assets/covers/dragon-ball-fighterz.webp",
     "tried": []
   },
   {
@@ -436,7 +436,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-referencia",
-    "imageUrl": "https://down-id.img.susercontent.com/file/id-11134207-82250-mfvuxh3gkniia2",
+    "imageUrl": "./assets/covers/dragon-ball-sparking-zero.webp",
     "tried": []
   },
   {
@@ -446,7 +446,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ABYBA.png",
+    "imageUrl": "./assets/covers/dragon-ball-xenoverse-2.webp",
     "tried": []
   },
   {
@@ -456,7 +456,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fornecida-usuario",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/01/Dragon-Ball-Z-Kakarot-A-New-Power-Awakens-Set.jpeg",
+    "imageUrl": "./assets/covers/dragon-ball-z-kakarot-a-new-power-awakens-set.webp",
     "tried": []
   },
   {
@@ -466,7 +466,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fornecida-usuario",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/04/EA-SPORTS-FC-26.webp",
+    "imageUrl": "./assets/covers/ea-sports-fc-26.webp",
     "tried": [
       {
         "id": "BMZ2A",
@@ -483,7 +483,7 @@
     "matchScore": 0,
     "region": "EU",
     "quality": "normal",
-    "imageUrl": "https://m.media-amazon.com/images/I/610+fLoIm8L._AC_UF1000,1000_QL80_.jpg",
+    "imageUrl": "./assets/covers/ea-sports-fc-27.webp",
     "tried": []
   },
   {
@@ -493,7 +493,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ARGTA.png",
+    "imageUrl": "./assets/covers/everybody-1-2-switch.webp",
     "tried": [
       {
         "id": "ARGTA",
@@ -510,7 +510,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-amazon-indicada",
-    "imageUrl": "https://m.media-amazon.com/images/I/71aIXc9QbhL._AC_SL1500_.jpg",
+    "imageUrl": "./assets/covers/formula-legends.webp",
     "tried": []
   },
   {
@@ -520,7 +520,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://images.launchbox-app.com/8cbf8dfc-5c07-45e3-bbc7-8d18a661fba1.png",
+    "imageUrl": "./assets/covers/game-boy-nintendo-switch-online.webp",
     "tried": [
       {
         "id": "A97PA",
@@ -537,7 +537,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://images.launchbox-app.com/ebd96614-f63d-4d12-9b81-41a8d4a2c944.png",
+    "imageUrl": "./assets/covers/game-boy-advance-nintendo-switch-online.webp",
     "tried": [
       {
         "id": "ATJWD",
@@ -554,7 +554,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-pinterest-indicada",
-    "imageUrl": "https://i.pinimg.com/736x/93/25/a0/9325a0dcc42463f8edcfe22acd454801.jpg",
+    "imageUrl": "./assets/covers/ghosts-n-goblins-resurrection.webp",
     "tried": []
   },
   {
@@ -564,7 +564,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-componente-trilogia-nswvault",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/09/grand-theft-auto-san-andreas-the-definitive-edition.webp",
+    "imageUrl": "./assets/covers/grand-theft-auto-the-trilogy-the-definitive-edition.webp",
     "tried": []
   },
   {
@@ -574,7 +574,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fornecida-usuario",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2025/05/Grounded.webp",
+    "imageUrl": "./assets/covers/grounded.webp",
     "tried": []
   },
   {
@@ -584,7 +584,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AY9RA.png",
+    "imageUrl": "./assets/covers/hades.webp",
     "tried": []
   },
   {
@@ -594,7 +594,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nswvault-verificada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/09/hades-2.webp",
+    "imageUrl": "./assets/covers/hades-ii.webp",
     "tried": []
   },
   {
@@ -604,7 +604,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nswvault-verificada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/09/hello-kitty-island-adventure-deluxe-edition.webp",
+    "imageUrl": "./assets/covers/hello-kitty-island-adventure.webp",
     "tried": []
   },
   {
@@ -614,7 +614,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://variety.com/wp-content/uploads/2023/11/hogwarts-legacy-nintendo-switch-box-art.jpg",
+    "imageUrl": "./assets/covers/hogwarts-legacy.webp",
     "tried": [
       {
         "id": "AR3XA",
@@ -631,7 +631,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AKLHA.png",
+    "imageUrl": "./assets/covers/hollow-knight.webp",
     "tried": [
       {
         "id": "AKLHA",
@@ -648,7 +648,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://totalcards.net/cdn/shop/files/hollow-knight-silksong_grande.jpg?v=1711634597",
+    "imageUrl": "./assets/covers/hollow-knight-silksong.webp",
     "tried": [
       {
         "id": "AUSUA",
@@ -665,7 +665,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://s.pacn.ws/1/p/14l/horizon-chase-2-730843.7.jpg?v=rhgfm0",
+    "imageUrl": "./assets/covers/horizon-chase-2.webp",
     "tried": []
   },
   {
@@ -675,7 +675,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://media.gamestop.com/i/gamestop/11094683/Horizon-Chase-Turbo",
+    "imageUrl": "./assets/covers/horizon-chase-turbo.webp",
     "tried": []
   },
   {
@@ -685,7 +685,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-coolshop-pesquisada",
-    "imageUrl": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/23N7GC/2f7edd5-b41a4e69879075e6c8b5f97c.png/f/hot-wheels-monster-trucks-stunt-mayhem.png?borderless=1&height=484&transparent=1",
+    "imageUrl": "./assets/covers/hot-wheels-monster-trucks-stunt-mayhem.webp",
     "tried": []
   },
   {
@@ -695,7 +695,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fornecida-usuario",
-    "imageUrl": "https://m.media-amazon.com/images/I/81J7KuOrI1L.jpg",
+    "imageUrl": "./assets/covers/hot-wheels-unleashed.webp",
     "tried": []
   },
   {
@@ -705,7 +705,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-wog-indicada",
-    "imageUrl": "https://www.wog.ch/nas/cover_xl/sw/sw_hotwheelsunleashed2turbochargedciab.jpg",
+    "imageUrl": "./assets/covers/hot-wheels-unleashed-2-turbocharged.webp",
     "tried": []
   },
   {
@@ -715,7 +715,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AXEAB.png",
+    "imageUrl": "./assets/covers/hyrule-warriors-age-of-calamity.webp",
     "tried": [
       {
         "id": "AXEAB",
@@ -732,7 +732,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AU84A.png",
+    "imageUrl": "./assets/covers/immortals-fenyx-rising.webp",
     "tried": [
       {
         "id": "AU84A",
@@ -749,7 +749,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nswvault-verificada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/10/inside.webp",
+    "imageUrl": "./assets/covers/inside.webp",
     "tried": []
   },
   {
@@ -759,7 +759,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A7GST.png",
+    "imageUrl": "./assets/covers/it-takes-two.webp",
     "tried": [
       {
         "id": "A7GST",
@@ -776,7 +776,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fornecida-usuario",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/03/Just-Dance-2025-Edition-Custom-Offline-JD-Minus.png",
+    "imageUrl": "./assets/covers/just-dance-2025-plus.webp",
     "tried": []
   },
   {
@@ -786,7 +786,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AVEDA.png",
+    "imageUrl": "./assets/covers/kaze-and-the-wild-masks.webp",
     "tried": []
   },
   {
@@ -796,7 +796,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ARZGA.png",
+    "imageUrl": "./assets/covers/kirby-and-the-forgotten-land.webp",
     "tried": []
   },
   {
@@ -806,7 +806,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ANW7A.png",
+    "imageUrl": "./assets/covers/lego-dc-super-villains.webp",
     "tried": [
       {
         "id": "ANW7A",
@@ -823,7 +823,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AQPZA.png",
+    "imageUrl": "./assets/covers/lego-harry-potter-collection.webp",
     "tried": [
       {
         "id": "AQPZA",
@@ -840,7 +840,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://m.media-amazon.com/images/I/81MtfFqZWKL._AC_SY741_.jpg",
+    "imageUrl": "./assets/covers/lego-horizon-adventures.webp",
     "tried": [
       {
         "id": "BFESA",
@@ -857,7 +857,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AUM9A.png",
+    "imageUrl": "./assets/covers/lego-jurassic-world.webp",
     "tried": [
       {
         "id": "AUM9A",
@@ -874,7 +874,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://m.media-amazon.com/images/I/618TWZNbUtL._AC_SY741_.jpg",
+    "imageUrl": "./assets/covers/lego-marvel-super-heroes.webp",
     "tried": [
       {
         "id": "AEANA",
@@ -891,7 +891,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AEANA.png",
+    "imageUrl": "./assets/covers/lego-marvel-super-heroes-2.webp",
     "tried": [
       {
         "id": "AEANA",
@@ -908,7 +908,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AB4JA.png",
+    "imageUrl": "./assets/covers/lego-ninjago-movie-video-game.webp",
     "tried": [
       {
         "id": "AJJ7A",
@@ -925,7 +925,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://m.media-amazon.com/images/I/81BJNaACs3L._AC_SY500_.jpg",
+    "imageUrl": "./assets/covers/lego-party.webp",
     "tried": [
       {
         "id": "BPRGA",
@@ -942,7 +942,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ATHJA.png",
+    "imageUrl": "./assets/covers/lego-star-wars-the-skywalker-saga.webp",
     "tried": []
   },
   {
@@ -952,7 +952,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fornecida-usuario",
-    "imageUrl": "https://m.media-amazon.com/images/I/71Hj46a90nL.jpg",
+    "imageUrl": "./assets/covers/let-s-sing-2025.webp",
     "tried": []
   },
   {
@@ -972,7 +972,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fornecida-usuario",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/03/little-nightmers-complete-edition.webp",
+    "imageUrl": "./assets/covers/little-nightmares.webp",
     "tried": []
   },
   {
@@ -982,7 +982,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AU56A.png",
+    "imageUrl": "./assets/covers/little-nightmares-2.webp",
     "tried": []
   },
   {
@@ -992,7 +992,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nswvault-indicada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2025/10/Little-Nightmares-III.png",
+    "imageUrl": "./assets/covers/little-nightmares-iii.webp",
     "tried": []
   },
   {
@@ -1002,7 +1002,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AG3JA.png",
+    "imageUrl": "./assets/covers/luigis-mansion-3.webp",
     "tried": [
       {
         "id": "AG3JA",
@@ -1019,7 +1019,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/BANRA.png",
+    "imageUrl": "./assets/covers/luigis-mansion-2-hd.webp",
     "tried": [
       {
         "id": "BANRA",
@@ -1036,7 +1036,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A8E6A.png",
+    "imageUrl": "./assets/covers/mario-luigi-brothership.webp",
     "tried": [
       {
         "id": "A8E6A",
@@ -1053,7 +1053,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AT9HA.png",
+    "imageUrl": "./assets/covers/mario-golf-super-rush.webp",
     "tried": []
   },
   {
@@ -1063,7 +1063,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AABPA.png",
+    "imageUrl": "./assets/covers/mario-kart-8-deluxe.webp",
     "tried": [
       {
         "id": "AABPA",
@@ -1080,7 +1080,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AWN6A.png",
+    "imageUrl": "./assets/covers/mario-strikers-battle-league.webp",
     "tried": [
       {
         "id": "AWN6A",
@@ -1097,7 +1097,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ALERA.png",
+    "imageUrl": "./assets/covers/mario-tennis-aces.webp",
     "tried": [
       {
         "id": "ALERA",
@@ -1114,7 +1114,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nswvault-indicada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2025/12/Mario_vs._Donkey_Kong.webp",
+    "imageUrl": "./assets/covers/mario-vs-donkey-kong.webp",
     "tried": []
   },
   {
@@ -1124,7 +1124,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fornecida-usuario",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/06/marvel-ultimate-alliance-3-the-black-order-720x1166.webp",
+    "imageUrl": "./assets/covers/marvel-ultimate-alliance-3-the-black-order-dlc.webp",
     "tried": []
   },
   {
@@ -1134,7 +1134,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nswvault-indicada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/05/marvel-vs-capcom-fighting-collection-arcade-classics.webp",
+    "imageUrl": "./assets/covers/marvel-vs-capcom-fighting-collection-arcade-classics.webp",
     "tried": []
   },
   {
@@ -1144,7 +1144,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ALGCA.png",
+    "imageUrl": "./assets/covers/mega-man-11.webp",
     "tried": [
       {
         "id": "ALGCA",
@@ -1161,7 +1161,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-pacote-indicada",
-    "imageUrl": "https://gameline.ph/cdn/shop/products/MMLC_625x625.png?",
+    "imageUrl": "./assets/covers/mega-man-legacy-collection-1-2.webp",
     "tried": []
   },
   {
@@ -1171,7 +1171,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-gamegames-equivalente",
-    "imageUrl": "https://cdn.awsli.com.br/2500x2500/53/53761/produto/29705747/215675e9d5.jpg",
+    "imageUrl": "./assets/covers/mega-man-x-legacy-collection-1-2.webp",
     "tried": []
   },
   {
@@ -1181,7 +1181,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AS4UA.png",
+    "imageUrl": "./assets/covers/mega-man-zero-zx-legacy-collection.webp",
     "tried": [
       {
         "id": "AS4UA",
@@ -1198,7 +1198,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AYL8A.png",
+    "imageUrl": "./assets/covers/metroid-dread.webp",
     "tried": [
       {
         "id": "AYL8A",
@@ -1215,7 +1215,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nswvault-indicada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/05/metroid-prime-4-beyond.webp",
+    "imageUrl": "./assets/covers/metroid-prime-4-beyond.webp",
     "tried": []
   },
   {
@@ -1225,7 +1225,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A3SDA.png",
+    "imageUrl": "./assets/covers/metroid-prime-remastered.webp",
     "tried": []
   },
   {
@@ -1235,7 +1235,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/BCK6A.png",
+    "imageUrl": "./assets/covers/mgs-master-collection-vol-1.webp",
     "tried": [
       {
         "id": "A7C4A",
@@ -1252,7 +1252,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-referencia",
-    "imageUrl": "https://down-br.img.susercontent.com/file/sg-11134201-7rauu-maiggmo4t6d2f7",
+    "imageUrl": "./assets/covers/mighty-morphin-power-rangers-rita-s-rewind.webp",
     "tried": []
   },
   {
@@ -1262,7 +1262,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AEUCA.png",
+    "imageUrl": "./assets/covers/minecraft.webp",
     "tried": [
       {
         "id": "AEUCA",
@@ -1279,7 +1279,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AZJ4A.png",
+    "imageUrl": "./assets/covers/minecraft-legends.webp",
     "tried": [
       {
         "id": "AZJ4A",
@@ -1296,7 +1296,7 @@
     "matchScore": 50,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/APFZA.png",
+    "imageUrl": "./assets/covers/minecraft-story-mode.webp",
     "tried": [
       {
         "id": "APFZA",
@@ -1313,7 +1313,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AXSEB.png",
+    "imageUrl": "./assets/covers/monster-hunter-rise.webp",
     "tried": [
       {
         "id": "AXSEA",
@@ -1336,7 +1336,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-amazon-indicada",
-    "imageUrl": "https://m.media-amazon.com/images/I/718kaYp-RxL.jpg",
+    "imageUrl": "./assets/covers/morbid-the-lords-of-ire.webp",
     "tried": []
   },
   {
@@ -1346,7 +1346,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A8WRA.png",
+    "imageUrl": "./assets/covers/mortal-kombat-1.webp",
     "tried": [
       {
         "id": "A8WRA",
@@ -1363,7 +1363,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-referencia",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ASADA.png",
+    "imageUrl": "./assets/covers/mortal-kombat-11.webp",
     "tried": []
   },
   {
@@ -1373,7 +1373,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://videogamesplus.ca/cdn/shop/files/VGP0023273_748x748.png?v=1753975914",
+    "imageUrl": "./assets/covers/mortal-kombat-legacy-kollection.webp",
     "tried": []
   },
   {
@@ -1383,7 +1383,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-frontal-referencia",
-    "imageUrl": "https://image.smythstoys.com/original/800/desktop/243686.jpg",
+    "imageUrl": "./assets/covers/my-sims-cozy-bundle.webp",
     "tried": []
   },
   {
@@ -1393,7 +1393,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-amazon-indicada",
-    "imageUrl": "https://m.media-amazon.com/images/I/71+TqQ142tL.jpg",
+    "imageUrl": "./assets/covers/my-universe-pet-clinic-cats-and-dogs.webp",
     "tried": []
   },
   {
@@ -1403,7 +1403,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AP3MA.png",
+    "imageUrl": "./assets/covers/namco-museum-arcade-pac.webp",
     "tried": []
   },
   {
@@ -1413,7 +1413,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-amazon-indicada",
-    "imageUrl": "https://m.media-amazon.com/images/I/81sM+uoww+L.jpg",
+    "imageUrl": "./assets/covers/namco-museum-archive-vol-1.webp",
     "tried": []
   },
   {
@@ -1423,7 +1423,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-amazon-indicada",
-    "imageUrl": "https://m.media-amazon.com/images/I/81AqlXDJUOL.jpg",
+    "imageUrl": "./assets/covers/namco-museum-archive-vol-2.webp",
     "tried": []
   },
   {
@@ -1433,7 +1433,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-mercadolivre-indicada",
-    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_723691-MLA99853450425_112025-F.webp",
+    "imageUrl": "./assets/covers/naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto.webp",
     "tried": []
   },
   {
@@ -1443,7 +1443,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nintendoeverything-indicada",
-    "imageUrl": "https://nintendoeverything.com/wp-content/uploads/naruto-shippuden-trilogy-boxart.jpg",
+    "imageUrl": "./assets/covers/naruto-shippuden-ultimate-ninja-storm-trilogy.webp",
     "tried": []
   },
   {
@@ -1453,7 +1453,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nswvault-indicada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/04/NARUTO-X-BORUTO-Ultimate-Ninja-STORM-CONNECTIONS.webp",
+    "imageUrl": "./assets/covers/naruto-x-boruto-ultimate-ninja-storm-connections.webp",
     "tried": []
   },
   {
@@ -1463,7 +1463,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AXVXA.png",
+    "imageUrl": "./assets/covers/need-for-speed-hot-pursuit-remastered.webp",
     "tried": []
   },
   {
@@ -1473,7 +1473,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ADALA.png",
+    "imageUrl": "./assets/covers/new-super-mario-bros-u-deluxe.webp",
     "tried": [
       {
         "id": "ADALA",
@@ -1490,7 +1490,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A532A.png",
+    "imageUrl": "./assets/covers/nier-automata-the-end-of-yorha-edition.webp",
     "tried": []
   },
   {
@@ -1500,7 +1500,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nswvault-verificada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2024/11/Nine-Sols-nsp.png",
+    "imageUrl": "./assets/covers/nine-sols.webp",
     "tried": []
   },
   {
@@ -1510,7 +1510,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-pacote-amazon",
-    "imageUrl": "https://m.media-amazon.com/images/I/614QOEZ8bLL._AC_SL1000_.jpg",
+    "imageUrl": "./assets/covers/ninja-gaiden-master-collection.webp",
     "tried": []
   },
   {
@@ -1520,7 +1520,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://images.launchbox-app.com//156e0020-699a-4dd6-b8be-bab2956715fb.png",
+    "imageUrl": "./assets/covers/nintendo-64-nintendo-switch-online.webp",
     "tried": [
       {
         "id": "AZ82A",
@@ -1537,7 +1537,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fornecida-usuario",
-    "imageUrl": "https://romsbr.com.br/capas/game-boy/nintendo-ntf2-test-cartridge.webp",
+    "imageUrl": "./assets/covers/nintendo-entertainment-system-nintendo-switch-online.webp",
     "tried": [
       {
         "id": "ARGTA",
@@ -1554,7 +1554,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AS8SA.png",
+    "imageUrl": "./assets/covers/nintendo-switch-sports.webp",
     "tried": [
       {
         "id": "AS8SA",
@@ -1571,7 +1571,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A82CA.png",
+    "imageUrl": "./assets/covers/nintendo-world-championships-nes-edition.webp",
     "tried": [
       {
         "id": "A82CA",
@@ -1588,7 +1588,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nswvault-indicada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/10/ori-and-the-blind-forest-definitive-edition-720x1178.webp",
+    "imageUrl": "./assets/covers/ori-and-the-blind-forest-definitive-edition.webp",
     "tried": []
   },
   {
@@ -1598,7 +1598,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AWAYB.png",
+    "imageUrl": "./assets/covers/ori-and-the-will-of-the-wisps.webp",
     "tried": []
   },
   {
@@ -1608,7 +1608,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ARUUA.png",
+    "imageUrl": "./assets/covers/paper-mario-the-origami-king.webp",
     "tried": [
       {
         "id": "ARUUA",
@@ -1625,7 +1625,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A9QDA.png",
+    "imageUrl": "./assets/covers/paper-mario-the-thousand-year-door.webp",
     "tried": [
       {
         "id": "A9QDA",
@@ -1642,7 +1642,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A42UC.png",
+    "imageUrl": "./assets/covers/persona-5-royal.webp",
     "tried": [
       {
         "id": "A42UC",
@@ -1659,7 +1659,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AX7QA.png",
+    "imageUrl": "./assets/covers/pokemon-brilliant-diamond.webp",
     "tried": [
       {
         "id": "AX7QA",
@@ -1676,7 +1676,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-pacote-nswvault",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/02/Pokemon-FireRed-and-LeafGreen-1.webp",
+    "imageUrl": "./assets/covers/pokemon-firered-and-leafgreen.webp",
     "tried": []
   },
   {
@@ -1686,7 +1686,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AW7KA.png",
+    "imageUrl": "./assets/covers/pokemon-legends-arceus.webp",
     "tried": [
       {
         "id": "AW7KA",
@@ -1703,7 +1703,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://m.media-amazon.com/images/I/61byd3OPF+L._AC_SL1000_.jpg",
+    "imageUrl": "./assets/covers/pokemon-legends-za.webp",
     "tried": [
       {
         "id": "AQRWA",
@@ -1720,7 +1720,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AQ42A.png",
+    "imageUrl": "./assets/covers/pokemon-mystery-dungeon-rescue-team-dx.webp",
     "tried": [
       {
         "id": "AQ42A",
@@ -1737,7 +1737,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://m.media-amazon.com/images/I/5185M4TDl+L.jpg",
+    "imageUrl": "./assets/covers/pokemon-quest.webp",
     "tried": [
       {
         "id": "ARMPB",
@@ -1754,7 +1754,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ALZXA.png",
+    "imageUrl": "./assets/covers/pokemon-scarlet.webp",
     "tried": [
       {
         "id": "ALZXA",
@@ -1771,7 +1771,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ALZBA.png",
+    "imageUrl": "./assets/covers/pokemon-shield.webp",
     "tried": [
       {
         "id": "ALZBA",
@@ -1788,7 +1788,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AX7RA.png",
+    "imageUrl": "./assets/covers/pokemon-shining-pearl.webp",
     "tried": [
       {
         "id": "AX7RA",
@@ -1805,7 +1805,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ALZAA.png",
+    "imageUrl": "./assets/covers/pokemon-sword.webp",
     "tried": [
       {
         "id": "ALZAA",
@@ -1822,7 +1822,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ALZYA.png",
+    "imageUrl": "./assets/covers/pokemon-violet.webp",
     "tried": [
       {
         "id": "A9CZA",
@@ -1845,7 +1845,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ADW3A.png",
+    "imageUrl": "./assets/covers/pokemon-lets-go-eevee.webp",
     "tried": [
       {
         "id": "ADW3A",
@@ -1862,7 +1862,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ADW2A.png",
+    "imageUrl": "./assets/covers/pokemon-lets-go-pikachu.webp",
     "tried": [
       {
         "id": "ADW2A",
@@ -1879,7 +1879,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/BAAYA.png",
+    "imageUrl": "./assets/covers/pokken-tournament-dx.webp",
     "tried": [
       {
         "id": "BAAYA",
@@ -1896,7 +1896,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AS39F.png",
+    "imageUrl": "./assets/covers/power-rangers-battle-for-the-grid.webp",
     "tried": []
   },
   {
@@ -1906,7 +1906,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-amazon-indicada",
-    "imageUrl": "https://m.media-amazon.com/images/I/81NlccH9nYL._AC_SL1500_.jpg",
+    "imageUrl": "./assets/covers/prince-of-persia-the-lost-crown.webp",
     "tried": []
   },
   {
@@ -1916,7 +1916,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nswvault-indicada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/02/rayman-30th-anniversary-edition.webp",
+    "imageUrl": "./assets/covers/rayman-30th-anniversary-edition.webp",
     "tried": []
   },
   {
@@ -1926,7 +1926,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ACVKA.png",
+    "imageUrl": "./assets/covers/rayman-legends-definitive-edition.webp",
     "tried": []
   },
   {
@@ -1936,7 +1936,7 @@
     "matchScore": 650,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/BAF2A.png",
+    "imageUrl": "./assets/covers/red-dead-redemption.webp",
     "tried": [
       {
         "id": "BAF2A",
@@ -1953,7 +1953,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://cdn.mobygames.com/covers/7588741-resident-evil-0-nintendo-switch-front-cover.png",
+    "imageUrl": "./assets/covers/resident-evil-0.webp",
     "tried": [
       {
         "id": "ANW7A",
@@ -1970,7 +1970,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-coolshop-code-in-box",
-    "imageUrl": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/23UM5P/031c86d11b374a1c8c3b1fb2d5cf0602.png/f/resident-evil-4-code-in-box.png",
+    "imageUrl": "./assets/covers/resident-evil-4.webp",
     "tried": []
   },
   {
@@ -1980,7 +1980,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nswvault-verificada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2025/11/resident-evil-5.webp",
+    "imageUrl": "./assets/covers/resident-evil-5.webp",
     "tried": []
   },
   {
@@ -1990,7 +1990,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-coolshop-code-in-box",
-    "imageUrl": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/23UM5V/5b49d35d47e54dcb81d8f856392c2050.png/f/resident-evil-6-code-in-box.png",
+    "imageUrl": "./assets/covers/resident-evil-6.webp",
     "tried": []
   },
   {
@@ -2000,7 +2000,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nswvault-verificada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2025/12/Resident_Evil_Revelations.webp",
+    "imageUrl": "./assets/covers/resident-evil-revelations.webp",
     "tried": []
   },
   {
@@ -2010,7 +2010,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nswvault-verificada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/01/Resident_Evil_Revelations_2.webp",
+    "imageUrl": "./assets/covers/resident-evil-revelations-2.webp",
     "tried": []
   },
   {
@@ -2020,7 +2020,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://images.launchbox-app.com//8b7f46f0-c134-4a86-a008-fa0c8944e4e2.png",
+    "imageUrl": "./assets/covers/sega-genesis-nintendo-switch-online.webp",
     "tried": [
       {
         "id": "APS6A",
@@ -2037,7 +2037,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/BBXAC.png",
+    "imageUrl": "./assets/covers/shin-megami-tensei-v.webp",
     "tried": [
       {
         "id": "AQ79A",
@@ -2054,7 +2054,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nswvault-verificada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2025/09/SHINOBI-Art-of-Vengeance-nsp.png",
+    "imageUrl": "./assets/covers/shinobi-art-of-vengeance.webp",
     "tried": []
   },
   {
@@ -2064,7 +2064,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://nswpedia.com/wp-content/uploads/2025/02/Ship-of-Harkinian-nsp-rom-300x489.png.webp",
+    "imageUrl": "./assets/covers/ship-of-harkinian-oot-native-port.webp",
     "tried": [
       {
         "id": "AUPMA",
@@ -2081,7 +2081,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A7XDA.png",
+    "imageUrl": "./assets/covers/sifu.webp",
     "tried": [
       {
         "id": "AH3YA",
@@ -2098,7 +2098,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ABD7C.png",
+    "imageUrl": "./assets/covers/sonic-mania.webp",
     "tried": [
       {
         "id": "AYQ7A",
@@ -2115,7 +2115,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://s.pacn.ws/1/p/1bd/852757.1.jpg",
+    "imageUrl": "./assets/covers/sonic-racing-cross-worlds.webp",
     "tried": [
       {
         "id": "BMQ7A",
@@ -2132,7 +2132,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A7YPB.png",
+    "imageUrl": "./assets/covers/sonic-superstars.webp",
     "tried": []
   },
   {
@@ -2142,7 +2142,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-jogo-base-nswvault",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2025/12/Splatoon-2.webp",
+    "imageUrl": "./assets/covers/splatoon-2-octo-expansion.webp",
     "tried": []
   },
   {
@@ -2152,7 +2152,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AV5JA.png",
+    "imageUrl": "./assets/covers/splatoon-3.webp",
     "tried": [
       {
         "id": "ATTVA",
@@ -2169,7 +2169,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A7G3A.png",
+    "imageUrl": "./assets/covers/sponge-bob-square-pants-the-cosmic-shake.webp",
     "tried": []
   },
   {
@@ -2179,7 +2179,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AWXEA.png",
+    "imageUrl": "./assets/covers/spongebob-squarepants-battle-for-bikini-bottom-rehydrated.webp",
     "tried": []
   },
   {
@@ -2189,7 +2189,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AK6JA.png",
+    "imageUrl": "./assets/covers/street-fighter-30th-anniversary-collection.webp",
     "tried": []
   },
   {
@@ -2199,7 +2199,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/EN/AWGWE.png",
+    "imageUrl": "./assets/covers/streets-of-rage-4.webp",
     "tried": [
       {
         "id": "BPEHA",
@@ -2216,7 +2216,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AAB8A.png",
+    "imageUrl": "./assets/covers/super-bomberman-r.webp",
     "tried": [
       {
         "id": "A3SYA",
@@ -2233,7 +2233,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://d5gag3xtge2og.cloudfront.net/producao/33882671/G/super-bomberman-r-2switch-.webp",
+    "imageUrl": "./assets/covers/super-bomberman-r2.webp",
     "tried": [
       {
         "id": "BAFSA",
@@ -2250,7 +2250,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nswvault-verificada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/10/super-dragon-ball-heroes-world-mission.webp",
+    "imageUrl": "./assets/covers/super-dragon-ball-heroes-world-mission.webp",
     "tried": []
   },
   {
@@ -2260,7 +2260,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AVP3A.png",
+    "imageUrl": "./assets/covers/super-mario-3d-all-stars.webp",
     "tried": [
       {
         "id": "A4UJA",
@@ -2277,7 +2277,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AUZPA.png",
+    "imageUrl": "./assets/covers/super-mario-3d-world-bowsers-fury.webp",
     "tried": [
       {
         "id": "AXS7A",
@@ -2294,7 +2294,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fornecida-usuario",
-    "imageUrl": "https://i.redd.it/zf74qzzfc1l51.png",
+    "imageUrl": "./assets/covers/super-mario-bros-35.webp",
     "tried": []
   },
   {
@@ -2304,7 +2304,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AQMXA.png",
+    "imageUrl": "./assets/covers/super-mario-bros-wonder.webp",
     "tried": [
       {
         "id": "AH97B",
@@ -2321,7 +2321,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://m.media-amazon.com/images/I/61tLkY3m0OL._AC_SL1000_.jpg",
+    "imageUrl": "./assets/covers/super-mario-galaxy-super-mario-galaxy-2.webp",
     "tried": [
       {
         "id": "ATPMB",
@@ -2338,7 +2338,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/BAAQA.png",
+    "imageUrl": "./assets/covers/super-mario-maker-2.webp",
     "tried": []
   },
   {
@@ -2348,7 +2348,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AAACA.png",
+    "imageUrl": "./assets/covers/super-mario-odyssey.webp",
     "tried": [
       {
         "id": "AQ3SC",
@@ -2365,7 +2365,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A7HLA.png?1740553860",
+    "imageUrl": "./assets/covers/super-mario-party-jamboree.webp",
     "tried": [
       {
         "id": "AY8KA",
@@ -2382,7 +2382,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/A8LUA.png?1700321690",
+    "imageUrl": "./assets/covers/super-mario-rpg.webp",
     "tried": [
       {
         "id": "A5GFA",
@@ -2399,7 +2399,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://images.launchbox-app.com//26f5f756-9706-47ec-9475-52c3514c5771.jpg",
+    "imageUrl": "./assets/covers/super-nintendo-entertainment-system-nintendo-switch-online.webp",
     "tried": [
       {
         "id": "AXUPA",
@@ -2416,7 +2416,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AAABA.png?1557350324",
+    "imageUrl": "./assets/covers/super-smash-bros-ultimate.webp",
     "tried": [
       {
         "id": "AEBNC",
@@ -2433,7 +2433,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://cybertronvideogames.com/cdn/shop/products/6510132_sd_615x.jpg",
+    "imageUrl": "./assets/covers/teenage-mutant-ninja-turtles-shredders-revenge.webp",
     "tried": [
       {
         "id": "AHWWB",
@@ -2450,7 +2450,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AF3CA.png?1558215298",
+    "imageUrl": "./assets/covers/the-elder-scrolls-v-skyrim.webp",
     "tried": [
       {
         "id": "ATPCA",
@@ -2467,7 +2467,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AAAAA.png",
+    "imageUrl": "./assets/covers/the-legend-of-zelda-breath-of-the-wild.webp",
     "tried": [
       {
         "id": "ARVHA",
@@ -2484,7 +2484,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/BDGEA.png",
+    "imageUrl": "./assets/covers/the-legend-of-zelda-echoes-of-wisdom.webp",
     "tried": [
       {
         "id": "BA2TA",
@@ -2501,7 +2501,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AR3NA.png",
+    "imageUrl": "./assets/covers/the-legend-of-zelda-links-awakening.webp",
     "tried": [
       {
         "id": "A28NA",
@@ -2518,7 +2518,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AZ89A.png",
+    "imageUrl": "./assets/covers/the-legend-of-zelda-skyward-sword-hd.webp",
     "tried": [
       {
         "id": "AZQQA",
@@ -2535,7 +2535,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AXN7A.png",
+    "imageUrl": "./assets/covers/the-legend-of-zelda-tears-of-the-kingdom.webp",
     "tried": [
       {
         "id": "AZTYA",
@@ -2552,7 +2552,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nswvault-verificada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/01/the-rogue-prince-of-persia.webp",
+    "imageUrl": "./assets/covers/the-rogue-prince-of-persia.webp",
     "tried": []
   },
   {
@@ -2562,7 +2562,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/JA/AURVL.png?1626434299",
+    "imageUrl": "./assets/covers/the-witcher-3-wild-hunt-complete-edition.webp",
     "tried": [
       {
         "id": "AK63B",
@@ -2579,7 +2579,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nswvault-verificada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/10/tomb-raider-definitive-edition.webp",
+    "imageUrl": "./assets/covers/tomb-raider-definitive-edition.webp",
     "tried": []
   },
   {
@@ -2589,7 +2589,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://m.media-amazon.com/images/I/81RkU10C5UL._AC_UF1000,1000_QL80_.jpg",
+    "imageUrl": "./assets/covers/tomb-raider-iiii-remastered.webp",
     "tried": [
       {
         "id": "BAAZA",
@@ -2606,7 +2606,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-nswvault-verificada",
-    "imageUrl": "https://nswvault.com/wp-content/uploads/2026/03/Tomodachi-Life-Living-the-Dream.webp",
+    "imageUrl": "./assets/covers/tomodachi-life-living-the-dream.webp",
     "tried": []
   },
   {
@@ -2616,7 +2616,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1916/a019a81275b09d55f7675b56ee18e2a4c380850a58c41625.jpg",
+    "imageUrl": "./assets/covers/top-racer-collection.webp",
     "tried": [
       {
         "id": "BCFBA",
@@ -2633,7 +2633,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-amazon-indicada",
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81T9bJ-XSDL._AC_UL600_SR600,600_.jpg",
+    "imageUrl": "./assets/covers/transformers-battlegrounds.webp",
     "tried": []
   },
   {
@@ -2643,7 +2643,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fornecida-usuario",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXuqbyJv_50oxv2GzqZGUgEC3mZEYw2e3_sssSKLWGUNT9F_a9QLhZ31g&s=10",
+    "imageUrl": "./assets/covers/transformers-earthspark-expedition.webp",
     "tried": []
   },
   {
@@ -2653,7 +2653,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-referencia",
-    "imageUrl": "https://www.bigw.com.au/medias/sys_master/images/images/h59/hf5/139604203241502.jpg",
+    "imageUrl": "./assets/covers/transformers-galactic-trials.webp",
     "tried": []
   },
   {
@@ -2663,7 +2663,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-smyths-indicada",
-    "imageUrl": "https://image.smythstoys.com/original/800/desktop/215824.webp",
+    "imageUrl": "./assets/covers/trial-rising.webp",
     "tried": []
   },
   {
@@ -2673,7 +2673,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://media.gamestop.com/i/gamestop/10143459/Ultra-Street-Fighter-II-The-Final-Challengers",
+    "imageUrl": "./assets/covers/ultra-street-fighter-ii-the-final-challengers.webp",
     "tried": [
       {
         "id": "AQGTA",
@@ -2690,7 +2690,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ASGGA.png",
+    "imageUrl": "./assets/covers/unravel-two.webp",
     "tried": []
   },
   {
@@ -2700,7 +2700,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-amazon-indicada",
-    "imageUrl": "https://m.media-amazon.com/images/I/71A-PdOFVmL._AC_SL1500_.jpg",
+    "imageUrl": "./assets/covers/wrc-10.webp",
     "tried": []
   },
   {
@@ -2710,7 +2710,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/52/Switch_XenobladeChroniclesDefinitiveEdition_boxart_01.png",
+    "imageUrl": "./assets/covers/xenoblade-chronicles-x-definitive-edition.webp",
     "tried": [
       {
         "id": "AUP7A",
@@ -2727,7 +2727,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-base",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/AEA2A.png",
+    "imageUrl": "./assets/covers/yoshi-s-crafted-world.webp",
     "tried": []
   },
   {
@@ -2737,7 +2737,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "normal",
-    "imageUrl": "https://art.gametdb.com/switch/box/US/ARVHA.png",
+    "imageUrl": "./assets/covers/youtube-oficial.webp",
     "tried": [
       {
         "id": "ARVHA",
