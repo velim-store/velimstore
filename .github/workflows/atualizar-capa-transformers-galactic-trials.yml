@@ -1,0 +1,104 @@
+name: Atualizar capa de Transformers Galactic Trials
+on:
+  push:
+    paths:
+      - '.github/workflows/atualizar-capa-transformers-galactic-trials.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-capa-transformers-galactic-trials
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Instalar dependencias
+        run: python -m pip install --quiet requests pillow
+      - name: Baixar imagem fornecida, reduzir para 1024 px e converter em WebP
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import io
+          import time
+          import hashlib
+          import requests
+          from PIL import Image, ImageOps
+
+          source = "https://omegagame.ru/upload/iblock/1b6/gmcarlaie5x1ctlb80fbws035aita9zo.png"
+          destination = Path("assets/covers/transformers-galactic-trials.webp")
+          if not destination.exists():
+              raise RuntimeError("Capa local atual nao encontrada; nenhuma modificacao foi feita")
+
+          headers = {
+              "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+              "Accept": "image/avif,image/webp,image/apng,image/*,*/*;q=0.8",
+              "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+              "Referer": "https://omegagame.ru/",
+          }
+          data = None
+          for attempt in range(3):
+              try:
+                  response = requests.get(source, headers=headers, timeout=(15, 35), allow_redirects=True)
+                  response.raise_for_status()
+                  raw = response.content
+                  if len(raw) < 200 or len(raw) > 20 * 1024 * 1024:
+                      raise ValueError("Resposta muito pequena ou maior que 20 MB")
+                  with Image.open(io.BytesIO(raw)) as image:
+                      image.verify()
+                  data = raw
+                  break
+              except Exception as exc:
+                  print(f"Tentativa {attempt+1}/3 falhou: {exc}", flush=True)
+                  if attempt < 2:
+                      time.sleep(3 * (attempt + 1))
+          if data is None:
+              raise RuntimeError("Nao foi possivel obter imagem valida do endereco fornecido. Capa anterior preservada.")
+
+          Image.MAX_IMAGE_PIXELS = 50_000_000
+          temp = destination.with_suffix(".new.webp")
+          try:
+              with Image.open(io.BytesIO(data)) as image:
+                  image.load()
+                  old_size = image.size
+                  if min(old_size) < 100:
+                      raise ValueError(f"Imagem pequena demais: {old_size}")
+                  image = ImageOps.exif_transpose(image)
+                  image.thumbnail((1024, 1024), Image.Resampling.LANCZOS)
+                  if "A" in image.getbands() or (image.mode == "P" and "transparency" in image.info):
+                      image = image.convert("RGBA")
+                  else:
+                      image = image.convert("RGB")
+                  image.save(temp, format="WEBP", quality=84, method=5)
+              with Image.open(temp) as check:
+                  check.verify()
+              with Image.open(temp) as check:
+                  if check.format != "WEBP" or max(check.size) > 1024:
+                      raise RuntimeError("WebP invalido ou maior que 1024 px")
+                  new_size = check.size
+              if temp.stat().st_size == 0:
+                  raise RuntimeError("WebP vazio")
+              temp.replace(destination)
+              print(f"VALIDADO: fonte={source}; original={old_size}; webp={new_size}; bytes={destination.stat().st_size}; sha256={hashlib.sha256(destination.read_bytes()).hexdigest()}")
+          finally:
+              temp.unlink(missing_ok=True)
+          PY
+      - name: Publicar apenas a nova capa local
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/covers/transformers-galactic-trials.webp
+          if ! git diff --cached --quiet; then
+            git commit -m "Substitui capa local Transformers Galactic Trials por imagem fornecida"
+            git push
+          else
+            echo "Imagem validada, sem diferenca em relacao ao arquivo existente."
+          fi
