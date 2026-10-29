@@ -350,15 +350,15 @@
       text-overflow: ellipsis;
       color: var(--text);
     }
-    /* Apenas mobile: nomes e tamanhos dos jogos com a mesma fonte de 10px. */
-    @media (max-width: 767px){
-      .name, .size{ font-size: 10px; }
-    }
-
     .size{
       font-size: 11px;
       color: var(--muted);
       font-weight: 650;
+    }
+
+    /* Mobile: tamanho igual para o nome e o espaço de cada jogo. */
+    @media (max-width: 767px){
+      .name, .size{ font-size: 9px; }
     }
 
     .badge{
