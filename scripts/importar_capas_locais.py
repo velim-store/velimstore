@@ -135,9 +135,24 @@ def process_one(item: dict) -> dict:
                           stored_bytes=path.stat().st_size,
                           sha256=hashlib.sha256(path.read_bytes()).hexdigest())
             return result
-        raw = fetch_image(url)
-        metadata = convert_image(raw, path)
-        result.update(status="downloaded", **metadata)
+        alternatives = [url]
+        if name == "Transformers Galactic Trials":
+            # Mesmo jogo e capa fisica: tentar GameTDB antes do host BIG W indisponivel.
+            alternatives = [
+                "https://art.gametdb.com/switch/box/US/A74GA.png",
+                "https://www.game.co.uk/images/imgzoom/92/92738291_xxl.jpg",
+                url,
+            ]
+        last_error = None
+        for candidate in alternatives:
+            try:
+                raw = fetch_image(candidate)
+                metadata = convert_image(raw, path)
+                result.update(status="downloaded", downloaded_from=candidate, **metadata)
+                return result
+            except Exception as exc:
+                last_error = exc
+        raise RuntimeError(f"Nenhuma fonte valida: {last_error}")
     except Exception as exc:
         result.update(status="failed", error=f"{type(exc).__name__}: {exc}"[:420])
     return result
