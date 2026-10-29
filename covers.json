@@ -2633,7 +2633,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-amazon-indicada",
-    "imageUrl": "./assets/covers/transformers-battlegrounds.webp",
+    "imageUrl": "./assets/covers/transformers-battlegrounds.webp?v=aba8a4b7e3",
     "tried": []
   },
   {
@@ -2653,7 +2653,7 @@
     "matchScore": 0,
     "region": "US",
     "quality": "capa-fisica-referencia",
-    "imageUrl": "./assets/covers/transformers-galactic-trials.webp?v=98b62cef",
+    "imageUrl": "./assets/covers/transformers-galactic-trials.webp?v=03256acf34",
     "tried": []
   },
   {
