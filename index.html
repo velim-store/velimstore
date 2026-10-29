@@ -350,6 +350,10 @@
       text-overflow: ellipsis;
       color: var(--text);
     }
+    /* Apenas mobile: nomes discretamente menores, sem alterar o desktop. */
+    @media (max-width: 767px){
+      .name{ font-size: 10px; }
+    }
 
     .size{
       font-size: 11px;
