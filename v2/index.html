@@ -657,12 +657,12 @@
     <div class="storage-indicator" aria-label="Ocupação do cartão de memória">
       <div class="storage-indicator-info">
         <span class="storage-card-label" id="storageCard">Cartão necessário: 64 GB</span>
-        <span class="storage-indicator-usage" id="storageUsage">0,00 / 58,00 GB úteis (0%)</span>
+        <span class="storage-indicator-usage" id="storageUsage">0,00 / 48,00 GB úteis (0%)</span>
       </div>
       <div class="storage-track" id="storageTrack" role="progressbar"
            aria-label="Ocupação estimada do cartão recomendado"
-           aria-valuemin="0" aria-valuemax="58" aria-valuenow="0"
-           aria-valuetext="0,00 GB de 58,00 GB úteis no cartão de 64 GB">
+           aria-valuemin="0" aria-valuemax="48" aria-valuenow="0"
+           aria-valuetext="0,00 GB de 48,00 GB úteis no cartão de 64 GB">
         <div class="storage-fill" id="storageFill"></div>
       </div>
     </div>
@@ -1000,11 +1000,11 @@
 
     // Ocupação e alerta de 90% usam os limites úteis (GB), não a capacidade nominal.
     const MEMORY_CARDS = [
-      {label:"64 GB", capacityGB:64, limitGB:58},
-      {label:"128 GB", capacityGB:128, limitGB:120},
-      {label:"256 GB", capacityGB:256, limitGB:248},
-      {label:"512 GB", capacityGB:512, limitGB:500},
-      {label:"1 TB", capacityGB:1024, limitGB:1000}
+      {label:"64 GB", capacityGB:64, limitGB:48},
+      {label:"128 GB", capacityGB:128, limitGB:110},
+      {label:"256 GB", capacityGB:256, limitGB:238},
+      {label:"512 GB", capacityGB:512, limitGB:490},
+      {label:"1 TB", capacityGB:1024, limitGB:990}
     ];
 
     function recommendedMemoryCard(totalGB){
